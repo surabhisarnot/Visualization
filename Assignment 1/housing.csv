@@ -1,0 +1,1334 @@
+LotArea,Neighborhood,BldgType,HouseStyle,OverallQual,Foundation,TotalBsmtSF,CentralAir,Electrical,GrLivArea,BedroomAbvGr,YrSold,SaleType,SaleCondition,SalePrice
+70761,Clear Creek,Single Family,1Story,7,Cinder Block,1533,Yes,SBrkr,1533,2,2006,Warranty Deed,Normal,280000
+63887,Edwards,Single Family,2Story,10,Poured Concrete ,6110,Yes,SBrkr,5642,3,2008,New,Partial,160000
+57200,Timber,Single Family,1Story,5,Cinder Block,747,Yes,SBrkr,1687,3,2010,Warranty Deed,Normal,160000
+53504,Stony Brook,Single Family,2Story,8,Poured Concrete ,1650,Yes,SBrkr,3279,4,2010,Warranty Deed,Normal,538000
+53227,Clear Creek,Single Family,1Story,4,Cinder Block,1364,Yes,SBrkr,1663,2,2008,Warranty Deed,Normal,256000
+53107,Clear Creek,Single Family,2Story,6,Poured Concrete ,1580,Yes,SBrkr,1953,3,2007,Warranty Deed,Normal,240000
+50271,Veenker,Single Family,1Story,9,Cinder Block,1842,Yes,SBrkr,1842,0,2006,Warranty Deed,Normal,385000
+46589,NoRidge,Single Family,2Story,8,Poured Concrete ,1629,Yes,SBrkr,2448,4,2009,Warranty Deed,Normal,402000
+45600,Clear Creek,Single Family,1.5Fin,6,Brick and Tile,907,Yes,SBrkr,2358,5,2008,Warranty Deed,Normal,240000
+40094,Edwards,Single Family,2Story,10,Poured Concrete ,3138,Yes,SBrkr,4676,3,2007,New,Partial,184750
+39104,Clear Creek,Single Family,1Story,7,Cinder Block,1385,Yes,SBrkr,1363,2,2008,Warranty Deed,Normal,241500
+36500,Clear Creek,Single Family,1Story,5,Cinder Block,1624,Yes,SBrkr,1582,4,2006,Warranty Deed,Normal,190000
+35760,NoRidge,Single Family,2Story,10,Poured Concrete ,1930,Yes,SBrkr,3627,4,2006,Warranty Deed,Normal,625000
+35133,Timber,Single Family,1Story,5,Cinder Block,1572,Yes,SBrkr,1572,3,2007,Warranty Deed,Normal,186700
+34650,Gilbert,Two Family,1Story,5,Cinder Block,1056,No,SBrkr,1056,3,2006,Warranty Deed,Normal,145000
+32668,Crawfor,Single Family,1Story,6,Poured Concrete ,2035,Yes,SBrkr,2515,4,2007,Warranty Deed,Within Family,200624
+32463,Mitchel,Two Family,1Story,4,Cinder Block,1249,Yes,SBrkr,1622,3,2007,Warranty Deed,Normal,168000
+31770,NAmes,Single Family,1Story,6,Cinder Block,1080,Yes,SBrkr,1656,3,2010,Warranty Deed,Normal,215000
+29959,NoRidge,Single Family,2Story,7,Poured Concrete ,973,Yes,SBrkr,1850,3,2009,Warranty Deed,Normal,248000
+28698,Clear Creek,Single Family,2Story,5,Poured Concrete ,1013,Yes,SBrkr,2126,3,2009,Warranty Deed,Force Closure,185000
+27650,NAmes,Single Family,1Story,7,Cinder Block,585,Yes,SBrkr,2069,4,2008,Warranty Deed,Normal,242000
+26178,Timber,Single Family,2Story,7,Poured Concrete ,1210,Yes,SBrkr,2519,4,2006,Warranty Deed,Normal,335000
+26142,Mitchel,Single Family,1Story,5,Cinder Block,1188,Yes,SBrkr,1188,3,2010,Warranty Deed,Normal,157900
+25419,NAmes,Single Family,2Story,8,Poured Concrete ,1360,Yes,SBrkr,3112,4,2006,Warranty Deed,Force Closure,235000
+25339,Sawyer,Single Family,1Story,5,Brick and Tile,816,Yes,SBrkr,1416,3,2007,Warranty Deed,Normal,112000
+25286,Mitchel,Single Family,1Story,4,Poured Concrete ,1064,Yes,SBrkr,1040,3,2007,Warranty Deed,Normal,132250
+25095,Clear Creek,Single Family,1Story,5,Cinder Block,1437,Yes,SBrkr,1473,1,2009,Warranty Deed,Partial,143000
+25000,Mitchel,Duplex,1Story,5,Cinder Block,1632,Yes,SBrkr,1632,4,2007,Warranty Deed,Normal,143000
+24682,Gilbert,Single Family,2Story,6,Poured Concrete ,841,Yes,SBrkr,1675,3,2009,Warranty Deed,Normal,181000
+24090,Clear Creek,Single Family,2Story,7,Cinder Block,1032,Yes,SBrkr,2403,4,2010,Contract,Normal,244400
+23595,Clear Creek,Single Family,1Story,7,Poured Concrete ,1332,Yes,SBrkr,1524,0,2010,Warranty Deed,Normal,260000
+23257,Gilbert,Single Family,2Story,7,Poured Concrete ,868,Yes,SBrkr,2021,3,2006,New,Partial,274725
+22950,OldTown,Single Family,2.5Fin,10,Brick and Tile,1107,Yes,SBrkr,3608,4,2006,Warranty Deed,Normal,475000
+22420,Crawfor,Single Family,2Story,6,Brick and Tile,1370,No,FuseA,2624,4,2007,Warranty Deed,Normal,239000
+21930,Gilbert,Single Family,2Story,5,Poured Concrete ,732,Yes,SBrkr,1838,4,2006,Warranty Deed,Normal,192140
+21872,Gilbert,Single Family,2Story,7,Poured Concrete ,729,Yes,SBrkr,1446,3,2008,Warranty Deed,Normal,175000
+21780,Edwards,Single Family,1.5Fin,6,Brick and Tile,1163,Yes,SBrkr,1674,4,2008,Warranty Deed,Normal,185000
+21750,Mitchel,Single Family,1Story,5,Cinder Block,988,Yes,FuseA,988,2,2008,Warranty Deed,Normal,113000
+21750,Mitchel,Single Family,1Story,5,Slab,0,Yes,SBrkr,1771,3,2009,Warranty Deed,Normal,115000
+21695,Crawfor,Single Family,1Story,6,Cinder Block,880,Yes,SBrkr,1680,3,2009,Warranty Deed,Normal,222000
+21535,NoRidge,Single Family,2Story,10,Poured Concrete ,2444,Yes,SBrkr,4316,4,2007,Warranty Deed,Normal,755000
+21453,Clear Creek,Single Family,SFlat,6,Cinder Block,938,Yes,SBrkr,988,1,2006,Warranty Deed,Normal,180000
+21384,Brookside,Single Family,2Story,5,Cinder Block,1324,Yes,SBrkr,1576,3,2009,Warranty Deed,Normal,223500
+21286,Sawyer,Single Family,1.5Fin,5,Cinder Block,720,Yes,SBrkr,1271,4,2008,Warranty Deed,Normal,135000
+21000,Crawfor,Single Family,1Story,6,Cinder Block,1809,Yes,SBrkr,2259,3,2007,Contract,Force Closure,217000
+20896,Somerst,Single Family,1Story,8,Poured Concrete ,2077,Yes,SBrkr,2097,1,2006,New,Partial,423000
+20781,NWAmes,Single Family,1Story,7,Cinder Block,1568,Yes,SBrkr,2156,3,2006,Warranty Deed,Normal,262500
+20544,NWAmes,Single Family,2Story,7,Cinder Block,791,Yes,SBrkr,2093,3,2008,Warranty Deed,Normal,215000
+20431,NridgHt,Single Family,2Story,9,Poured Concrete ,1848,Yes,SBrkr,2728,4,2006,New,Partial,437154
+19900,NAmes,Single Family,1Story,7,Cinder Block,1947,Yes,SBrkr,2207,3,2010,Warranty Deed,Normal,180000
+19690,Edwards,Single Family,SFlat,6,Cinder Block,697,Yes,SBrkr,2201,4,2006,Warranty Deed,Within Family,274970
+19378,Gilbert,Single Family,2Story,7,Poured Concrete ,1392,Yes,SBrkr,2462,4,2006,New,Partial,320000
+19296,NAmes,Single Family,SFlat,6,Cinder Block,1362,Yes,SBrkr,1382,3,2009,Warranty Deed,Normal,176000
+19138,Gilbert,Single Family,1Story,4,Cinder Block,864,Yes,SBrkr,864,2,2010,Warranty Deed,Normal,141000
+18890,Sawyer,Duplex,1.5Fin,5,Cinder Block,1361,Yes,SBrkr,2620,4,2007,Warranty Deed,Normal,190000
+18800,NWAmes,Single Family,2Story,6,Poured Concrete ,796,Yes,SBrkr,1574,3,2006,Warranty Deed,Normal,190000
+18450,NAmes,Single Family,2Story,6,Cinder Block,1021,Yes,SBrkr,2380,3,2007,Warranty Deed,Force Closure,129000
+18386,OldTown,Single Family,2.5Fin,7,Brick and Tile,1470,Yes,SBrkr,3493,3,2008,Warranty Deed,Normal,295000
+18030,Clear Creek,Single Family,1.5Fin,5,Cinder Block,1598,Yes,SBrkr,3086,3,2007,Warranty Deed,Normal,200500
+18000,IDOTRR,Single Family,1Story,3,Cinder Block,894,Yes,SBrkr,894,2,2008,Contract Low Down,Normal,81000
+17920,Sawyer,Single Family,1Story,5,Cinder Block,1763,Yes,SBrkr,1779,3,2006,Warranty Deed,Force Closure,170000
+17871,NWAmes,Single Family,SFlat,6,Cinder Block,1680,Yes,SBrkr,1724,3,2009,Warranty Deed,Normal,197900
+17755,Edwards,Single Family,1Story,5,Cinder Block,1466,Yes,SBrkr,1466,3,2006,Warranty Deed,Normal,149900
+17671,OldTown,Single Family,2Story,8,Brick and Tile,916,Yes,SBrkr,1742,4,2009,Warranty Deed,Normal,168000
+17600,NAmes,Single Family,1Story,6,Cinder Block,1478,Yes,FuseA,1478,3,2009,Warranty Deed,Normal,157500
+17542,Veenker,Single Family,2Story,7,Cinder Block,1192,Yes,SBrkr,2167,3,2007,Warranty Deed,Normal,294000
+17503,NAmes,Single Family,1.5Fin,6,Cinder Block,912,Yes,SBrkr,1458,3,2010,Warranty Deed,Force Closure,97500
+17500,Crawfor,Single Family,1Story,7,Poured Concrete ,1902,Yes,SBrkr,1902,3,2010,Warranty Deed,Normal,335000
+17423,Stony Brook,Single Family,1Story,9,Poured Concrete ,2216,Yes,SBrkr,2234,1,2009,New,Partial,501837
+17400,Mitchel,Single Family,1Story,5,Cinder Block,1126,Yes,SBrkr,1126,3,2006,Warranty Deed,Normal,160000
+17217,Mitchel,Single Family,1Story,5,Poured Concrete ,1140,Yes,SBrkr,1140,3,2006,Warranty Deed,Force Closure,84500
+17140,Edwards,Single Family,1Story,4,Cinder Block,1134,Yes,FuseA,1229,3,2009,Warranty Deed,Normal,135000
+17120,Clear Creek,Single Family,1.5Fin,4,Cinder Block,0,Yes,SBrkr,1588,4,2008,Warranty Deed,Normal,134432
+17104,Gilbert,Single Family,2Story,7,Poured Concrete ,654,Yes,SBrkr,1496,3,2006,New,Partial,179665
+17043,NWAmes,Single Family,1Story,6,Cinder Block,1362,Yes,SBrkr,1586,3,2009,Warranty Deed,Normal,181000
+16905,Timber,Single Family,1Story,5,Cinder Block,1350,Yes,SBrkr,1328,2,2007,Warranty Deed,Normal,170000
+16770,NoRidge,Single Family,2Story,7,Poured Concrete ,1195,Yes,SBrkr,1839,4,2010,Warranty Deed,Normal,221000
+16737,NridgHt,Single Family,1Story,9,Poured Concrete ,1980,Yes,SBrkr,1980,3,2006,Warranty Deed,Normal,315000
+16692,NWAmes,Single Family,2Story,7,Cinder Block,1392,Yes,SBrkr,2784,5,2006,Warranty Deed,Normal,250000
+16669,Timber,Single Family,1Story,8,Cinder Block,1686,Yes,SBrkr,1707,2,2006,Warranty Deed,Normal,228000
+16659,NWAmes,Single Family,2Story,7,Cinder Block,795,Yes,SBrkr,2263,3,2006,Warranty Deed,Normal,235000
+16647,Sawyer,Single Family,SFoyer,5,Cinder Block,1390,Yes,SBrkr,1701,3,2007,Warranty Deed,Normal,171000
+16635,NWAmes,Single Family,1Story,6,Cinder Block,1602,Yes,SBrkr,1602,3,2009,Warranty Deed,Normal,215000
+16560,Crawfor,Single Family,2Story,6,Brick and Tile,952,Yes,SBrkr,2345,4,2006,Warranty Deed,Normal,239000
+16545,NoRidge,Single Family,2Story,8,Poured Concrete ,1284,Yes,SBrkr,2450,3,2009,Warranty Deed,Normal,340000
+16492,NAmes,Single Family,1Story,6,Cinder Block,1517,Yes,SBrkr,1888,2,2010,Warranty Deed,Normal,190000
+16466,Edwards,Single Family,1.5Fin,5,Poured Concrete ,816,Yes,SBrkr,1393,3,2008,Warranty Deed,Normal,135500
+16381,Crawfor,Single Family,1Story,6,Cinder Block,1844,Yes,SBrkr,1844,3,2006,Warranty Deed,Normal,223000
+16321,NAmes,Single Family,1Story,5,Cinder Block,1484,Yes,SBrkr,1600,2,2006,Warranty Deed,Normal,207500
+16285,CollgCr,Single Family,1Story,7,Poured Concrete ,1413,Yes,SBrkr,1430,3,2009,Warranty Deed,Normal,187100
+16259,NridgHt,Single Family,2Story,9,Poured Concrete ,1249,Yes,SBrkr,2596,4,2006,New,Partial,342643
+16226,CollgCr,Single Family,2Story,8,Poured Concrete ,1028,Yes,SBrkr,2452,4,2007,Warranty Deed,Normal,267000
+16196,SawyerW,Single Family,1Story,7,Poured Concrete ,1482,Yes,SBrkr,1494,3,2007,Warranty Deed,Normal,215000
+16158,Stony Brook,Single Family,1Story,7,Poured Concrete ,1530,Yes,SBrkr,1530,3,2009,Warranty Deed,Normal,260000
+16157,Veenker,Single Family,SFlat,5,Poured Concrete ,1360,Yes,SBrkr,1432,2,2007,Warranty Deed,Normal,194000
+16059,NoRidge,Single Family,2Story,8,Cinder Block,1288,Yes,SBrkr,2417,4,2006,Warranty Deed,Normal,260000
+16056,Stony Brook,Single Family,2Story,9,Poured Concrete ,1992,Yes,SBrkr,2868,4,2006,New,Partial,556581
+16033,NridgHt,Single Family,1Story,9,Poured Concrete ,1833,Yes,SBrkr,1850,3,2006,Warranty Deed,Normal,326000
+15870,NAmes,Single Family,1Story,5,Cinder Block,1096,Yes,SBrkr,1096,3,2006,Warranty Deed,Force Closure,138800
+15865,NAmes,Single Family,1Story,8,Poured Concrete ,2217,Yes,SBrkr,2217,4,2007,Warranty Deed,Normal,268000
+15863,SWISU,Single Family,2.5Fin,7,Brick and Tile,824,Yes,SBrkr,3082,5,2009,Warranty Deed,Normal,197000
+15750,Crawfor,Two Family,1Story,5,Cinder Block,1165,Yes,SBrkr,1336,2,2006,Warranty Deed,Normal,157000
+15660,Crawfor,Single Family,1.5Fin,7,Cinder Block,798,Yes,SBrkr,1954,3,2008,Warranty Deed,Normal,311500
+15623,NoRidge,Single Family,2Story,10,Poured Concrete ,2396,Yes,SBrkr,4476,4,2007,Warranty Deed,Force Closure,745000
+15611,CollgCr,Single Family,2Story,8,Poured Concrete ,1079,Yes,SBrkr,1919,3,2006,New,Partial,233230
+15611,NWAmes,Single Family,1Story,5,Poured Concrete ,1126,Yes,SBrkr,1126,3,2008,Warranty Deed,Force Closure,175000
+15602,Crawfor,Single Family,1Story,7,Cinder Block,1501,Yes,SBrkr,1801,1,2010,Warranty Deed,Normal,289000
+15593,Clear Creek,Single Family,1.5Fin,7,Cinder Block,1304,Yes,SBrkr,2287,3,2006,Warranty Deed,Normal,225000
+15578,Gilbert,Single Family,2Story,6,Poured Concrete ,728,Yes,SBrkr,1456,3,2006,New,Partial,172785
+15576,Crawfor,Single Family,2Story,6,Brick and Tile,840,Yes,SBrkr,1680,4,2008,Warranty Deed,Normal,177000
+15523,CollgCr,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,864,3,2009,Warranty Deed,Normal,133500
+15498,Timber,Single Family,1Story,8,Cinder Block,1565,Yes,SBrkr,2898,2,2008,Contract,Force Closure,287000
+15431,NridgHt,Single Family,1Story,10,Poured Concrete ,3094,Yes,SBrkr,2402,2,2009,Warranty Deed,Normal,555000
+15426,CollgCr,Single Family,2Story,6,Poured Concrete ,928,Yes,SBrkr,1764,3,2009,Warranty Deed,Normal,231500
+15384,Gilbert,Single Family,2Story,7,Poured Concrete ,788,Yes,SBrkr,1490,3,2008,Warranty Deed,Normal,184000
+15306,Timber,Single Family,1Story,8,Poured Concrete ,1732,Yes,SBrkr,1776,3,2007,New,Partial,283463
+15256,Somerst,Single Family,1Story,8,Poured Concrete ,1485,Yes,SBrkr,1464,3,2007,Warranty Deed,Normal,282922
+15138,NoRidge,Single Family,2Story,8,Poured Concrete ,1462,Yes,SBrkr,2794,4,2009,Warranty Deed,Normal,403000
+14977,NridgHt,Single Family,1Story,8,Poured Concrete ,1976,Yes,SBrkr,1976,2,2007,New,Partial,440000
+14963,Veenker,Townhouse,1Story,8,Poured Concrete ,1260,Yes,SBrkr,1288,1,2008,Warranty Deed,Normal,245500
+14948,NridgHt,Single Family,2Story,9,Poured Concrete ,1452,Yes,SBrkr,2713,3,2008,New,Partial,446261
+14892,Gilbert,Single Family,1Story,9,Poured Concrete ,1746,Yes,SBrkr,1746,3,2009,Warranty Deed,Normal,377500
+14859,Gilbert,Single Family,1Story,7,Poured Concrete ,1670,Yes,SBrkr,1670,3,2006,New,Partial,240000
+14850,NAmes,Single Family,1Story,5,Cinder Block,1092,Yes,FuseA,1092,2,2006,Warranty Deed,Normal,141000
+14803,NWAmes,Single Family,2Story,6,Cinder Block,825,Yes,SBrkr,1993,4,2006,Warranty Deed,Normal,190000
+14803,NridgHt,Single Family,1Story,10,Poured Concrete ,2078,Yes,SBrkr,2084,2,2008,New,Partial,385000
+14781,CollgCr,Single Family,1Story,8,Poured Concrete ,1753,Yes,SBrkr,1787,3,2006,Warranty Deed,Normal,275000
+14778,Crawfor,Single Family,1Story,6,Cinder Block,1296,Yes,SBrkr,1640,3,2008,Warranty Deed,Normal,224000
+14774,NoRidge,Single Family,2Story,9,Poured Concrete ,1393,Yes,SBrkr,2599,4,2010,Warranty Deed,Normal,333168
+14762,Gilbert,Single Family,2Story,5,Slab,0,Yes,SBrkr,2320,2,2006,Warranty Deed,Normal,169000
+14720,NoRidge,Single Family,1.5Fin,8,Poured Concrete ,2033,Yes,SBrkr,3238,4,2010,Warranty Deed,Normal,410000
+14684,SawyerW,Single Family,1Story,7,Cinder Block,2158,Yes,SBrkr,2196,3,2009,Warranty Deed,Normal,271900
+14601,Timber,Single Family,1Story,9,Poured Concrete ,1838,Yes,SBrkr,1838,2,2009,Warranty Deed,Normal,315000
+14598,Somerst,Single Family,2Story,6,Poured Concrete ,894,Yes,SBrkr,1933,4,2008,Warranty Deed,Normal,214000
+14587,Somerst,Single Family,1Story,9,Poured Concrete ,1498,Yes,SBrkr,1506,2,2008,New,Partial,264132
+14585,NAmes,Single Family,1Story,6,Cinder Block,1144,Yes,SBrkr,1429,3,2007,Warranty Deed,Normal,181900
+14572,Gilbert,Single Family,1Story,7,Poured Concrete ,1530,Yes,SBrkr,1530,3,2007,Warranty Deed,Within Family,259000
+14559,NAmes,Single Family,1Story,5,Cinder Block,1008,Yes,SBrkr,1363,2,2009,Warranty Deed,Normal,164900
+14541,NoRidge,Single Family,2Story,8,Poured Concrete ,1338,Yes,SBrkr,2520,5,2006,Warranty Deed,Force Closure,310000
+14536,Timber,Single Family,1Story,8,Poured Concrete ,1616,Yes,SBrkr,1629,3,2007,Warranty Deed,Normal,270000
+14450,NridgHt,Single Family,1Story,9,Poured Concrete ,2121,Yes,SBrkr,2121,3,2007,New,Partial,415298
+14442,Crawfor,Single Family,1Story,6,Poured Concrete ,1477,Yes,SBrkr,1839,3,2007,Warranty Deed,Normal,257500
+14375,Timber,Single Family,SFlat,6,Cinder Block,819,Yes,FuseA,1344,3,2009,Contract,Force Closure,137500
+14364,SawyerW,Single Family,2Story,7,Cinder Block,1157,Yes,SBrkr,2062,3,2007,Warranty Deed,Normal,277000
+14331,Timber,Single Family,1Story,8,Poured Concrete ,1800,Yes,SBrkr,1800,3,2006,Warranty Deed,Normal,312500
+14303,NoRidge,Single Family,1Story,8,Poured Concrete ,1986,Yes,SBrkr,1987,2,2008,Warranty Deed,Normal,301500
+14260,NoRidge,Single Family,2Story,8,Poured Concrete ,1145,Yes,SBrkr,2198,4,2008,Warranty Deed,Normal,250000
+14230,NridgHt,Single Family,1Story,8,Poured Concrete ,1566,Yes,SBrkr,1600,3,2009,Warranty Deed,Normal,256300
+14226,NridgHt,Single Family,1Story,8,Poured Concrete ,1935,Yes,SBrkr,1973,3,2007,New,Partial,395000
+14215,NridgHt,Single Family,2Story,8,Poured Concrete ,1158,Yes,SBrkr,2376,4,2006,New,Partial,325300
+14200,NAmes,Single Family,2Story,7,Cinder Block,924,Yes,SBrkr,2157,4,2006,Warranty Deed,Normal,226000
+14191,Timber,Single Family,2Story,8,Poured Concrete ,967,Yes,SBrkr,1908,4,2010,Warranty Deed,Normal,202900
+14175,Sawyer,Single Family,1Story,5,Cinder Block,1188,Yes,SBrkr,1437,3,2006,Warranty Deed,Normal,168000
+14157,Stony Brook,Single Family,1Story,9,Poured Concrete ,1922,Yes,SBrkr,1922,3,2007,Warranty Deed,Normal,377426
+14154,NridgHt,Single Family,2Story,7,Poured Concrete ,1063,Yes,SBrkr,2172,3,2007,New,Partial,280000
+14145,NWAmes,Single Family,1Story,7,Cinder Block,1208,Yes,SBrkr,1621,3,2006,Warranty Deed,Normal,202500
+14115,Mitchel,Single Family,1.5Fin,5,Wood,796,Yes,SBrkr,1362,1,2009,Warranty Deed,Normal,143000
+14115,NWAmes,Single Family,SFlat,7,Cinder Block,1372,Yes,SBrkr,1472,3,2009,Warranty Deed,Normal,187500
+14115,Crawfor,Single Family,1Story,6,Poured Concrete ,1073,Yes,SBrkr,1811,2,2006,Warranty Deed,Force Closure,230000
+14112,NAmes,Single Family,SFlat,5,Poured Concrete ,1152,Yes,SBrkr,1152,3,2010,Warranty Deed,Normal,180500
+14100,Crawfor,Single Family,1.5Fin,8,Cinder Block,728,Yes,SBrkr,3447,4,2008,Warranty Deed,Normal,381000
+14054,Gilbert,Single Family,2Story,7,Poured Concrete ,879,Yes,SBrkr,1863,4,2006,New,Partial,219210
+14006,CollgCr,Single Family,2Story,7,Poured Concrete ,936,Yes,SBrkr,1776,3,2006,Warranty Deed,Normal,192500
+14000,Crawfor,Single Family,1Story,6,Cinder Block,1092,Yes,SBrkr,1152,3,2009,Warranty Deed,Within Family,158500
+14000,Clear Creek,Single Family,2Story,7,Poured Concrete ,1306,Yes,SBrkr,2260,3,2010,Warranty Deed,Normal,328000
+13907,Edwards,Single Family,1Story,5,Cinder Block,996,Yes,SBrkr,996,3,2008,Warranty Deed,Normal,108000
+13891,NridgHt,Single Family,1Story,8,Poured Concrete ,1710,Yes,SBrkr,1710,2,2008,New,Partial,372402
+13891,NridgHt,Single Family,2Story,9,Poured Concrete ,1734,Yes,SBrkr,2822,4,2009,New,Partial,582933
+13891,NridgHt,Single Family,1Story,10,Poured Concrete ,2076,Yes,SBrkr,2076,2,2006,New,Partial,465000
+13869,Gilbert,Single Family,2Story,6,Poured Concrete ,794,Yes,SBrkr,1470,3,2007,Warranty Deed,Normal,177000
+13860,NAmes,Single Family,SFlat,8,Cinder Block,1952,Yes,SBrkr,2704,4,2009,Warranty Deed,Normal,345000
+13837,NWAmes,Single Family,1.5Fin,7,Poured Concrete ,1204,Yes,SBrkr,2183,4,2006,Warranty Deed,Normal,229000
+13825,Sawyer,Single Family,SFlat,5,Cinder Block,533,Yes,SBrkr,1601,3,2008,Warranty Deed,Normal,140000
+13811,Timber,Single Family,1Story,6,Cinder Block,1112,Yes,SBrkr,1137,2,2006,Warranty Deed,Normal,176000
+13758,Timber,Single Family,1.5Fin,7,Cinder Block,1156,Yes,SBrkr,1717,3,2007,Warranty Deed,Normal,187500
+13728,Edwards,Single Family,2Story,6,Cinder Block,1127,Yes,SBrkr,2108,4,2008,Warranty Deed,Normal,235000
+13710,IDOTRR,Single Family,1.5Fin,5,Cinder Block,910,Yes,FuseA,1558,4,2007,Warranty Deed,Normal,152000
+13704,CollgCr,Single Family,1Story,7,Poured Concrete ,1541,Yes,SBrkr,1541,3,2006,Warranty Deed,Normal,205000
+13700,NAmes,Single Family,2Story,7,Cinder Block,864,Yes,SBrkr,1820,4,2008,Warranty Deed,Normal,201800
+13695,SawyerW,Single Family,1Story,5,Poured Concrete ,1114,Yes,SBrkr,1114,3,2008,Warranty Deed,Normal,159000
+13695,SawyerW,Single Family,1Story,6,Poured Concrete ,1114,Yes,SBrkr,1114,3,2008,Warranty Deed,Normal,155000
+13693,NridgHt,Single Family,2Story,9,Poured Concrete ,2153,Yes,SBrkr,2643,3,2007,Warranty Deed,Normal,380000
+13688,NridgHt,Single Family,2Story,9,Poured Concrete ,1572,Yes,SBrkr,2668,3,2008,Warranty Deed,Normal,412500
+13682,Stony Brook,Single Family,2Story,10,Poured Concrete ,1410,Yes,SBrkr,2945,3,2006,New,Partial,438780
+13680,Edwards,Single Family,1Story,3,Slab,0,Yes,FuseA,1733,4,2009,Warranty Deed,Normal,139600
+13673,Sawyer,Single Family,1Story,5,Cinder Block,1140,Yes,SBrkr,1696,3,2007,Warranty Deed,Normal,143900
+13651,NAmes,Single Family,1Story,7,Cinder Block,2223,Yes,SBrkr,2223,3,2007,Warranty Deed,Normal,244000
+13650,Sawyer,Single Family,1.5Fin,5,Cinder Block,1052,Yes,SBrkr,1920,4,2006,Warranty Deed,Normal,172500
+13600,NAmes,Single Family,2Story,7,Cinder Block,768,Yes,SBrkr,1986,3,2009,Warranty Deed,Normal,205000
+13600,OldTown,Two Family,2Story,5,Brick and Tile,662,No,SBrkr,2337,5,2007,Warranty Deed,Normal,90000
+13568,CollgCr,Single Family,1Story,5,Poured Concrete ,990,Yes,SBrkr,990,3,2006,Warranty Deed,Normal,156000
+13560,NAmes,Single Family,1Story,6,Cinder Block,1392,Yes,SBrkr,1392,2,2009,Warranty Deed,Normal,110000
+13526,Sawyer,Single Family,1Story,5,Cinder Block,935,Yes,SBrkr,935,3,2006,Warranty Deed,Normal,137000
+13518,NridgHt,Single Family,2Story,9,Poured Concrete ,1926,Yes,SBrkr,3140,4,2009,New,Partial,485000
+13517,Sawyer,Single Family,2Story,6,Cinder Block,725,Yes,SBrkr,1479,3,2010,Warranty Deed,Normal,130500
+13515,Brookside,Single Family,2Story,6,Poured Concrete ,764,Yes,FuseA,1824,3,2007,Warranty Deed,Normal,180500
+13501,Somerst,Single Family,1Story,8,Poured Concrete ,1623,Yes,SBrkr,1636,3,2007,Warranty Deed,Normal,255000
+13500,Clear Creek,Single Family,1Story,6,Cinder Block,1602,Yes,SBrkr,1252,1,2008,Warranty Deed,Normal,235000
+13500,OldTown,Single Family,2.5Unf,10,Brick and Tile,1237,Yes,SBrkr,2775,3,2008,Warranty Deed,Normal,325000
+13474,SawyerW,Single Family,2Story,7,Cinder Block,700,Yes,SBrkr,2243,4,2007,Warranty Deed,Normal,225000
+13472,NridgHt,Single Family,1Story,10,Poured Concrete ,2392,Yes,SBrkr,2392,3,2009,Warranty Deed,Normal,386250
+13450,CollgCr,Single Family,2Story,7,Poured Concrete ,916,Yes,SBrkr,1861,3,2006,Warranty Deed,Normal,200000
+13418,NridgHt,Single Family,2Story,8,Poured Concrete ,1117,Yes,SBrkr,2452,4,2006,Warranty Deed,Normal,309000
+13400,NAmes,Single Family,SFlat,5,Cinder Block,1024,Yes,SBrkr,1086,3,2006,Warranty Deed,Normal,159950
+13360,Crawfor,Single Family,1Story,5,Brick and Tile,876,Yes,SBrkr,964,2,2009,Warranty Deed,Normal,163500
+13350,Sawyer,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,894,3,2006,Warranty Deed,Normal,142500
+13346,NoRidge,Single Family,2Story,7,Poured Concrete ,1095,Yes,SBrkr,2295,4,2006,Warranty Deed,Normal,268000
+13300,NAmes,Single Family,1Story,5,Cinder Block,928,Yes,SBrkr,928,2,2007,Warranty Deed,Normal,132000
+13286,Edwards,Single Family,1Story,9,Poured Concrete ,1698,Yes,SBrkr,1698,3,2009,Warranty Deed,Normal,320000
+13284,Sawyer,Single Family,1Story,5,Poured Concrete ,1383,Yes,SBrkr,1383,3,2008,Warranty Deed,Normal,165000
+13265,Mitchel,Single Family,1Story,8,Poured Concrete ,1568,Yes,SBrkr,1689,3,2008,Warranty Deed,Normal,271000
+13214,Timber,Single Family,1Story,9,Poured Concrete ,2002,Yes,SBrkr,2018,3,2010,Warranty Deed,Normal,378500
+13175,NWAmes,Single Family,1Story,6,Cinder Block,1542,Yes,SBrkr,2073,3,2010,Warranty Deed,Normal,210000
+13173,NridgHt,Single Family,1Story,9,Poured Concrete ,1652,Yes,SBrkr,1652,2,2009,Warranty Deed,Normal,325000
+13159,Timber,Single Family,2Story,7,Poured Concrete ,846,Yes,SBrkr,1692,3,2009,New,Partial,224500
+13132,Crawfor,Single Family,2Story,5,Brick and Tile,747,Yes,FuseF,1784,4,2006,Warranty Deed,Normal,138887
+13125,CollgCr,Single Family,1Story,6,Poured Concrete ,1478,Yes,SBrkr,1493,3,2008,Warranty Deed,Normal,208900
+13125,SawyerW,Single Family,2Story,7,Poured Concrete ,1104,Yes,SBrkr,2127,4,2007,Warranty Deed,Normal,238000
+13125,Sawyer,Single Family,1Story,5,Cinder Block,1134,Yes,SBrkr,1803,3,2006,Warranty Deed,Normal,155000
+13101,NAmes,Duplex,1Story,5,Cinder Block,1728,Yes,SBrkr,1728,6,2008,Warranty Deed,Normal,142600
+13072,SawyerW,Single Family,1Story,6,Poured Concrete ,1158,Yes,SBrkr,1158,3,2006,New,Partial,158000
+13072,SawyerW,Single Family,1Story,6,Poured Concrete ,1141,Yes,SBrkr,1141,3,2006,Warranty Deed,Force Closure,142500
+13053,Brookside,Single Family,1.5Fin,6,Brick and Tile,833,Yes,SBrkr,1848,4,2008,Warranty Deed,Normal,207000
+13031,Gilbert,Single Family,2Story,6,Poured Concrete ,691,Yes,SBrkr,1498,3,2006,Warranty Deed,Normal,187500
+13006,Gilbert,Single Family,2Story,7,Poured Concrete ,964,Yes,SBrkr,2236,4,2006,Warranty Deed,Normal,222000
+13005,NWAmes,Single Family,2Story,7,Cinder Block,845,Yes,SBrkr,2353,4,2009,Warranty Deed,Normal,260000
+13000,NAmes,Single Family,2Story,6,Cinder Block,896,Yes,SBrkr,2142,4,2009,Warranty Deed,Normal,193500
+12984,Crawfor,Single Family,1Story,5,Cinder Block,1430,Yes,SBrkr,1647,3,2006,Warranty Deed,Normal,217500
+12968,Sawyer,Single Family,1Story,5,Cinder Block,912,Yes,SBrkr,912,2,2008,Warranty Deed,Normal,144000
+12936,NWAmes,Single Family,2Story,6,Cinder Block,723,Yes,SBrkr,1395,3,2009,Warranty Deed,Normal,162000
+12925,NAmes,Single Family,1Story,6,Cinder Block,1205,Yes,SBrkr,2117,4,2008,Warranty Deed,Normal,237500
+12919,NridgHt,Single Family,1Story,9,Poured Concrete ,2330,Yes,SBrkr,2364,2,2010,New,Partial,611657
+12900,Sawyer,Duplex,SFoyer,4,Cinder Block,1198,Yes,SBrkr,1258,0,2008,Warranty Deed,Within Family,108959
+12898,Timber,Single Family,1Story,9,Poured Concrete ,1620,Yes,SBrkr,1620,2,2009,Warranty Deed,Normal,315500
+12886,Sawyer,Single Family,SFlat,5,Cinder Block,520,Yes,SBrkr,1464,3,2009,Warranty Deed,Normal,175000
+12822,Mitchel,Single Family,1.5Fin,7,Poured Concrete ,1434,Yes,SBrkr,2149,1,2009,Warranty Deed,Force Closure,239686
+12803,CollgCr,Single Family,1Story,7,Poured Concrete ,1494,Yes,SBrkr,1494,3,2008,Warranty Deed,Normal,221000
+12800,SawyerW,Single Family,SFlat,7,Poured Concrete ,1518,Yes,SBrkr,1644,2,2009,Warranty Deed,Normal,275000
+12798,Clear Creek,Single Family,2Story,6,Poured Concrete ,616,Yes,SBrkr,1688,4,2008,Warranty Deed,Normal,200000
+12772,NAmes,Single Family,1Story,6,Cinder Block,958,Yes,SBrkr,958,2,2007,Warranty Deed,Normal,151500
+12735,NAmes,Single Family,1Story,4,Cinder Block,864,Yes,SBrkr,864,3,2008,Contract,Normal,111250
+12704,NridgHt,Single Family,1Story,8,Poured Concrete ,2042,Yes,SBrkr,2042,3,2009,New,Partial,253293
+12702,OldTown,Single Family,1Story,5,Poured Concrete ,0,Yes,FuseA,882,2,2008,Warranty Deed,Normal,97000
+12692,NoRidge,Single Family,1Story,8,Poured Concrete ,3200,Yes,SBrkr,3228,4,2007,Warranty Deed,Normal,430000
+12677,NridgHt,Townhouse,1Story,8,Poured Concrete ,1518,Yes,SBrkr,1518,1,2008,Warranty Deed,Normal,274000
+12665,OldTown,Single Family,1.5Fin,5,Brick and Tile,876,Yes,SBrkr,1416,4,2008,Warranty Deed,Normal,153900
+12665,Timber,Single Family,2Story,8,Poured Concrete ,1094,Yes,SBrkr,2482,4,2007,Warranty Deed,Normal,281213
+12640,Mitchel,Duplex,1Story,6,Cinder Block,1728,Yes,SBrkr,1728,4,2006,Warranty Deed,Normal,150900
+12615,Edwards,Single Family,1Story,6,Cinder Block,1202,Yes,SBrkr,2158,4,2007,Warranty Deed,Normal,243000
+12589,Gilbert,Single Family,2Story,6,Poured Concrete ,742,Yes,SBrkr,1484,3,2009,Warranty Deed,Normal,174000
+12552,Somerst,Single Family,2Story,7,Poured Concrete ,991,Yes,SBrkr,1947,3,2010,Warranty Deed,Normal,254900
+12546,NWAmes,Single Family,1Story,6,Cinder Block,1440,Yes,SBrkr,1440,3,2007,Warranty Deed,Normal,182900
+12537,NAmes,Single Family,1Story,5,Cinder Block,1078,Yes,SBrkr,1078,3,2010,Warranty Deed,Normal,149900
+12513,NAmes,Single Family,1.5Fin,4,Brick and Tile,715,Yes,SBrkr,1738,4,2009,Warranty Deed,Normal,104900
+12508,Mitchel,Single Family,1.5Fin,6,Cinder Block,983,Yes,SBrkr,1750,4,2008,Warranty Deed,Normal,160000
+12493,NAmes,Single Family,1Story,4,Poured Concrete ,1100,Yes,SBrkr,1100,3,2008,Warranty Deed,Normal,141000
+12474,NridgHt,Single Family,2Story,10,Poured Concrete ,1682,Yes,SBrkr,2332,3,2008,New,Partial,426000
+12464,CollgCr,Single Family,1Story,5,Poured Concrete ,1040,Yes,SBrkr,1040,3,2009,Warranty Deed,Normal,152000
+12461,NoRidge,Single Family,1Story,8,Poured Concrete ,1624,Yes,SBrkr,1624,2,2006,Warranty Deed,Normal,262000
+12456,NridgHt,Single Family,1Story,10,Poured Concrete ,1700,Yes,SBrkr,1718,3,2009,Warranty Deed,Normal,337500
+12444,NridgHt,Single Family,1Story,8,Poured Concrete ,1932,Yes,SBrkr,1932,2,2008,New,Partial,394617
+12438,Stony Brook,Single Family,2Story,8,Poured Concrete ,1234,Yes,SBrkr,2576,4,2006,New,Partial,361919
+12435,CollgCr,Single Family,2Story,7,Poured Concrete ,963,Yes,SBrkr,1792,3,2008,Warranty Deed,Normal,231500
+12420,CollgCr,Single Family,2Story,7,Poured Concrete ,944,Yes,SBrkr,1840,3,2009,Warranty Deed,Normal,230000
+12416,Timber,Single Family,1Story,6,Cinder Block,1606,Yes,SBrkr,1651,3,2008,Warranty Deed,Normal,184000
+12400,NAmes,Single Family,1Story,6,Cinder Block,1215,Yes,FuseA,1215,3,2009,Warranty Deed,Normal,155000
+12394,Gilbert,Single Family,2Story,7,Poured Concrete ,847,Yes,SBrkr,1733,3,2007,Warranty Deed,Within Family,225000
+12393,CollgCr,Single Family,2Story,7,Poured Concrete ,847,Yes,SBrkr,1948,4,2006,Warranty Deed,Normal,195000
+12384,NWAmes,Single Family,2Story,7,Cinder Block,793,Yes,SBrkr,1935,3,2007,Warranty Deed,Normal,197900
+12378,NridgHt,Single Family,1Story,9,Poured Concrete ,1896,Yes,SBrkr,1944,3,2006,Warranty Deed,Normal,360000
+12376,SawyerW,Single Family,2Story,7,Poured Concrete ,1673,Yes,SBrkr,3222,5,2010,Warranty Deed,Normal,320000
+12358,OldTown,Single Family,1.5Fin,5,Cinder Block,720,Yes,SBrkr,1382,2,2007,Warranty Deed,Normal,128500
+12342,Edwards,Single Family,1Story,4,Cinder Block,861,Yes,SBrkr,861,1,2009,Warranty Deed,Normal,82500
+12342,NAmes,Single Family,1Story,5,Cinder Block,978,Yes,SBrkr,1422,3,2007,Warranty Deed,Normal,139900
+12328,Mitchel,Single Family,SFlat,6,Cinder Block,1012,Yes,SBrkr,1034,3,2010,Warranty Deed,Normal,169900
+12327,SawyerW,Single Family,1.5Fin,8,Cinder Block,1496,Yes,SBrkr,2132,1,2009,Warranty Deed,Normal,316600
+12274,Somerst,Single Family,1Story,7,Poured Concrete ,1417,Yes,SBrkr,1428,3,2008,New,Partial,227680
+12257,NoRidge,Single Family,2Story,8,Poured Concrete ,1318,Yes,SBrkr,2531,4,2007,Warranty Deed,Normal,290000
+12256,NoRidge,Single Family,2Story,8,Poured Concrete ,1463,Yes,SBrkr,2622,3,2010,Warranty Deed,Normal,325000
+12244,Timber,Single Family,2Story,8,Poured Concrete ,1482,Yes,SBrkr,2262,4,2008,Warranty Deed,Normal,305000
+12243,NWAmes,Single Family,1Story,5,Cinder Block,1484,Yes,SBrkr,1484,3,2007,Warranty Deed,Normal,175000
+12227,NWAmes,Single Family,2Story,6,Cinder Block,1330,Yes,SBrkr,2872,4,2008,Warranty Deed,Normal,272000
+12224,Gilbert,Single Family,2Story,6,Poured Concrete ,992,Yes,SBrkr,2054,3,2009,Warranty Deed,Normal,244000
+12220,NridgHt,Single Family,1Story,10,Cinder Block,2006,Yes,SBrkr,2020,3,2009,New,Partial,402861
+12209,Mitchel,Single Family,2Story,6,Poured Concrete ,804,Yes,SBrkr,1961,3,2009,Warranty Deed,Normal,215000
+12205,Clear Creek,Single Family,2Story,6,Cinder Block,832,Yes,SBrkr,2087,5,2007,Warranty Deed,Normal,187500
+12203,NoRidge,Single Family,2Story,8,Poured Concrete ,1225,Yes,SBrkr,2612,4,2009,Warranty Deed,Normal,336000
+12182,NridgHt,Single Family,1Story,7,Poured Concrete ,1541,Yes,SBrkr,1541,3,2010,New,Partial,220000
+12180,Edwards,Two Family,1.5Fin,4,Brick and Tile,672,No,FuseA,924,2,2010,Warranty Deed,Normal,80000
+12168,Crawfor,Single Family,2Story,8,Poured Concrete ,965,Yes,SBrkr,3194,4,2007,Warranty Deed,Within Family,359100
+12160,NAmes,Single Family,1Story,6,Cinder Block,1505,Yes,SBrkr,1505,2,2009,Warranty Deed,Normal,149500
+12160,NAmes,Single Family,1Story,5,Cinder Block,1188,Yes,SBrkr,1188,3,2010,Contract,Force Closure,142000
+12155,SWISU,Single Family,2Story,6,Brick and Tile,672,No,SBrkr,1482,4,2008,Warranty Deed,Normal,140000
+12155,NAmes,Single Family,1Story,6,Cinder Block,1657,Yes,SBrkr,1657,3,2007,Warranty Deed,Normal,163500
+12150,OldTown,Single Family,1.5Fin,5,Brick and Tile,1050,No,FuseF,1795,4,2008,Warranty Deed,Normal,131500
+12144,NAmes,Single Family,1Story,5,Cinder Block,832,Yes,SBrkr,1268,3,2009,Warranty Deed,Normal,133000
+12137,CollgCr,Single Family,1Story,7,Poured Concrete ,1649,Yes,SBrkr,1661,3,2010,Warranty Deed,Normal,224900
+12134,Gilbert,Single Family,1.5Fin,8,Wood,559,Yes,SBrkr,1752,4,2010,Warranty Deed,Normal,164000
+12122,NAmes,Single Family,SFoyer,7,Cinder Block,944,Yes,SBrkr,999,3,2008,Warranty Deed,Normal,178400
+12118,Mitchel,Single Family,1Story,7,Poured Concrete ,1710,Yes,SBrkr,1710,3,2009,Warranty Deed,Normal,240000
+12108,Edwards,Duplex,1Story,4,Cinder Block,1440,No,FuseF,1440,4,2008,Warranty Deed,Normal,118000
+12099,NridgHt,Single Family,2Story,8,Poured Concrete ,1136,Yes,SBrkr,2468,4,2007,Warranty Deed,Normal,354000
+12095,NAmes,Single Family,SFlat,6,Cinder Block,1127,Yes,SBrkr,1445,3,2009,Warranty Deed,Normal,158000
+12090,NWAmes,Single Family,1Story,6,Cinder Block,1422,Yes,SBrkr,1422,3,2008,Warranty Deed,Normal,175500
+12090,NoRidge,Single Family,2Story,8,Poured Concrete ,1141,Yes,SBrkr,2263,4,2006,Warranty Deed,Force Closure,258000
+12090,NWAmes,Single Family,SFlat,6,Cinder Block,585,Yes,SBrkr,1868,3,2007,Warranty Deed,Force Closure,178000
+12085,NridgHt,Single Family,1Story,8,Poured Concrete ,1734,Yes,SBrkr,1734,3,2007,New,Partial,318000
+12046,NWAmes,Single Family,2Story,6,Cinder Block,848,Yes,SBrkr,2030,4,2007,Warranty Deed,Normal,195000
+12030,NridgHt,Single Family,1Story,8,Poured Concrete ,1694,Yes,SBrkr,1694,3,2007,New,Partial,318000
+12011,NoRidge,Single Family,2Story,8,Poured Concrete ,1086,Yes,SBrkr,1924,3,2006,Warranty Deed,Normal,280000
+12003,Timber,Single Family,2Story,8,Poured Concrete ,774,Yes,SBrkr,1968,4,2010,New,Partial,269500
+12000,Crawfor,Single Family,2Story,7,Cinder Block,704,Yes,SBrkr,1564,3,2009,Warranty Deed,Normal,174500
+12000,OldTown,Single Family,1Story,5,Cinder Block,924,Yes,SBrkr,1122,2,2008,Warranty Deed,Normal,147000
+11999,NridgHt,Single Family,2Story,8,Poured Concrete ,1181,Yes,SBrkr,2374,4,2007,Warranty Deed,Normal,285000
+11988,Crawfor,Single Family,2Story,6,Cinder Block,715,Yes,FuseA,1660,3,2008,Warranty Deed,Normal,188700
+11988,NAmes,Single Family,1Story,6,Cinder Block,1244,Yes,FuseA,1244,3,2007,Warranty Deed,Normal,150000
+11957,Somerst,Single Family,1Story,8,Poured Concrete ,1574,Yes,SBrkr,1574,3,2008,Warranty Deed,Normal,232000
+11952,NWAmes,Single Family,2Story,7,Cinder Block,808,Yes,SBrkr,1969,3,2007,Warranty Deed,Normal,190000
+11932,Somerst,Single Family,1Story,8,Poured Concrete ,1580,Yes,SBrkr,1580,3,2008,Contract Low Down,Partial,235128
+11924,NridgHt,Single Family,2Story,9,Poured Concrete ,1175,Yes,SBrkr,2324,4,2006,New,Partial,345000
+11923,CollgCr,Single Family,1Story,9,Poured Concrete ,1800,Yes,SBrkr,1800,2,2009,Warranty Deed,Normal,239000
+11911,Gilbert,Single Family,2Story,6,Poured Concrete ,684,Yes,SBrkr,1560,3,2009,Warranty Deed,Normal,174000
+11900,NWAmes,Single Family,1Story,7,Cinder Block,1386,Yes,SBrkr,1411,3,2009,Warranty Deed,Within Family,82500
+11900,NAmes,Single Family,1Story,6,Cinder Block,1392,Yes,FuseA,1392,3,2008,Warranty Deed,Normal,166000
+11888,Brookside,Single Family,2.5Unf,6,Brick and Tile,844,No,FuseA,2134,5,2009,Warranty Deed,Normal,214500
+11885,CollgCr,Single Family,2Story,8,Poured Concrete ,1299,Yes,SBrkr,1872,3,2009,Warranty Deed,Normal,261500
+11883,CollgCr,Single Family,1Story,7,Poured Concrete ,1504,Yes,SBrkr,1504,3,2009,Warranty Deed,Normal,203000
+11880,NWAmes,Single Family,1Story,7,Cinder Block,1271,Yes,SBrkr,1601,3,2009,Contract,Force Closure,157000
+11851,Gilbert,Single Family,1Story,7,Poured Concrete ,1424,Yes,SBrkr,1442,3,2009,Warranty Deed,Normal,180500
+11846,NridgHt,Single Family,1Story,9,Poured Concrete ,1792,Yes,SBrkr,1792,2,2006,Warranty Deed,Normal,374000
+11844,Stony Brook,Single Family,1Story,8,Poured Concrete ,2046,Yes,SBrkr,2046,3,2009,New,Partial,372500
+11841,Edwards,Duplex,SFoyer,6,Cinder Block,816,Yes,SBrkr,816,3,2007,Warranty Deed,Normal,118500
+11839,SawyerW,Single Family,2Story,7,Poured Concrete ,1475,Yes,SBrkr,2329,4,2008,Warranty Deed,Normal,262280
+11838,CollgCr,Single Family,1Story,8,Poured Concrete ,1753,Yes,SBrkr,1788,3,2009,Warranty Deed,Normal,236500
+11796,Gilbert,Single Family,2Story,7,Poured Concrete ,847,Yes,SBrkr,1959,4,2007,Warranty Deed,Normal,215000
+11787,NoRidge,Single Family,2Story,7,Poured Concrete ,1379,Yes,SBrkr,2398,3,2007,Warranty Deed,Normal,315750
+11782,Sawyer,Single Family,SFoyer,5,Cinder Block,1109,Yes,SBrkr,1155,3,2010,Warranty Deed,Normal,148000
+11777,Sawyer,Single Family,SFlat,5,Cinder Block,1164,Yes,SBrkr,1320,3,2006,Warranty Deed,Force Closure,164500
+11767,Edwards,Single Family,1.5Fin,5,Cinder Block,768,Yes,SBrkr,1200,3,2008,Warranty Deed,Normal,130500
+11767,Edwards,Single Family,2Story,4,Cinder Block,560,No,SBrkr,1346,2,2007,Warranty Deed,Normal,112000
+11764,NoRidge,Single Family,2Story,8,Poured Concrete ,1152,Yes,SBrkr,2270,4,2010,Warranty Deed,Normal,290000
+11751,NWAmes,Single Family,1Story,6,Cinder Block,1844,Yes,SBrkr,1844,3,2010,Contract,Normal,190000
+11717,NWAmes,Single Family,1Story,6,Cinder Block,1442,Yes,SBrkr,1442,2,2009,Warranty Deed,Normal,185000
+11700,NWAmes,Single Family,2Story,6,Cinder Block,702,Yes,SBrkr,1743,3,2007,Warranty Deed,Normal,175000
+11700,OldTown,Single Family,2Story,7,Stone,1240,No,SBrkr,2640,4,2009,Warranty Deed,Normal,265979
+11700,NWAmes,Single Family,2Story,6,Cinder Block,727,Yes,SBrkr,1556,4,2009,Warranty Deed,Normal,154000
+11700,NWAmes,Single Family,2Story,6,Cinder Block,708,Yes,SBrkr,1416,3,2006,Warranty Deed,Normal,179900
+11694,NridgHt,Single Family,1Story,9,Poured Concrete ,1822,Yes,SBrkr,1828,3,2007,New,Partial,314813
+11670,Somerst,Single Family,1Story,9,Poured Concrete ,1905,Yes,SBrkr,1905,3,2007,Warranty Deed,Normal,320000
+11664,NAmes,Single Family,1Story,6,Cinder Block,1082,Yes,SBrkr,1082,2,2007,Warranty Deed,Normal,119200
+11645,CollgCr,Single Family,2Story,7,Poured Concrete ,860,Yes,SBrkr,1720,3,2006,Warranty Deed,Normal,196500
+11645,CollgCr,Single Family,1Story,7,Poured Concrete ,1734,Yes,SBrkr,1734,3,2006,Warranty Deed,Normal,260000
+11643,NAmes,Duplex,2Story,5,Cinder Block,1248,Yes,SBrkr,2634,6,2009,Warranty Deed,Normal,200000
+11639,Somerst,Single Family,1Story,7,Poured Concrete ,1428,Yes,SBrkr,1428,3,2008,New,Partial,182000
+11625,Sawyer,Two Family,1Story,5,Poured Concrete ,1039,Yes,SBrkr,1039,3,2010,Warranty Deed,Normal,131500
+11616,Sawyer,Single Family,1Story,5,Cinder Block,1092,Yes,SBrkr,1092,3,2009,Warranty Deed,Normal,139000
+11616,Sawyer,Single Family,2Story,6,Cinder Block,672,Yes,SBrkr,1386,3,2010,Warranty Deed,Force Closure,158900
+11606,NAmes,Single Family,2Story,5,Poured Concrete ,1040,Yes,SBrkr,2080,5,2007,Warranty Deed,Within Family,135000
+11600,NAmes,Single Family,1Story,6,Cinder Block,1383,Yes,SBrkr,1383,3,2006,Warranty Deed,Normal,145250
+11600,Crawfor,Single Family,1Story,4,Brick and Tile,700,Yes,SBrkr,1180,2,2006,Warranty Deed,Normal,137500
+11600,NAmes,Duplex,2Story,5,Cinder Block,1105,Yes,FuseA,2274,5,2010,Warranty Deed,Normal,154300
+11584,NWAmes,Single Family,SFlat,7,Cinder Block,539,Yes,SBrkr,1725,3,2007,Warranty Deed,Normal,197000
+11553,Sawyer,Single Family,1Story,5,Cinder Block,1051,Yes,SBrkr,1159,3,2006,Warranty Deed,Normal,158000
+11526,Crawfor,Single Family,2.5Fin,6,Brick and Tile,588,Yes,SBrkr,2555,3,2008,Warranty Deed,Normal,191000
+11512,Edwards,Single Family,SFlat,6,Cinder Block,1019,Yes,SBrkr,1357,2,2008,Warranty Deed,Normal,177000
+11500,Crawfor,Single Family,1.5Fin,7,Cinder Block,1017,Yes,SBrkr,2057,3,2006,Warranty Deed,Normal,250000
+11500,NWAmes,Duplex,1Story,5,Cinder Block,1680,Yes,SBrkr,1680,4,2007,Warranty Deed,Normal,136905
+11500,Edwards,Single Family,1Story,4,Slab,0,No,SBrkr,845,3,2009,Warranty Deed,Normal,84000
+11478,NridgHt,Single Family,1Story,8,Poured Concrete ,1704,Yes,SBrkr,1704,3,2010,Warranty Deed,Normal,306000
+11475,NWAmes,Single Family,2Story,6,Cinder Block,713,Yes,SBrkr,1552,3,2006,Warranty Deed,Normal,179900
+11475,NAmes,Duplex,1Story,5,Cinder Block,1584,Yes,SBrkr,1776,4,2009,Contract,Force Closure,110000
+11457,Timber,Single Family,1Story,6,Cinder Block,1392,Yes,SBrkr,1412,3,2009,Warranty Deed,Normal,175000
+11443,Timber,Single Family,1Story,8,Poured Concrete ,1868,Yes,SBrkr,2028,2,2006,New,Partial,369900
+11435,Crawfor,Single Family,2Story,8,Poured Concrete ,792,Yes,SBrkr,1517,3,2006,Warranty Deed,Normal,230000
+11428,NridgHt,Single Family,1Story,8,Poured Concrete ,1626,Yes,SBrkr,1634,3,2007,Warranty Deed,Normal,250000
+11426,OldTown,Single Family,1.5Fin,7,Poured Concrete ,1362,Yes,SBrkr,2082,3,2008,Warranty Deed,Normal,200000
+11425,NAmes,Single Family,1Story,5,Cinder Block,1008,Yes,SBrkr,1008,2,2006,Warranty Deed,Normal,137000
+11423,CollgCr,Single Family,1Story,8,Poured Concrete ,1581,Yes,SBrkr,1601,3,2010,Warranty Deed,Normal,272000
+11414,Brookside,Single Family,2Story,7,Brick and Tile,728,No,SBrkr,2019,3,2009,Warranty Deed,Normal,167500
+11409,Edwards,Single Family,1.5Fin,5,Cinder Block,768,Yes,SBrkr,1716,3,2009,Warranty Deed,Normal,131000
+11404,CollgCr,Single Family,2Story,7,Poured Concrete ,1153,Yes,SBrkr,2031,3,2008,Warranty Deed,Normal,222500
+11400,NoRidge,Single Family,1Story,10,Poured Concrete ,2633,Yes,SBrkr,2633,2,2007,Warranty Deed,Normal,466500
+11394,Stony Brook,Single Family,1Story,9,Poured Concrete ,1856,Yes,SBrkr,1856,1,2010,New,Partial,394432
+11367,CollgCr,Single Family,2Story,8,Poured Concrete ,1065,Yes,SBrkr,1989,3,2006,Warranty Deed,Normal,255000
+11362,NridgHt,Single Family,1Story,8,Poured Concrete ,1836,Yes,SBrkr,1836,3,2009,Warranty Deed,Normal,280000
+11361,NWAmes,Single Family,1Story,6,Cinder Block,1193,Yes,SBrkr,1523,3,2008,Contract,Force Closure,180000
+11345,NAmes,Duplex,2Story,5,Cinder Block,928,Yes,FuseA,1920,4,2007,Warranty Deed,Normal,137000
+11344,NAmes,Single Family,1.5Fin,5,Cinder Block,874,Yes,FuseA,1524,3,2007,Warranty Deed,Normal,144000
+11341,Sawyer,Single Family,1Story,5,Cinder Block,1392,Yes,SBrkr,1392,3,2010,Warranty Deed,Normal,121500
+11340,OldTown,Single Family,1Story,6,Brick and Tile,1200,Yes,FuseA,1200,4,2006,Warranty Deed,Within Family,125000
+11340,OldTown,Two Family,2Story,4,Poured Concrete ,777,Yes,SBrkr,2290,4,2010,Warranty Deed,Normal,122500
+11333,Mitchel,Single Family,SFlat,6,Poured Concrete ,1029,Yes,SBrkr,1062,3,2007,Warranty Deed,Normal,146800
+11317,CollgCr,Single Family,2Story,7,Poured Concrete ,840,Yes,SBrkr,1668,3,2007,Warranty Deed,Normal,180000
+11316,Timber,Single Family,2Story,7,Poured Concrete ,817,Yes,SBrkr,1894,4,2010,Warranty Deed,Normal,214900
+11310,NAmes,Single Family,1Story,6,Cinder Block,1367,Yes,SBrkr,1375,2,2006,Warranty Deed,Normal,140000
+11308,NridgHt,Single Family,2Story,9,Poured Concrete ,1104,Yes,SBrkr,2184,3,2009,Warranty Deed,Normal,335000
+11302,Stony Brook,Single Family,1Story,8,Poured Concrete ,1814,Yes,SBrkr,1826,3,2006,New,Partial,319000
+11287,SawyerW,Single Family,2Story,7,Cinder Block,807,Yes,SBrkr,1982,3,2007,Warranty Deed,Normal,228500
+11275,NAmes,Single Family,SFlat,7,Cinder Block,710,Yes,SBrkr,2978,5,2010,Warranty Deed,Normal,242000
+11275,Crawfor,Single Family,1.5Fin,6,Cinder Block,854,Yes,SBrkr,1991,3,2007,Warranty Deed,Normal,220000
+11250,CollgCr,Single Family,2Story,7,Poured Concrete ,920,Yes,SBrkr,1786,3,2008,Warranty Deed,Normal,223500
+11250,Veenker,Single Family,1Story,6,Cinder Block,1208,Yes,SBrkr,1208,3,2006,Warranty Deed,Normal,165000
+11250,CollgCr,Single Family,2Story,8,Poured Concrete ,1128,Yes,SBrkr,2290,4,2008,Warranty Deed,Normal,255900
+11250,Clear Creek,Single Family,1.5Fin,4,Cinder Block,1104,Yes,FuseA,1788,5,2009,Warranty Deed,Normal,161500
+11249,CollgCr,Single Family,1Story,6,Poured Concrete ,1200,Yes,SBrkr,1200,3,2007,Warranty Deed,Normal,177500
+11248,CollgCr,Single Family,1Story,9,Poured Concrete ,1626,Yes,SBrkr,1668,3,2007,Warranty Deed,Normal,285000
+11241,NAmes,Single Family,1Story,6,Cinder Block,1004,Yes,SBrkr,1004,2,2010,Warranty Deed,Normal,149000
+11235,Sawyer,Single Family,1Story,4,Cinder Block,1051,Yes,SBrkr,1382,3,2006,Warranty Deed,Normal,148000
+11228,SawyerW,Single Family,2Story,7,Poured Concrete ,1080,Yes,SBrkr,2097,3,2008,Warranty Deed,Normal,228000
+11218,SawyerW,Single Family,2Story,6,Poured Concrete ,1055,Yes,SBrkr,1845,3,2010,Warranty Deed,Normal,189000
+11216,Somerst,Single Family,1Story,8,Poured Concrete ,1489,Yes,SBrkr,1489,3,2006,New,Partial,232600
+11214,Gilbert,Single Family,2Story,7,Poured Concrete ,930,Yes,SBrkr,1886,4,2006,Warranty Deed,Normal,199900
+11210,CollgCr,Single Family,1Story,7,Poured Concrete ,1614,Yes,SBrkr,1614,3,2006,New,Partial,221500
+11207,Gilbert,Single Family,2Story,6,Poured Concrete ,802,Yes,SBrkr,1511,3,2006,Warranty Deed,Normal,185000
+11200,Sawyer,Single Family,1Story,5,Cinder Block,1040,Yes,SBrkr,1040,3,2008,Warranty Deed,Normal,129500
+11200,SawyerW,Single Family,1Story,6,Cinder Block,1298,Yes,SBrkr,1298,3,2006,Warranty Deed,Normal,180000
+11198,Stony Brook,Single Family,2Story,9,Poured Concrete ,1122,Yes,SBrkr,2504,4,2008,Warranty Deed,Normal,325000
+11194,Gilbert,Single Family,2Story,8,Poured Concrete ,1406,Yes,SBrkr,1936,3,2006,Warranty Deed,Normal,230500
+11184,Sawyer,Single Family,2Story,6,Cinder Block,918,Yes,SBrkr,1683,3,2009,Warranty Deed,Normal,172500
+11175,CollgCr,Single Family,1Story,7,Poured Concrete ,1316,Yes,SBrkr,1316,3,2007,New,Partial,200141
+11170,Timber,Single Family,2Story,7,Wood,1216,Yes,SBrkr,2514,4,2006,Warranty Deed,Normal,250000
+11160,NAmes,Single Family,1Story,7,Cinder Block,2110,Yes,SBrkr,2110,3,2010,Warranty Deed,Normal,244000
+11146,NridgHt,Single Family,1Story,8,Poured Concrete ,1709,Yes,SBrkr,1717,3,2009,Warranty Deed,Normal,255500
+11143,Somerst,Single Family,2Story,8,Poured Concrete ,1580,Yes,SBrkr,2466,4,2007,Warranty Deed,Normal,340000
+11120,Veenker,Single Family,1Story,6,Poured Concrete ,1232,Yes,SBrkr,1232,3,2008,Warranty Deed,Normal,162500
+11103,CollgCr,Single Family,2Story,7,Poured Concrete ,728,Yes,SBrkr,1456,3,2007,New,Partial,155835
+11100,Edwards,Single Family,1Story,4,Cinder Block,0,Yes,SBrkr,930,2,2010,Warranty Deed,Force Closure,84900
+11096,Somerst,Single Family,1Story,8,Poured Concrete ,1656,Yes,SBrkr,1656,3,2007,Warranty Deed,Normal,249700
+11075,Mitchel,Single Family,2Story,5,Cinder Block,784,Yes,SBrkr,1968,4,2008,Warranty Deed,Normal,172000
+11075,NAmes,Single Family,2Story,6,Cinder Block,952,Yes,SBrkr,2112,4,2008,Warranty Deed,Normal,206900
+11070,Mitchel,Duplex,1Story,7,Cinder Block,1907,Yes,SBrkr,1959,5,2006,Warranty Deed,Within Family,171000
+11065,NridgHt,Single Family,2Story,8,Poured Concrete ,1085,Yes,SBrkr,1970,3,2006,New,Partial,281000
+11050,CollgCr,Single Family,2Story,9,Poured Concrete ,1440,Yes,SBrkr,2153,3,2009,Warranty Deed,Normal,313000
+11049,CollgCr,Single Family,1Story,8,Poured Concrete ,1234,Yes,SBrkr,1234,3,2008,Warranty Deed,Normal,179900
+11040,IDOTRR,Single Family,1.5Fin,4,Cinder Block,637,Yes,SBrkr,1336,3,2006,Contract,Normal,108000
+11040,NWAmes,Single Family,1Story,6,Cinder Block,1258,Yes,SBrkr,1258,3,2008,Contract,Force Closure,145000
+11029,NWAmes,Single Family,2Story,6,Cinder Block,1054,Yes,SBrkr,2654,4,2006,Warranty Deed,Normal,250000
+11029,NAmes,Single Family,1Story,6,Cinder Block,1184,Yes,SBrkr,1414,3,2008,Warranty Deed,Normal,176500
+11003,Somerst,Single Family,2Story,10,Poured Concrete ,1017,Yes,SBrkr,2007,3,2009,Warranty Deed,Normal,310000
+11000,NoRidge,Single Family,2Story,8,Poured Concrete ,969,Yes,SBrkr,2285,4,2007,Warranty Deed,Normal,248000
+11000,NAmes,Single Family,1Story,5,Cinder Block,1154,Yes,SBrkr,1154,3,2009,Warranty Deed,Normal,154000
+10998,Edwards,Single Family,1.5Fin,5,Cinder Block,984,Yes,SBrkr,1604,3,2009,Warranty Deed,Normal,117000
+10994,SawyerW,Single Family,1Story,8,Poured Concrete ,1844,Yes,SBrkr,1844,2,2009,Contract,Force Closure,257000
+10991,Timber,Single Family,1Story,8,Poured Concrete ,1571,Yes,SBrkr,1571,3,2007,New,Partial,239000
+10970,CollgCr,Single Family,SFlat,6,Cinder Block,940,Yes,SBrkr,1026,3,2008,Warranty Deed,Normal,147000
+10944,NoRidge,Single Family,2Story,7,Poured Concrete ,1223,Yes,SBrkr,2127,3,2008,Warranty Deed,Normal,271000
+10930,NAmes,Single Family,1.5Fin,5,Cinder Block,913,Yes,FuseA,1558,3,2008,Warranty Deed,Normal,140000
+10927,NridgHt,Single Family,2Story,8,Poured Concrete ,1058,Yes,SBrkr,1904,3,2006,Warranty Deed,Normal,275000
+10921,Edwards,Single Family,1Story,4,Cinder Block,960,Yes,FuseF,960,3,2007,Warranty Deed,Normal,94750
+10920,NAmes,Single Family,1Story,6,Cinder Block,1253,Yes,SBrkr,1253,2,2008,Warranty Deed,Normal,157000
+10918,Crawfor,Single Family,2Story,7,Brick and Tile,1276,Yes,SBrkr,2080,3,2009,Warranty Deed,Normal,234000
+10900,CollgCr,Single Family,2Story,6,Cinder Block,689,Yes,SBrkr,1392,3,2010,Warranty Deed,Normal,161750
+10896,SWISU,Two Family,2.5Fin,6,Cinder Block,1440,Yes,FuseA,3395,8,2007,Warranty Deed,Force Closure,200000
+10880,Edwards,Two Family,1Story,5,Cinder Block,1164,No,SBrkr,1164,3,2008,Contract Low Down,Normal,125000
+10859,CollgCr,Single Family,1Story,5,Poured Concrete ,1097,Yes,SBrkr,1097,3,2009,Warranty Deed,Normal,145000
+10852,Gilbert,Single Family,2Story,6,Poured Concrete ,959,Yes,SBrkr,1671,3,2006,Warranty Deed,Normal,173000
+10839,Gilbert,Single Family,2Story,6,Poured Concrete ,926,Yes,SBrkr,1604,3,2008,Warranty Deed,Normal,181000
+10832,Gilbert,Single Family,2Story,7,Poured Concrete ,712,Yes,SBrkr,1895,3,2008,Warranty Deed,Normal,194500
+10800,OldTown,Single Family,1Story,4,Brick and Tile,641,Yes,SBrkr,1047,2,2007,Warranty Deed,Normal,100000
+10800,Somerst,Single Family,2Story,8,Poured Concrete ,1034,Yes,SBrkr,2078,3,2008,New,Partial,339750
+10800,OldTown,Two Family,1.5Fin,5,Cinder Block,954,No,FuseA,2414,3,2006,Contract Low Down,Normal,160000
+10800,OldTown,Two Family,2Story,4,Brick and Tile,0,No,FuseA,1294,3,2008,Warranty Deed,Normal,106250
+10800,NWAmes,Single Family,2Story,6,Cinder Block,1522,Yes,SBrkr,2614,4,2008,Warranty Deed,Normal,240000
+10800,OldTown,Single Family,2Story,7,Brick and Tile,718,Yes,SBrkr,2554,3,2007,Warranty Deed,Normal,159500
+10800,OldTown,Single Family,2.5Unf,7,Brick and Tile,880,No,SBrkr,1768,2,2006,Warranty Deed,Normal,163000
+10800,Edwards,Duplex,1Story,5,Cinder Block,1200,Yes,SBrkr,1200,3,2009,Warranty Deed,Within Family,179000
+10800,OldTown,Single Family,1.5Fin,5,Poured Concrete ,686,Yes,SBrkr,1652,4,2010,Warranty Deed,Normal,139000
+10800,NAmes,Single Family,1.5Fin,4,Cinder Block,720,No,FuseA,1192,4,2006,Warranty Deed,Force Closure,135000
+10800,OldTown,Single Family,1.5Fin,5,Cinder Block,796,Yes,SBrkr,1466,3,2006,Warranty Deed,Normal,170000
+10800,OldTown,Single Family,1Story,5,Brick and Tile,1120,Yes,SBrkr,1130,2,2006,Warranty Deed,Normal,120000
+10800,OldTown,Two Family,1.5Fin,6,Brick and Tile,482,No,SBrkr,1912,3,2008,Warranty Deed,Normal,163000
+10800,OldTown,Single Family,1Story,4,Brick and Tile,656,Yes,SBrkr,968,4,2007,Warranty Deed,Normal,64500
+10793,NWAmes,Single Family,2Story,5,Cinder Block,780,Yes,SBrkr,1620,4,2007,Warranty Deed,Normal,152000
+10791,Sawyer,Duplex,1Story,4,Slab,0,Yes,SBrkr,1296,2,2006,Warranty Deed,Normal,90000
+10784,Gilbert,Single Family,SFlat,7,Poured Concrete ,384,Yes,SBrkr,1472,3,2007,Warranty Deed,Normal,160000
+10780,CollgCr,Single Family,SFlat,5,Cinder Block,911,Yes,SBrkr,954,3,2006,Warranty Deed,Normal,132500
+10778,Sawyer,Duplex,1Story,4,Cinder Block,1768,No,SBrkr,1768,4,2010,Warranty Deed,Normal,136500
+10769,CollgCr,Single Family,2Story,8,Poured Concrete ,866,Yes,SBrkr,1768,3,2009,Warranty Deed,Normal,212000
+10768,Veenker,Single Family,1Story,5,Cinder Block,1437,Yes,SBrkr,1437,3,2007,Warranty Deed,Normal,218000
+10762,SawyerW,Townhouse,2Story,6,Cinder Block,626,Yes,SBrkr,1217,3,2009,Warranty Deed,Normal,120000
+10762,Gilbert,Single Family,2Story,7,Poured Concrete ,978,Yes,SBrkr,1983,3,2009,Warranty Deed,Normal,225000
+10728,Somerst,Single Family,2Story,8,Poured Concrete ,1095,Yes,SBrkr,1939,3,2006,New,Partial,266000
+10721,NAmes,Single Family,1Story,6,Cinder Block,1252,Yes,SBrkr,1252,3,2008,Warranty Deed,Normal,142000
+10708,Clear Creek,Single Family,1Story,5,Cinder Block,1617,Yes,FuseA,1867,2,2009,Contract,Normal,190000
+10690,IDOTRR,Single Family,2Story,5,Cinder Block,672,Yes,FuseA,1344,3,2009,Warranty Deed,Normal,147000
+10680,NAmes,Single Family,1Story,5,Cinder Block,2136,No,FuseA,2136,4,2006,Warranty Deed,Normal,137900
+10678,NoRidge,Single Family,1.5Fin,8,Poured Concrete ,1683,Yes,SBrkr,2872,4,2007,Warranty Deed,Normal,285000
+10665,CollgCr,Single Family,1Story,7,Poured Concrete ,1453,Yes,SBrkr,1479,3,2007,Warranty Deed,Normal,226000
+10659,NAmes,Single Family,1Story,5,Cinder Block,1050,Yes,SBrkr,1050,3,2006,Contract,Normal,136500
+10656,Timber,Single Family,1Story,8,Poured Concrete ,1638,Yes,SBrkr,1646,3,2007,New,Partial,248900
+10655,NridgHt,Single Family,1Story,8,Poured Concrete ,3206,Yes,SBrkr,1629,3,2009,Warranty Deed,Normal,284000
+10652,CollgCr,Single Family,1Story,7,Poured Concrete ,1494,Yes,SBrkr,1494,3,2007,New,Partial,279500
+10650,CollgCr,Single Family,1Story,5,Cinder Block,894,Yes,SBrkr,894,3,2010,Warranty Deed,Normal,128200
+10637,CollgCr,Single Family,1Story,8,Poured Concrete ,1705,Yes,SBrkr,1718,3,2009,Warranty Deed,Normal,297000
+10635,CollgCr,Single Family,1Story,8,Poured Concrete ,1657,Yes,SBrkr,1668,3,2010,Warranty Deed,Normal,232000
+10634,NAmes,Single Family,1Story,5,Poured Concrete ,608,Yes,SBrkr,1319,3,2009,Warranty Deed,Normal,123000
+10628,NAmes,Single Family,1Story,7,Cinder Block,1277,Yes,SBrkr,1277,2,2007,Warranty Deed,Normal,167000
+10625,Edwards,Single Family,1Story,5,Brick and Tile,458,No,SBrkr,835,2,2010,Contract,Force Closure,83000
+10625,NridgHt,Single Family,2Story,7,Poured Concrete ,998,Yes,SBrkr,2046,3,2008,Warranty Deed,Normal,284000
+10625,NWAmes,Single Family,SFoyer,7,Cinder Block,1053,Yes,SBrkr,1173,3,2010,Warranty Deed,Within Family,170000
+10625,Somerst,Single Family,2Story,7,Poured Concrete ,1026,Yes,SBrkr,1958,3,2008,Warranty Deed,Normal,250000
+10624,NAmes,Duplex,1Story,5,Cinder Block,1728,Yes,SBrkr,1728,6,2007,Warranty Deed,Normal,119000
+10615,OldTown,Two Family,2Story,3,Cinder Block,978,Yes,SBrkr,1699,3,2009,Warranty Deed,Force Closure,95000
+10603,NWAmes,Single Family,1Story,6,Poured Concrete ,1610,Yes,SBrkr,1610,3,2010,Warranty Deed,Normal,205000
+10594,Crawfor,Single Family,1.5Unf,5,Brick and Tile,768,No,SBrkr,789,2,2007,Warranty Deed,Normal,96500
+10593,NoRidge,Single Family,1Story,7,Poured Concrete ,1720,Yes,SBrkr,1720,3,2010,Warranty Deed,Normal,260400
+10592,Crawfor,Single Family,2Story,6,Poured Concrete ,602,Yes,SBrkr,1502,3,2007,Warranty Deed,Normal,165000
+10574,Somerst,Single Family,2Story,8,Poured Concrete ,1082,Yes,SBrkr,1953,3,2009,Warranty Deed,Normal,252000
+10570,Crawfor,Single Family,2Story,8,Cinder Block,853,Yes,SBrkr,2727,3,2007,Warranty Deed,Normal,315000
+10562,NridgHt,Single Family,2Story,8,Poured Concrete ,1582,Yes,SBrkr,2161,3,2007,New,Partial,325624
+10552,NAmes,Single Family,1Story,5,Cinder Block,1398,Yes,SBrkr,1700,4,2010,Warranty Deed,Normal,165500
+10542,NoRidge,Single Family,2Story,7,Poured Concrete ,1311,Yes,SBrkr,2418,3,2008,Warranty Deed,Normal,341000
+10530,NAmes,Single Family,1Story,6,Cinder Block,981,Yes,SBrkr,981,3,2007,Warranty Deed,Normal,143250
+10530,Mitchel,Duplex,SFoyer,6,Cinder Block,975,Yes,SBrkr,1004,2,2006,Warranty Deed,Normal,135000
+10500,NAmes,Single Family,1Story,4,Cinder Block,864,Yes,SBrkr,864,2,2009,Warranty Deed,Force Closure,97000
+10500,NAmes,Single Family,SFlat,5,Cinder Block,372,Yes,SBrkr,1109,3,2007,Warranty Deed,Normal,139000
+10496,NAmes,Single Family,1.5Fin,6,Cinder Block,1040,Yes,SBrkr,1846,3,2007,Warranty Deed,Normal,143000
+10482,NAmes,Single Family,SFlat,6,Cinder Block,588,Yes,SBrkr,1138,3,2007,Warranty Deed,Normal,145000
+10480,SWISU,Single Family,1.5Fin,6,Brick and Tile,1064,Yes,FuseA,1639,3,2008,Warranty Deed,Normal,115000
+10480,NWAmes,Single Family,2Story,7,Cinder Block,803,Yes,SBrkr,1964,4,2008,Warranty Deed,Normal,205000
+10475,CollgCr,Single Family,1Story,8,Poured Concrete ,1694,Yes,SBrkr,1694,3,2010,Warranty Deed,Normal,245350
+10463,Gilbert,Single Family,2Story,8,Poured Concrete ,893,Yes,SBrkr,1801,3,2006,Warranty Deed,Normal,239900
+10452,Edwards,Single Family,1Story,6,Cinder Block,1094,Yes,SBrkr,1094,3,2008,Warranty Deed,Normal,155000
+10448,NWAmes,Single Family,SFlat,6,Cinder Block,689,Yes,SBrkr,2119,3,2009,Contract,Force Closure,158000
+10440,OldTown,Single Family,2Story,5,Poured Concrete ,440,Yes,SBrkr,1230,2,2009,Warranty Deed,Normal,110000
+10440,OldTown,Single Family,2Story,5,Poured Concrete ,650,Yes,SBrkr,1539,3,2008,Warranty Deed,Normal,157500
+10440,OldTown,Single Family,1.5Fin,6,Brick and Tile,1510,Yes,SBrkr,2792,5,2008,Warranty Deed,Normal,256000
+10437,NoRidge,Single Family,1Story,8,Poured Concrete ,2109,Yes,SBrkr,2113,2,2008,Warranty Deed,Normal,350000
+10434,NAmes,Single Family,1Story,4,Cinder Block,1005,Yes,SBrkr,1005,2,2009,Warranty Deed,Normal,115000
+10421,NWAmes,Single Family,2Story,7,Cinder Block,980,Yes,SBrkr,1714,3,2010,Warranty Deed,Normal,196500
+10420,Edwards,Single Family,1Story,6,Poured Concrete ,1212,Yes,SBrkr,1212,3,2010,Warranty Deed,Normal,186000
+10410,OldTown,Single Family,1.5Fin,5,Cinder Block,660,Yes,SBrkr,1656,3,2009,Warranty Deed,Normal,135000
+10410,OldTown,Single Family,1.5Fin,3,Poured Concrete ,672,Yes,SBrkr,1214,3,2006,Warranty Deed,Within Family,105000
+10402,CollgCr,Single Family,1Story,7,Poured Concrete ,1226,Yes,SBrkr,1226,3,2010,Warranty Deed,Normal,198900
+10400,NWAmes,Single Family,1Story,7,Poured Concrete ,1304,Yes,SBrkr,1682,3,2008,Warranty Deed,Normal,174000
+10400,NWAmes,Single Family,1Story,7,Cinder Block,1845,Yes,SBrkr,1872,3,2006,Warranty Deed,Normal,241500
+10400,NWAmes,Single Family,2Story,6,Cinder Block,732,Yes,SBrkr,1790,4,2006,Warranty Deed,Normal,165150
+10400,NWAmes,Single Family,1Story,7,Cinder Block,1090,Yes,SBrkr,1370,3,2009,Warranty Deed,Within Family,152000
+10400,CollgCr,Single Family,2Story,7,Poured Concrete ,866,Yes,SBrkr,1779,3,2009,Warranty Deed,Normal,197900
+10395,NWAmes,Single Family,SFlat,6,Cinder Block,1032,Yes,SBrkr,1032,3,2007,Warranty Deed,Normal,148000
+10386,CollgCr,Single Family,1Story,8,Poured Concrete ,2000,Yes,SBrkr,2000,3,2007,Warranty Deed,Normal,305900
+10382,NWAmes,Single Family,2Story,7,Cinder Block,1107,Yes,SBrkr,2090,3,2009,Warranty Deed,Normal,200000
+10382,NAmes,Two Family,SFlat,6,Cinder Block,588,Yes,SBrkr,1095,2,2006,Contract Low Down,Normal,140000
+10380,SawyerW,Single Family,2Story,7,Cinder Block,1502,Yes,SBrkr,2730,4,2007,Warranty Deed,Normal,301000
+10364,Gilbert,Single Family,2Story,6,Poured Concrete ,806,Yes,SBrkr,1572,3,2007,Warranty Deed,Normal,168000
+10357,SawyerW,Single Family,1Story,7,Poured Concrete ,910,Yes,SBrkr,1442,3,2007,Warranty Deed,Normal,179900
+10356,CollgCr,Single Family,1Story,5,Cinder Block,969,Yes,SBrkr,969,3,2007,Warranty Deed,Normal,122000
+10355,NAmes,Single Family,1Story,5,Cinder Block,1214,Yes,SBrkr,1214,3,2007,Warranty Deed,Normal,143000
+10335,Sawyer,Single Family,1Story,5,Cinder Block,1461,Yes,SBrkr,1721,3,2006,Warranty Deed,Normal,180000
+10335,CollgCr,Single Family,1Story,7,Poured Concrete ,1490,Yes,SBrkr,1501,3,2009,Warranty Deed,Normal,204000
+10320,IDOTRR,Single Family,1.5Fin,6,Cinder Block,756,Yes,SBrkr,1469,3,2008,Warranty Deed,Normal,135000
+10316,CollgCr,Single Family,2Story,7,Poured Concrete ,992,Yes,SBrkr,1865,3,2008,Warranty Deed,Normal,235000
+10304,NWAmes,Single Family,2Story,5,Cinder Block,780,Yes,SBrkr,1868,4,2009,Warranty Deed,Normal,197500
+10300,OldTown,Single Family,2Story,7,Brick and Tile,576,Yes,SBrkr,1710,3,2010,Warranty Deed,Normal,140000
+10289,NAmes,Single Family,1Story,5,Cinder Block,1073,Yes,SBrkr,1073,3,2007,Warranty Deed,Normal,156000
+10267,Brookside,Single Family,1Story,6,Brick and Tile,816,Yes,SBrkr,838,2,2008,Warranty Deed,Normal,130000
+10264,CollgCr,Single Family,1Story,7,Poured Concrete ,1588,Yes,SBrkr,1588,3,2006,Warranty Deed,Normal,214000
+10261,Gilbert,Single Family,2Story,6,Poured Concrete ,936,Yes,SBrkr,1792,3,2008,Warranty Deed,Normal,186500
+10246,Sawyer,Single Family,SFlat,4,Cinder Block,648,Yes,SBrkr,960,0,2006,Warranty Deed,Normal,145000
+10240,NridgHt,Single Family,2Story,8,Poured Concrete ,1030,Yes,SBrkr,2098,3,2006,Warranty Deed,Normal,275500
+10240,NWAmes,Single Family,1Story,6,Cinder Block,1686,Yes,SBrkr,1686,3,2006,Warranty Deed,Normal,207500
+10237,Gilbert,Single Family,1Story,6,Poured Concrete ,1316,Yes,SBrkr,1316,3,2006,New,Partial,169990
+10237,Gilbert,Single Family,2Story,6,Poured Concrete ,783,Yes,SBrkr,1484,3,2007,New,Partial,178900
+10226,CollgCr,Single Family,1Story,8,Poured Concrete ,1622,Yes,SBrkr,1630,3,2009,Warranty Deed,Normal,295493
+10215,Edwards,Single Family,1Story,4,Poured Concrete ,864,Yes,SBrkr,948,3,2007,Warranty Deed,Normal,111000
+10208,NoRidge,Single Family,2Story,7,Poured Concrete ,1264,Yes,SBrkr,2344,3,2009,Warranty Deed,Normal,265000
+10207,Somerst,Single Family,2Story,7,Poured Concrete ,874,Yes,SBrkr,1761,3,2007,New,Partial,227875
+10206,Somerst,Single Family,1Story,8,Poured Concrete ,1563,Yes,SBrkr,1563,3,2008,Warranty Deed,Normal,245000
+10206,Edwards,Single Family,1Story,3,Slab,0,No,FuseF,944,2,2009,Warranty Deed,Normal,82000
+10205,NAmes,Single Family,SFoyer,5,Cinder Block,925,Yes,SBrkr,999,3,2006,Warranty Deed,Normal,134500
+10200,NAmes,Single Family,1Story,5,Cinder Block,1086,Yes,SBrkr,1086,3,2010,Warranty Deed,Normal,144900
+10200,Sawyer,Single Family,1Story,5,Poured Concrete ,672,Yes,SBrkr,672,2,2008,Warranty Deed,Normal,108000
+10200,Timber,Single Family,SFlat,6,Cinder Block,1461,Yes,SBrkr,1509,3,2008,Warranty Deed,Force Closure,175000
+10197,NAmes,Single Family,1Story,6,Cinder Block,1362,Yes,SBrkr,1362,3,2008,Contract,Normal,163000
+10192,NWAmes,Single Family,SFlat,7,Cinder Block,570,Yes,SBrkr,1920,4,2006,Warranty Deed,Normal,170000
+10186,NoRidge,Single Family,2Story,7,Poured Concrete ,750,Yes,SBrkr,1923,3,2010,Warranty Deed,Normal,190000
+10182,Somerst,Single Family,1Story,8,Poured Concrete ,1660,Yes,SBrkr,1660,3,2006,New,Partial,290000
+10175,NAmes,Single Family,1Story,6,Cinder Block,1425,Yes,SBrkr,1425,3,2008,Warranty Deed,Normal,180500
+10171,NridgHt,Single Family,1Story,7,Poured Concrete ,1517,Yes,SBrkr,1535,3,2010,Warranty Deed,Normal,214000
+10159,NridgHt,Single Family,1Story,9,Poured Concrete ,1930,Yes,SBrkr,1940,3,2010,New,Partial,395192
+10152,NAmes,Single Family,1Story,5,Cinder Block,1048,Yes,SBrkr,1048,3,2007,Warranty Deed,Normal,135000
+10150,NAmes,Single Family,1Story,5,Cinder Block,912,Yes,FuseA,912,2,2007,Contract,Normal,114500
+10142,SawyerW,Single Family,2Story,7,Poured Concrete ,956,Yes,SBrkr,2084,4,2010,Warranty Deed,Normal,233000
+10141,Gilbert,Single Family,2Story,7,Poured Concrete ,832,Yes,SBrkr,1718,3,2009,Warranty Deed,Normal,185000
+10140,NWAmes,Single Family,1Story,7,Poured Concrete ,1650,Yes,SBrkr,1680,3,2009,Warranty Deed,Normal,213250
+10140,NWAmes,Single Family,1Story,6,Cinder Block,1064,Yes,SBrkr,1350,3,2009,Warranty Deed,Normal,165000
+10140,NWAmes,Single Family,1Story,6,Cinder Block,1040,Yes,SBrkr,1309,3,2006,Warranty Deed,Normal,181000
+10140,NWAmes,Single Family,1Story,5,Cinder Block,1056,Yes,SBrkr,1074,3,2006,Warranty Deed,Normal,153500
+10140,NWAmes,Single Family,2Story,7,Poured Concrete ,832,Yes,SBrkr,1664,4,2006,Warranty Deed,Normal,162900
+10134,OldTown,Single Family,1.5Fin,5,Cinder Block,735,Yes,FuseA,1034,2,2007,Warranty Deed,Normal,109000
+10125,Mitchel,Single Family,1Story,6,Cinder Block,1196,Yes,SBrkr,1279,3,2008,Warranty Deed,Normal,171500
+10125,Mitchel,Duplex,1.5Fin,5,Cinder Block,0,Yes,SBrkr,1734,4,2009,Contract,Normal,126000
+10120,OldTown,Two Family,2.5Unf,7,Cinder Block,925,No,FuseF,1889,4,2007,Warranty Deed,Normal,122000
+10120,NoRidge,Single Family,2Story,8,Poured Concrete ,1165,Yes,SBrkr,2526,4,2006,Warranty Deed,Normal,290000
+10106,Edwards,Two Family,1.5Fin,5,Brick and Tile,644,Yes,SBrkr,1355,4,2008,Warranty Deed,Normal,127500
+10084,Somerst,Single Family,1Story,8,Poured Concrete ,1686,Yes,SBrkr,1694,3,2007,Warranty Deed,Normal,307000
+10084,CollgCr,Single Family,1Story,7,Poured Concrete ,1552,Yes,SBrkr,1552,3,2006,New,Partial,212900
+10083,SawyerW,Single Family,1Story,7,Poured Concrete ,1176,Yes,SBrkr,1200,2,2009,Warranty Deed,Normal,184900
+10041,SawyerW,Single Family,2Story,8,Poured Concrete ,908,Yes,SBrkr,1915,3,2006,Warranty Deed,Force Closure,220000
+10029,Clear Creek,Single Family,2Story,6,Poured Concrete ,1151,Yes,SBrkr,2060,4,2007,Warranty Deed,Normal,211000
+10020,Edwards,Single Family,1Story,1,Brick and Tile,683,No,FuseA,904,1,2009,Warranty Deed,Normal,61000
+10012,Edwards,Single Family,SFoyer,4,Cinder Block,1138,Yes,SBrkr,1181,3,2008,Warranty Deed,Normal,137500
+10011,NAmes,Single Family,1Story,5,Cinder Block,1070,Yes,SBrkr,1236,2,2006,Warranty Deed,Normal,134450
+10010,Mitchel,Single Family,1Story,5,Cinder Block,1389,Yes,SBrkr,1389,2,2006,Warranty Deed,Normal,170000
+10007,NAmes,Single Family,1Story,5,Cinder Block,1053,Yes,SBrkr,1053,3,2008,Warranty Deed,Normal,145500
+10005,Clear Creek,Single Family,2Story,7,Cinder Block,1160,Yes,SBrkr,2022,4,2008,Warranty Deed,Normal,192000
+10004,NAmes,Single Family,1Story,6,Cinder Block,1516,Yes,SBrkr,1516,3,2009,Warranty Deed,Normal,167000
+10000,NAmes,Single Family,1Story,6,Cinder Block,1116,Yes,SBrkr,1116,3,2010,Warranty Deed,Normal,160000
+10000,NWAmes,Single Family,1Story,5,Cinder Block,1176,Yes,SBrkr,1178,3,2008,Warranty Deed,Normal,157000
+10000,Sawyer,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,1144,3,2009,Warranty Deed,Normal,131400
+10000,Somerst,Single Family,1Story,8,Poured Concrete ,1588,Yes,SBrkr,1588,3,2007,Warranty Deed,Normal,227000
+10000,CollgCr,Single Family,2Story,8,Poured Concrete ,1220,Yes,SBrkr,2090,3,2007,Warranty Deed,Normal,240000
+9991,Sawyer,Single Family,1Story,4,Cinder Block,1281,Yes,SBrkr,1620,3,2009,Warranty Deed,Normal,150000
+9986,Somerst,Single Family,1Story,8,Poured Concrete ,1795,Yes,SBrkr,1795,2,2007,New,Partial,147000
+9967,Gilbert,Single Family,SFlat,7,Poured Concrete ,384,Yes,SBrkr,1430,3,2007,Warranty Deed,Normal,170000
+9965,CollgCr,Single Family,2Story,7,Poured Concrete ,1264,Yes,SBrkr,2696,4,2007,New,Partial,383970
+9965,CollgCr,Single Family,2Story,8,Poured Concrete ,1466,Yes,SBrkr,2828,4,2007,New,Partial,424870
+9950,NoRidge,Single Family,2Story,7,Poured Concrete ,1203,Yes,SBrkr,2520,4,2007,Warranty Deed,Force Closure,290000
+9947,Mitchel,Single Family,SFlat,7,Poured Concrete ,1188,Yes,SBrkr,1217,3,2009,Warranty Deed,Normal,173000
+9945,Sawyer,Single Family,1Story,5,Cinder Block,988,Yes,SBrkr,988,3,2007,Warranty Deed,Normal,128500
+9938,SawyerW,Single Family,2Story,7,Poured Concrete ,1050,Yes,SBrkr,1949,3,2010,Warranty Deed,Normal,236000
+9937,Edwards,Single Family,1Story,5,Poured Concrete ,1486,Yes,SBrkr,1486,3,2009,Warranty Deed,Normal,167000
+9937,Edwards,Single Family,1Story,5,Cinder Block,1256,Yes,SBrkr,1256,3,2008,Warranty Deed,Normal,147500
+9920,CollgCr,Single Family,1Story,5,Cinder Block,971,Yes,SBrkr,971,3,2006,Warranty Deed,Normal,128500
+9920,NoRidge,Single Family,2Story,7,Poured Concrete ,1117,Yes,SBrkr,2013,3,2007,Warranty Deed,Normal,269790
+9920,NAmes,Single Family,1Story,5,Cinder Block,1056,Yes,SBrkr,1063,3,2010,Warranty Deed,Normal,128000
+9906,OldTown,Single Family,2Story,4,Cinder Block,686,No,SBrkr,1328,3,2006,Warranty Deed,Within Family,107000
+9900,NoRidge,Single Family,2Story,7,Poured Concrete ,1347,Yes,SBrkr,2646,4,2009,Warranty Deed,Normal,260000
+9900,SWISU,Single Family,1.5Fin,6,Brick and Tile,778,Yes,SBrkr,1489,3,2009,Warranty Deed,Normal,139500
+9900,NWAmes,Single Family,2Story,7,Cinder Block,832,Yes,SBrkr,1978,4,2008,Warranty Deed,Normal,176000
+9900,OldTown,Single Family,2Story,6,Brick and Tile,1008,Yes,SBrkr,2210,5,2007,Warranty Deed,Normal,117500
+9880,Mitchel,Single Family,SFlat,6,Cinder Block,1096,Yes,SBrkr,1118,3,2008,Warranty Deed,Normal,171000
+9873,Brookside,Two Family,1Story,4,Cinder Block,960,No,SBrkr,960,3,2006,Warranty Deed,Normal,129000
+9858,Mitchel,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,874,3,2009,Warranty Deed,Normal,130000
+9855,Edwards,Single Family,1Story,6,Cinder Block,1436,Yes,SBrkr,1689,3,2009,Contract,Normal,127500
+9849,Somerst,Single Family,1Story,7,Poured Concrete ,1689,Yes,SBrkr,1689,3,2007,New,Partial,248328
+9842,NAmes,Duplex,1Story,4,Slab,0,Yes,SBrkr,1224,2,2007,Warranty Deed,Normal,101800
+9842,SWISU,Single Family,2Story,5,Brick and Tile,612,Yes,SBrkr,2601,4,2008,Warranty Deed,Normal,189000
+9830,NAmes,Single Family,1Story,5,Cinder Block,1063,Yes,SBrkr,1287,3,2010,Warranty Deed,Normal,162000
+9828,SawyerW,Single Family,2Story,8,Poured Concrete ,1128,Yes,SBrkr,2020,3,2009,Warranty Deed,Normal,239500
+9825,Edwards,Duplex,1Story,5,Cinder Block,0,No,SBrkr,1664,4,2010,Warranty Deed,Normal,100000
+9819,Sawyer,Single Family,1Story,5,Cinder Block,882,Yes,SBrkr,900,3,2010,Warranty Deed,Normal,122000
+9819,Mitchel,Single Family,1Story,6,Poured Concrete ,1567,Yes,SBrkr,1567,2,2009,Warranty Deed,Normal,196000
+9808,CollgCr,Single Family,1Story,7,Poured Concrete ,1573,Yes,SBrkr,1573,3,2009,Warranty Deed,Normal,227000
+9803,Somerst,Single Family,2Story,7,Poured Concrete ,866,Yes,SBrkr,1768,3,2008,Warranty Deed,Normal,226700
+9800,CollgCr,Single Family,1Story,5,Poured Concrete ,894,Yes,SBrkr,894,3,2006,Warranty Deed,Force Closure,149900
+9790,NWAmes,Single Family,1Story,6,Cinder Block,1372,Yes,SBrkr,1342,3,2009,Warranty Deed,Normal,161500
+9790,NWAmes,Single Family,1Story,6,Cinder Block,1328,Yes,SBrkr,1328,3,2010,Warranty Deed,Normal,143000
+9786,NAmes,Single Family,1.5Fin,6,Cinder Block,912,Yes,SBrkr,1734,3,2006,Warranty Deed,Normal,159000
+9786,IDOTRR,Single Family,1Story,3,Brick and Tile,1007,No,SBrkr,1077,3,2006,Warranty Deed,Normal,91000
+9765,Gilbert,Single Family,2Story,6,Poured Concrete ,680,Yes,SBrkr,1470,3,2009,Warranty Deed,Normal,185000
+9764,Sawyer,Single Family,1Story,5,Cinder Block,894,Yes,SBrkr,894,3,2008,Warranty Deed,Normal,130000
+9760,NAmes,Single Family,2Story,6,Cinder Block,822,Yes,SBrkr,1851,3,2007,Warranty Deed,Normal,187000
+9760,NAmes,Single Family,2Story,6,Cinder Block,780,Yes,SBrkr,1611,4,2008,Warranty Deed,Normal,167900
+9758,NAmes,Single Family,1Story,5,Cinder Block,950,Yes,SBrkr,950,3,2007,Warranty Deed,Normal,119500
+9750,NAmes,Single Family,SFlat,5,Poured Concrete ,980,Yes,SBrkr,980,3,2006,Warranty Deed,Normal,135500
+9750,NAmes,Single Family,1Story,6,Cinder Block,1442,Yes,SBrkr,1442,4,2007,Contract,Normal,157900
+9750,CollgCr,Single Family,1Story,7,Poured Concrete ,1630,Yes,SBrkr,1630,3,2009,Warranty Deed,Normal,213000
+9750,NAmes,Single Family,1Story,6,Cinder Block,1054,Yes,SBrkr,1054,3,2008,Warranty Deed,Normal,151000
+9750,CollgCr,Single Family,2Story,7,Poured Concrete ,1108,Yes,SBrkr,2097,3,2006,Warranty Deed,Normal,274300
+9742,CollgCr,Single Family,1Story,8,Poured Concrete ,1777,Yes,SBrkr,1795,3,2008,Warranty Deed,Normal,230000
+9738,Edwards,Single Family,1.5Fin,5,Brick and Tile,784,Yes,SBrkr,1221,4,2006,Warranty Deed,Normal,104900
+9735,Timber,Single Family,SFlat,5,Poured Concrete ,384,Yes,NA,1394,3,2008,Warranty Deed,Normal,167500
+9717,NAmes,Single Family,1Story,5,Cinder Block,1078,Yes,FuseA,1078,2,2010,Warranty Deed,Normal,142125
+9675,Somerst,Single Family,2Story,7,Poured Concrete ,1113,Yes,SBrkr,1971,3,2009,Warranty Deed,Normal,253000
+9672,SawyerW,Single Family,1Story,6,Poured Concrete ,1040,Yes,SBrkr,1097,3,2010,Warranty Deed,Normal,152000
+9650,NWAmes,Single Family,1Story,6,Cinder Block,1350,Yes,SBrkr,1334,2,2009,Warranty Deed,Normal,167900
+9638,SWISU,Single Family,1.5Fin,6,Poured Concrete ,804,Yes,SBrkr,2447,4,2010,Warranty Deed,Normal,169000
+9636,Gilbert,Single Family,2Story,6,Poured Concrete ,808,Yes,SBrkr,1593,3,2009,Warranty Deed,Normal,178000
+9612,Somerst,Single Family,1Story,8,Poured Concrete ,1468,Yes,SBrkr,1468,3,2009,New,Partial,244600
+9600,Veenker,Single Family,1Story,6,Cinder Block,1262,Yes,SBrkr,1262,3,2007,Warranty Deed,Normal,181500
+9600,Edwards,Single Family,1.5Fin,6,Brick and Tile,572,No,FuseF,1096,2,2008,Warranty Deed,Normal,79000
+9600,NAmes,Single Family,1Story,6,Cinder Block,1240,Yes,SBrkr,1632,3,2009,Warranty Deed,Normal,139000
+9600,NAmes,Single Family,1Story,6,Cinder Block,1416,Yes,SBrkr,1644,3,2009,Warranty Deed,Normal,167000
+9600,OldTown,Single Family,2Story,7,Brick and Tile,728,Yes,SBrkr,1641,3,2006,Warranty Deed,Normal,178000
+9600,NWAmes,Single Family,1Story,7,Cinder Block,1242,Yes,SBrkr,1242,3,2007,Warranty Deed,Normal,175500
+9600,NAmes,Single Family,1Story,5,Cinder Block,1113,Yes,SBrkr,1113,3,2009,Warranty Deed,Normal,147000
+9600,OldTown,Single Family,2Story,7,Brick and Tile,689,Yes,SBrkr,1378,3,2008,Warranty Deed,Normal,161000
+9600,NAmes,Single Family,1Story,5,Cinder Block,1041,Yes,SBrkr,1041,3,2009,Warranty Deed,Normal,124500
+9600,NAmes,Single Family,SFlat,6,Cinder Block,1156,Yes,SBrkr,1520,3,2010,Warranty Deed,Normal,153000
+9600,OldTown,Single Family,2Story,4,Brick and Tile,1095,No,SBrkr,1774,4,2006,Warranty Deed,Normal,87000
+9600,NWAmes,Single Family,1Story,7,Cinder Block,1164,Yes,SBrkr,1164,3,2006,Contract,Normal,140000
+9600,OldTown,Single Family,2Story,5,Brick and Tile,264,Yes,SBrkr,1432,2,2007,Warranty Deed,Force Closure,132000
+9600,Sawyer,Single Family,1Story,4,Cinder Block,1067,Yes,SBrkr,1067,2,2010,Warranty Deed,Normal,128000
+9600,Veenker,Single Family,SFlat,6,Cinder Block,528,Yes,SBrkr,1855,3,2007,Warranty Deed,Normal,187000
+9600,Crawfor,Single Family,1.5Fin,5,Brick and Tile,728,Yes,SBrkr,1308,2,2009,Warranty Deed,Normal,160000
+9600,NWAmes,Single Family,1Story,8,Poured Concrete ,2524,Yes,SBrkr,2524,4,2009,Warranty Deed,Normal,278000
+9600,NAmes,Single Family,1.5Unf,5,Cinder Block,845,Yes,SBrkr,893,2,2007,Warranty Deed,Normal,135000
+9600,NAmes,Single Family,1.5Fin,6,Cinder Block,1032,Yes,FuseA,1252,3,2008,Warranty Deed,Force Closure,119000
+9600,OldTown,Single Family,1.5Fin,5,Poured Concrete ,702,Yes,SBrkr,1472,3,2007,Warranty Deed,Normal,125000
+9600,OldTown,Single Family,2.5Unf,6,Brick and Tile,735,No,SBrkr,2058,3,2008,Warranty Deed,Normal,129500
+9600,NAmes,Single Family,1Story,5,Cinder Block,1050,Yes,SBrkr,1050,2,2009,Warranty Deed,Normal,128900
+9600,NAmes,Single Family,SFlat,6,Cinder Block,992,Yes,SBrkr,1661,3,2008,Warranty Deed,Normal,165500
+9600,NAmes,Single Family,1.5Fin,6,Cinder Block,856,Yes,SBrkr,1668,3,2009,Warranty Deed,Normal,140000
+9591,NridgHt,Single Family,2Story,8,Poured Concrete ,1143,Yes,SBrkr,2473,4,2007,Warranty Deed,Normal,317000
+9042,Gilbert,Single Family,2Story,6,Poured Concrete ,943,Yes,SBrkr,1638,3,2008,Warranty Deed,Normal,192000
+9042,Crawfor,Single Family,2Story,7,Stone,1152,Yes,SBrkr,2340,4,2010,Warranty Deed,Normal,266500
+9037,Timber,Single Family,1Story,8,Poured Concrete ,1476,Yes,SBrkr,1484,2,2007,Warranty Deed,Normal,265900
+9022,OldTown,Single Family,1Story,5,Brick and Tile,768,Yes,SBrkr,792,2,2009,Warranty Deed,Normal,109500
+9020,NAmes,Single Family,SFlat,6,Cinder Block,1248,Yes,SBrkr,1350,3,2008,Warranty Deed,Normal,168500
+9020,NAmes,Single Family,SFlat,6,Cinder Block,1127,Yes,SBrkr,1165,3,2008,Warranty Deed,Normal,174900
+9018,Gilbert,Single Family,2Story,7,Poured Concrete ,728,Yes,SBrkr,1456,3,2007,New,Partial,179540
+9017,CollgCr,Single Family,1Story,7,Poured Concrete ,1431,Yes,SBrkr,1431,3,2009,Warranty Deed,Normal,192000
+9000,Somerst,Single Family,1Story,8,Poured Concrete ,1566,Yes,SBrkr,1566,3,2010,Warranty Deed,Normal,262500
+9000,Somerst,Single Family,2Story,8,Poured Concrete ,1088,Yes,SBrkr,1959,3,2007,Warranty Deed,Normal,270000
+9000,SawyerW,Single Family,1.5Unf,6,Brick and Tile,784,No,FuseA,784,2,2009,Warranty Deed,Normal,76000
+9000,NAmes,Single Family,1Story,6,Cinder Block,1196,Yes,FuseA,1196,2,2008,Warranty Deed,Normal,139000
+9000,Somerst,Single Family,2Story,8,Poured Concrete ,768,Yes,SBrkr,1590,3,2009,Warranty Deed,Normal,210000
+9000,IDOTRR,Single Family,1.5Fin,6,Poured Concrete ,780,Yes,SBrkr,1375,3,2007,Warranty Deed,Normal,141000
+9000,OldTown,Single Family,2Story,5,Brick and Tile,636,Yes,FuseA,1750,3,2006,Warranty Deed,Force Closure,124000
+9000,NAmes,Single Family,1Story,5,Cinder Block,936,Yes,SBrkr,1128,2,2006,Warranty Deed,Within Family,118000
+9000,Somerst,Single Family,2Story,8,Poured Concrete ,1184,Yes,SBrkr,2610,4,2007,New,Partial,303477
+9000,IDOTRR,Single Family,1Story,2,Cinder Block,480,No,FuseA,480,1,2006,Warranty Deed,Force Closure,35311
+9000,Sawyer,Single Family,1Story,5,Cinder Block,1006,Yes,SBrkr,1006,3,2008,Warranty Deed,Normal,80000
+9000,OldTown,Single Family,2Story,7,Poured Concrete ,650,Yes,SBrkr,1482,3,2009,Warranty Deed,Normal,143000
+9000,NAmes,Single Family,1Story,4,Poured Concrete ,864,Yes,SBrkr,864,3,2007,Warranty Deed,Normal,120500
+9000,NAmes,Duplex,2Story,5,Cinder Block,896,Yes,SBrkr,1792,4,2009,Warranty Deed,Normal,136000
+8993,Gilbert,Single Family,1Story,7,Poured Concrete ,1302,Yes,SBrkr,1302,3,2007,New,Partial,176485
+8990,CollgCr,Single Family,1Story,7,Poured Concrete ,1498,Yes,SBrkr,1498,2,2006,New,Partial,204900
+8978,Sawyer,Single Family,1Story,5,Poured Concrete ,948,Yes,SBrkr,948,3,2007,Warranty Deed,Within Family,108000
+8973,NAmes,Single Family,1Story,5,Cinder Block,1008,Yes,FuseA,1053,3,2006,Warranty Deed,Force Closure,150000
+8967,IDOTRR,Single Family,1Story,5,Brick and Tile,961,Yes,Mix,1077,2,2007,Warranty Deed,Force Closure,67000
+8963,NWAmes,Single Family,2Story,8,Cinder Block,1142,Yes,SBrkr,2715,4,2008,Warranty Deed,Normal,299800
+8960,OldTown,Single Family,1Story,5,Cinder Block,1008,Yes,FuseA,1028,2,2010,Warranty Deed,Normal,115000
+8944,NAmes,Duplex,1Story,5,Cinder Block,1584,Yes,SBrkr,1584,4,2009,Warranty Deed,Normal,124000
+8935,CollgCr,Single Family,2Story,7,Poured Concrete ,831,Yes,SBrkr,1660,3,2009,Warranty Deed,Normal,195000
+8930,Sawyer,Duplex,1.5Fin,6,Slab,0,Yes,SBrkr,1902,4,2010,Warranty Deed,Normal,112000
+8926,Edwards,Single Family,1Story,4,Cinder Block,672,Yes,FuseA,960,3,2009,Contract,Force Closure,112000
+8925,Timber,Single Family,1Story,8,Poured Concrete ,1466,Yes,SBrkr,1466,3,2009,Warranty Deed,Normal,201000
+8924,CollgCr,Single Family,2Story,7,Poured Concrete ,880,Yes,SBrkr,1724,3,2008,Warranty Deed,Normal,188000
+8923,NAmes,Single Family,1Story,5,Cinder Block,1008,Yes,SBrkr,1008,2,2007,Warranty Deed,Normal,134500
+8910,NAmes,Single Family,1Story,6,Cinder Block,655,Yes,SBrkr,1194,3,2006,Warranty Deed,Normal,159500
+8900,SawyerW,Single Family,1Story,4,Cinder Block,1056,Yes,SBrkr,1056,2,2006,Warranty Deed,Normal,107000
+8899,Gilbert,Single Family,1Story,7,Poured Concrete ,1340,Yes,SBrkr,1340,3,2007,New,Partial,181134
+8892,NAmes,Single Family,1Story,5,Cinder Block,1065,Yes,SBrkr,1065,3,2007,Contract,Normal,126500
+8892,NAmes,Single Family,1Story,5,Stone,105,Yes,SBrkr,910,3,2008,Warranty Deed,Normal,116000
+8885,Mitchel,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,902,2,2006,Warranty Deed,Normal,131000
+8880,SawyerW,Single Family,2Story,7,Poured Concrete ,948,Yes,SBrkr,2110,3,2010,Warranty Deed,Normal,205000
+8877,Edwards,Single Family,1Story,4,Cinder Block,836,Yes,FuseF,1220,2,2006,Contract,Normal,102000
+8877,Edwards,Single Family,1Story,4,Cinder Block,816,Yes,SBrkr,816,2,2009,Warranty Deed,Normal,100000
+8872,NAmes,Single Family,1Story,5,Cinder Block,912,Yes,SBrkr,912,2,2008,Warranty Deed,Normal,147000
+8854,Brookside,Single Family,1.5Unf,6,Brick and Tile,952,No,FuseF,952,2,2009,Warranty Deed,Normal,121000
+8849,NridgHt,Townhouse,1Story,9,Poured Concrete ,1684,Yes,SBrkr,1684,2,2008,Warranty Deed,Normal,266000
+8846,CollgCr,Single Family,SFoyer,5,Poured Concrete ,870,Yes,SBrkr,914,2,2006,Warranty Deed,Normal,148000
+8846,CollgCr,Single Family,2Story,6,Poured Concrete ,750,Yes,SBrkr,1500,3,2006,New,Partial,173900
+8834,NridgHt,Single Family,2Story,9,Poured Concrete ,1462,Yes,SBrkr,2224,4,2009,Warranty Deed,Normal,350000
+8820,OldTown,Single Family,1.5Fin,5,Brick and Tile,1088,Yes,SBrkr,1869,2,2009,Warranty Deed,Normal,124900
+8816,Clear Creek,Single Family,SFlat,6,Cinder Block,1010,Yes,SBrkr,1052,3,2010,Warranty Deed,Normal,155000
+8816,Sawyer,Single Family,1Story,5,Poured Concrete ,1121,Yes,SBrkr,1121,3,2009,Warranty Deed,Normal,139000
+8814,CollgCr,Single Family,1Story,7,Poured Concrete ,1604,Yes,SBrkr,1604,3,2009,Warranty Deed,Force Closure,220000
+8814,CollgCr,Single Family,1Story,7,Poured Concrete ,1274,Yes,SBrkr,1274,3,2007,New,Partial,203000
+8800,NAmes,Single Family,SFoyer,6,Poured Concrete ,936,Yes,SBrkr,1054,3,2010,Warranty Deed,Force Closure,137500
+8800,OldTown,Single Family,1.5Fin,4,Brick and Tile,576,Yes,SBrkr,1140,3,2010,Warranty Deed,Normal,96500
+8800,NAmes,Single Family,1Story,6,Cinder Block,1251,Yes,SBrkr,1251,3,2006,Warranty Deed,Normal,160000
+8800,CollgCr,Single Family,1Story,5,Cinder Block,1040,Yes,SBrkr,1040,3,2009,Warranty Deed,Normal,150500
+8795,Gilbert,Single Family,2Story,7,Poured Concrete ,952,Yes,SBrkr,2256,4,2009,Warranty Deed,Normal,236000
+8791,Somerst,Single Family,2Story,6,Poured Concrete ,864,Yes,SBrkr,1728,3,2008,Warranty Deed,Normal,207500
+8780,Mitchel,Single Family,1Story,5,Cinder Block,833,Yes,SBrkr,833,3,2009,Warranty Deed,Normal,112000
+8777,Edwards,Single Family,1Story,4,Cinder Block,0,Yes,SBrkr,1126,2,2009,Warranty Deed,Normal,108000
+8777,Edwards,Single Family,1Story,5,Cinder Block,796,Yes,FuseA,796,2,2008,Warranty Deed,Normal,85000
+8777,Edwards,Duplex,1.5Fin,5,Cinder Block,1272,Yes,SBrkr,2200,4,2008,Warranty Deed,Normal,145900
+8775,CollgCr,Single Family,1Story,5,Poured Concrete ,990,Yes,SBrkr,990,3,2007,Warranty Deed,Normal,126000
+8773,CollgCr,Single Family,1Story,7,Poured Concrete ,1414,Yes,SBrkr,1414,3,2010,Warranty Deed,Normal,185500
+8773,Gilbert,Single Family,2Story,6,Poured Concrete ,916,Yes,SBrkr,1600,3,2007,Warranty Deed,Normal,169000
+8769,NridgHt,Townhouse,1Story,9,Poured Concrete ,1702,Yes,SBrkr,1702,1,2008,New,Partial,367294
+8767,CollgCr,Single Family,1Story,7,Poured Concrete ,1310,Yes,SBrkr,1310,3,2006,New,Partial,164990
+8765,IDOTRR,Single Family,1Story,4,Brick and Tile,951,No,SBrkr,951,2,2006,Warranty Deed,Force Closure,106500
+8760,NAmes,Single Family,1Story,6,Cinder Block,1194,Yes,SBrkr,1194,3,2010,Warranty Deed,Normal,148000
+8760,CollgCr,Single Family,2Story,7,Poured Concrete ,1391,Yes,SBrkr,1962,3,2006,New,Partial,239799
+8755,Gilbert,Single Family,2Story,7,Poured Concrete ,992,Yes,SBrkr,2060,3,2009,Warranty Deed,Normal,214000
+8750,CollgCr,Single Family,2Story,7,Poured Concrete ,915,Yes,SBrkr,1908,4,2008,Warranty Deed,Normal,210000
+8750,CollgCr,Single Family,2Story,7,Poured Concrete ,880,Yes,SBrkr,1716,2,2009,Warranty Deed,Normal,191000
+8750,NAmes,Single Family,1Story,5,Cinder Block,1002,Yes,SBrkr,1002,3,2009,Warranty Deed,Normal,148500
+8750,CollgCr,Single Family,2Story,6,Poured Concrete ,804,Yes,SBrkr,1682,3,2010,Warranty Deed,Normal,200500
+8749,CollgCr,Single Family,1Story,7,Poured Concrete ,1459,Yes,SBrkr,1459,3,2007,Warranty Deed,Normal,192000
+8741,Edwards,Single Family,1.5Fin,6,Cinder Block,735,Yes,FuseA,1487,3,2010,Warranty Deed,Normal,113000
+8740,Sawyer,Single Family,SFoyer,5,Cinder Block,840,Yes,SBrkr,860,2,2009,Warranty Deed,Normal,137000
+8738,Gilbert,Single Family,2Story,7,Poured Concrete ,975,Yes,SBrkr,2291,4,2006,Warranty Deed,Normal,230000
+8737,Brookside,Single Family,1.5Fin,6,Brick and Tile,1065,Yes,FuseA,1635,3,2007,Warranty Deed,Normal,210000
+8731,Brookside,Single Family,1Story,5,Brick and Tile,915,Yes,SBrkr,1167,3,2007,Warranty Deed,Normal,144000
+8730,Brookside,Single Family,2Story,6,Brick and Tile,698,Yes,FuseA,1396,3,2007,Warranty Deed,Normal,153575
+8724,Sawyer,Single Family,1Story,5,Cinder Block,894,Yes,SBrkr,894,3,2007,Warranty Deed,Normal,129000
+8712,IDOTRR,Single Family,1.5Fin,4,Stone,859,Yes,SBrkr,1178,2,2010,Warranty Deed,Force Closure,102776
+8712,IDOTRR,Single Family,1Story,5,Cinder Block,540,No,FuseA,1044,2,2010,Warranty Deed,Within Family,55993
+8712,NAmes,Single Family,1Story,5,Cinder Block,992,Yes,SBrkr,1306,2,2009,Warranty Deed,Normal,153000
+8700,NAmes,Single Family,1Story,5,Cinder Block,1120,Yes,SBrkr,1128,3,2008,Warranty Deed,Normal,155000
+8688,Somerst,Single Family,1Story,7,Poured Concrete ,1616,Yes,SBrkr,1616,3,2006,Warranty Deed,Normal,232000
+8658,NAmes,Single Family,1Story,6,Cinder Block,1088,Yes,SBrkr,1324,3,2006,Warranty Deed,Force Closure,160000
+8640,Somerst,Single Family,2Story,7,Poured Concrete ,900,Yes,SBrkr,1852,3,2009,New,Partial,252678
+8640,Somerst,Single Family,1Story,7,Poured Concrete ,1372,Yes,SBrkr,1372,3,2008,New,Partial,250580
+8640,Somerst,Single Family,1Story,8,Poured Concrete ,1300,Yes,SBrkr,1314,3,2009,New,Partial,229456
+8635,Brookside,Single Family,1.5Fin,5,Cinder Block,672,Yes,SBrkr,1285,2,2008,Warranty Deed,Normal,127000
+8633,CollgCr,Single Family,2Story,6,Poured Concrete ,738,Yes,SBrkr,1476,3,2009,Warranty Deed,Normal,173500
+8600,IDOTRR,Single Family,1.5Fin,6,Brick and Tile,780,Yes,SBrkr,1376,3,2006,Warranty Deed,Normal,119500
+8593,NAmes,Single Family,1Story,4,Cinder Block,907,Yes,SBrkr,907,3,2008,Warranty Deed,Normal,109008
+8562,Edwards,Single Family,1Story,5,Cinder Block,1216,Yes,FuseA,1526,4,2010,Warranty Deed,Normal,144500
+8556,CollgCr,Single Family,1Story,7,Poured Concrete ,1240,Yes,SBrkr,1240,2,2007,Warranty Deed,Normal,194000
+8546,Edwards,Single Family,1Story,4,Poured Concrete ,1121,Yes,SBrkr,1121,2,2010,Warranty Deed,Normal,140000
+8544,Sawyer,Single Family,1Story,5,Cinder Block,1228,Yes,SBrkr,1228,3,2008,Warranty Deed,Normal,149350
+8544,NAmes,Duplex,1Story,3,Slab,0,No,FuseA,1040,2,2006,Warranty Deed,Normal,87500
+8544,NAmes,Duplex,1Story,3,Cinder Block,0,No,FuseF,1040,2,2006,Warranty Deed,Normal,93500
+8544,NAmes,Duplex,1Story,3,Slab,0,No,FuseA,1040,2,2009,Warranty Deed,Normal,92900
+8536,Edwards,Single Family,1Story,5,Poured Concrete ,1125,Yes,SBrkr,1125,2,2007,New,Partial,155000
+8532,NAmes,Single Family,1Story,5,Cinder Block,1297,Yes,SBrkr,1297,3,2009,Warranty Deed,Normal,153000
+8530,Gilbert,Single Family,SFlat,7,Poured Concrete ,384,Yes,SBrkr,1474,3,2009,Warranty Deed,Normal,168500
+8529,SawyerW,Single Family,1Story,7,Poured Concrete ,1454,Yes,SBrkr,1434,3,2009,Warranty Deed,Normal,189000
+8525,SWISU,Single Family,2Story,5,Poured Concrete ,940,No,FuseA,1964,4,2008,Warranty Deed,Force Closure,130000
+8521,Sawyer,Single Family,1Story,5,Cinder Block,912,Yes,SBrkr,912,3,2010,Warranty Deed,Normal,125000
+8520,NAmes,Single Family,1.5Fin,5,Cinder Block,910,Yes,SBrkr,1385,4,2010,Warranty Deed,Normal,166000
+8520,OldTown,Single Family,1Story,5,Cinder Block,968,Yes,SBrkr,968,2,2007,Warranty Deed,Normal,100000
+8520,OldTown,Single Family,1Story,6,Brick and Tile,624,Yes,SBrkr,720,2,2010,Warranty Deed,Normal,105900
+8500,IDOTRR,Single Family,2Story,4,Brick and Tile,649,No,SBrkr,1317,3,2008,Warranty Deed,Normal,40000
+8500,NAmes,Single Family,1Story,5,Cinder Block,1235,Yes,SBrkr,1235,2,2006,Warranty Deed,Force Closure,98600
+8500,IDOTRR,Single Family,1.5Fin,5,Cinder Block,793,No,FuseF,1517,3,2007,Warranty Deed,Normal,115000
+8500,CollgCr,Single Family,1Story,7,Poured Concrete ,1422,Yes,SBrkr,1422,3,2007,Warranty Deed,Normal,179600
+8499,Gilbert,Single Family,2Story,6,Poured Concrete ,616,Yes,SBrkr,1412,3,2007,New,Partial,156932
+8487,CollgCr,Single Family,1Story,7,Poured Concrete ,1500,Yes,SBrkr,1500,3,2009,Warranty Deed,Normal,190000
+8480,Sawyer,Single Family,1Story,5,Cinder Block,970,Yes,SBrkr,970,2,2007,Warranty Deed,Normal,132500
+8480,NAmes,Single Family,1.5Fin,5,Cinder Block,832,Yes,SBrkr,1216,2,2008,Contract,Force Closure,118500
+8475,NAmes,Single Family,1Story,4,Cinder Block,952,Yes,FuseA,952,2,2008,Warranty Deed,Normal,135750
+8472,IDOTRR,Duplex,1Story,5,Cinder Block,816,No,SBrkr,816,2,2010,Warranty Deed,Normal,110000
+8471,Sawyer,Single Family,SFlat,6,Cinder Block,506,Yes,SBrkr,1212,3,2006,Warranty Deed,Normal,151000
+8470,IDOTRR,Single Family,1.5Fin,3,Cinder Block,1013,No,SBrkr,1526,2,2009,Contract Low Down,Force Closure,85000
+8462,SawyerW,Single Family,2Story,6,Poured Concrete ,928,Yes,SBrkr,1721,3,2007,Warranty Deed,Normal,201000
+8461,CollgCr,Single Family,2Story,6,Poured Concrete ,728,Yes,SBrkr,1456,3,2006,New,Partial,163990
+8450,CollgCr,Single Family,2Story,7,Poured Concrete ,856,Yes,SBrkr,1710,3,2011,Warranty Deed,Normal,208500
+8450,CollgCr,Single Family,1Story,7,Poured Concrete ,1436,Yes,SBrkr,1436,3,2008,Warranty Deed,Normal,210000
+8450,NAmes,Single Family,1Story,5,Cinder Block,1056,Yes,SBrkr,1056,3,2010,Warranty Deed,Normal,142000
+8450,Sawyer,Single Family,1Story,5,Cinder Block,894,Yes,SBrkr,894,3,2010,Warranty Deed,Normal,138500
+8450,SawyerW,Single Family,1Story,7,Poured Concrete ,1349,Yes,SBrkr,1349,3,2007,Warranty Deed,Normal,179000
+8450,CollgCr,Single Family,1Story,7,Poured Concrete ,1337,Yes,SBrkr,1337,3,2007,Warranty Deed,Normal,185000
+8445,CollgCr,Single Family,SFoyer,5,Cinder Block,768,Yes,SBrkr,768,2,2009,Warranty Deed,Normal,133000
+8430,CollgCr,Single Family,1Story,5,Cinder Block,1040,Yes,SBrkr,1040,3,2009,Warranty Deed,Normal,124000
+8414,Sawyer,Single Family,1Story,6,Cinder Block,1059,Yes,SBrkr,1068,3,2006,Warranty Deed,Normal,154500
+8410,Edwards,Single Family,1.5Fin,5,Poured Concrete ,658,Yes,SBrkr,1184,5,2006,Warranty Deed,Adjacent Land Purchase,81000
+8405,Edwards,Single Family,1.5Fin,5,Brick and Tile,861,Yes,SBrkr,1367,4,2008,Warranty Deed,Normal,119000
+8405,Edwards,Single Family,1.5Fin,4,Slab,0,No,FuseF,1529,4,2009,Warranty Deed,Normal,98000
+8402,Mitchel,Single Family,1Story,5,Poured Concrete ,1120,Yes,SBrkr,1120,3,2007,New,Partial,147000
+8400,NAmes,Single Family,1Story,5,Cinder Block,1314,Yes,SBrkr,1314,3,2010,Warranty Deed,Normal,145000
+8400,SWISU,Single Family,2.5Fin,5,Poured Concrete ,720,Yes,SBrkr,2192,4,2008,Warranty Deed,Normal,179500
+8400,SawyerW,Single Family,1Story,4,Cinder Block,721,Yes,SBrkr,841,2,2009,Warranty Deed,Normal,82000
+8400,SWISU,Single Family,1.5Fin,6,Cinder Block,940,Yes,SBrkr,1595,2,2006,Warranty Deed,Normal,140000
+8400,CollgCr,Single Family,1Story,7,Poured Concrete ,1473,Yes,SBrkr,1484,3,2010,Warranty Deed,Normal,213000
+8400,SawyerW,Duplex,1Story,5,Slab,0,Yes,SBrkr,2020,4,2007,Warranty Deed,Normal,144000
+8400,SawyerW,Single Family,2Story,6,Cinder Block,650,Yes,SBrkr,1564,3,2010,Warranty Deed,Normal,171000
+8400,NWAmes,Single Family,2Story,8,Poured Concrete ,810,Yes,SBrkr,1665,3,2009,Warranty Deed,Normal,227000
+8400,SWISU,Single Family,1.5Fin,6,Poured Concrete ,1181,Yes,SBrkr,1694,4,2008,Warranty Deed,Normal,136500
+8400,SWISU,Single Family,1Story,2,Cinder Block,290,No,FuseF,438,1,2009,Warranty Deed,Normal,60000
+8400,NAmes,Single Family,1Story,5,Cinder Block,1052,Yes,SBrkr,1052,3,2006,Warranty Deed,Normal,138500
+8400,NAmes,Single Family,1Story,6,Cinder Block,1478,Yes,SBrkr,1478,3,2009,Warranty Deed,Normal,156500
+8400,NAmes,Single Family,1Story,6,Cinder Block,1319,Yes,SBrkr,1537,3,2008,Contract,Force Closure,174000
+8400,Sawyer,Single Family,SFoyer,6,Cinder Block,814,Yes,SBrkr,913,3,2007,Warranty Deed,Normal,129000
+8393,NAmes,Duplex,1Story,5,Cinder Block,1626,Yes,SBrkr,1712,4,2006,Warranty Deed,Within Family,145000
+8385,CollgCr,Single Family,SFlat,5,Cinder Block,985,Yes,SBrkr,985,3,2008,Warranty Deed,Normal,149900
+8366,SawyerW,Single Family,2Story,6,Poured Concrete ,798,Yes,SBrkr,1640,3,2008,Warranty Deed,Normal,173000
+8339,NAmes,Single Family,1Story,5,Slab,0,Yes,SBrkr,882,3,2007,Warranty Deed,Normal,106500
+8335,Edwards,Single Family,1Story,5,Slab,0,Yes,SBrkr,1124,3,2006,Warranty Deed,Normal,93000
+8320,CollgCr,Single Family,2Story,7,Poured Concrete ,770,Yes,SBrkr,1582,3,2008,Warranty Deed,Normal,185900
+8314,Mitchel,Single Family,1Story,5,Cinder Block,816,Yes,SBrkr,816,2,2007,Warranty Deed,Normal,124500
+8294,NAmes,Single Family,1Story,4,Cinder Block,858,Yes,SBrkr,872,3,2007,Warranty Deed,Normal,123000
+8281,Sawyer,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,864,3,2009,Warranty Deed,Normal,62383
+8280,NAmes,Single Family,1Story,6,Cinder Block,932,Yes,FuseA,932,2,2007,Warranty Deed,Normal,124000
+8263,IDOTRR,Single Family,1Story,6,Brick and Tile,1012,Yes,FuseA,1012,2,2007,Warranty Deed,Normal,118400
+8250,NAmes,Single Family,1Story,6,Cinder Block,1092,Yes,SBrkr,1092,3,2008,Warranty Deed,Normal,145000
+8250,Sawyer,Single Family,1Story,5,Cinder Block,952,Yes,SBrkr,1211,3,2008,Warranty Deed,Normal,134000
+8248,Edwards,Single Family,1Story,3,Brick and Tile,864,No,FuseF,864,2,2008,Warranty Deed,Normal,67000
+8248,Edwards,Single Family,1.5Fin,5,Brick and Tile,686,Yes,SBrkr,1250,3,2006,Warranty Deed,Normal,116000
+8246,Sawyer,Single Family,1Story,5,Cinder Block,1060,Yes,SBrkr,1060,3,2010,Warranty Deed,Normal,154000
+8244,Gilbert,Single Family,2Story,7,Poured Concrete ,840,Yes,SBrkr,1720,3,2007,Warranty Deed,Normal,183500
+8235,OldTown,Single Family,1Story,5,Cinder Block,825,Yes,SBrkr,825,2,2008,Warranty Deed,Normal,125000
+8212,Edwards,Single Family,1Story,3,Brick and Tile,864,No,FuseF,864,2,2010,Warranty Deed,Normal,58500
+8200,CollgCr,Single Family,2Story,7,Poured Concrete ,847,Yes,SBrkr,1928,4,2007,Warranty Deed,Normal,219500
+8199,CollgCr,Single Family,2Story,7,Poured Concrete ,728,Yes,SBrkr,1456,3,2008,Warranty Deed,Normal,189000
+8198,NridgHt,Townhouse,1Story,7,Poured Concrete ,1358,Yes,SBrkr,1358,2,2008,Warranty Deed,Normal,207000
+8197,Sawyer,Single Family,1Story,6,Cinder Block,660,Yes,SBrkr,1285,3,2007,Warranty Deed,Normal,143500
+8190,Edwards,Single Family,1Story,4,Cinder Block,948,Yes,SBrkr,948,3,2007,Warranty Deed,Normal,119000
+8176,NAmes,Single Family,1Story,5,Cinder Block,1056,Yes,SBrkr,1056,3,2007,Warranty Deed,Normal,139000
+8172,Edwards,Single Family,1.5Fin,4,Poured Concrete ,941,Yes,SBrkr,1470,4,2008,Warranty Deed,Normal,135000
+8172,Edwards,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,864,2,2006,Warranty Deed,Normal,115000
+8163,NAmes,Single Family,SFlat,5,Cinder Block,1144,Yes,SBrkr,1144,3,2006,Warranty Deed,Normal,143000
+8160,Edwards,Single Family,1.5Fin,5,Brick and Tile,756,No,FuseF,1134,3,2007,Warranty Deed,Adjacent Land Purchase,126000
+8158,CollgCr,Single Family,2Story,7,Poured Concrete ,884,Yes,SBrkr,1768,3,2008,Warranty Deed,Normal,224900
+8125,NAmes,Single Family,1Story,4,Cinder Block,858,Yes,SBrkr,858,3,2006,Warranty Deed,Normal,88000
+8125,Somerst,Single Family,2Story,7,Poured Concrete ,1092,Yes,SBrkr,1550,2,2009,Warranty Deed,Normal,241000
+8125,Somerst,Single Family,2Story,7,Poured Concrete ,813,Yes,SBrkr,1665,3,2008,Warranty Deed,Normal,205950
+8125,SawyerW,Single Family,1Story,6,Poured Concrete ,1408,Yes,SBrkr,1679,3,2008,Warranty Deed,Normal,193500
+8125,Gilbert,Single Family,2Story,6,Poured Concrete ,702,Yes,SBrkr,1481,3,2009,Warranty Deed,Normal,174000
+8125,Somerst,Single Family,2Story,7,Poured Concrete ,770,Yes,SBrkr,1576,3,2006,New,Partial,197000
+8125,CollgCr,Single Family,1Story,7,Poured Concrete ,1654,Yes,SBrkr,1654,3,2006,Warranty Deed,Normal,230000
+8125,Somerst,Single Family,2Story,7,Poured Concrete ,756,Yes,SBrkr,1553,3,2006,New,Partial,186500
+8123,Gilbert,Single Family,2Story,6,Poured Concrete ,982,Yes,SBrkr,1800,3,2009,Warranty Deed,Normal,179000
+8121,Gilbert,Single Family,2Story,6,Poured Concrete ,953,Yes,SBrkr,1664,3,2006,Warranty Deed,Normal,172400
+8120,NAmes,Single Family,1Story,4,Cinder Block,864,Yes,SBrkr,864,3,2009,Warranty Deed,Normal,124500
+8100,OldTown,Single Family,2.5Unf,5,Poured Concrete ,849,No,FuseA,2138,2,2009,Warranty Deed,Normal,106000
+8100,OldTown,Single Family,1Story,5,Brick and Tile,1559,Yes,SBrkr,1559,2,2007,Contract,Normal,153500
+8089,Stony Brook,Single Family,1Story,8,Poured Concrete ,1419,Yes,SBrkr,1419,2,2007,New,Partial,392000
+8072,CollgCr,Single Family,1Story,5,Poured Concrete ,990,Yes,SBrkr,990,3,2009,Warranty Deed,Normal,138000
+8070,CollgCr,Single Family,1Story,4,Poured Concrete ,990,Yes,SBrkr,990,3,2007,Warranty Deed,Normal,123600
+8064,NAmes,Single Family,1.5Fin,5,Cinder Block,672,Yes,SBrkr,924,3,2007,Warranty Deed,Normal,122900
+8063,Gilbert,Single Family,2Story,6,Poured Concrete ,924,Yes,SBrkr,1690,3,2007,Warranty Deed,Force Closure,181000
+8049,Timber,Single Family,1Story,7,Cinder Block,1309,Yes,SBrkr,1339,2,2006,Warranty Deed,Normal,180000
+8029,Gilbert,Single Family,2Story,6,Poured Concrete ,728,Yes,SBrkr,1456,3,2008,Warranty Deed,Normal,176000
+8012,SawyerW,Townhouse,1Story,6,Poured Concrete ,1575,Yes,SBrkr,1575,2,2007,Warranty Deed,Normal,179200
+8012,SawyerW,Townhouse,1Story,6,Cinder Block,923,Yes,SBrkr,923,2,2010,Warranty Deed,Normal,143000
+8012,SawyerW,Townhouse,1Story,6,Poured Concrete ,1604,Yes,SBrkr,1617,2,2008,Warranty Deed,Normal,193000
+8004,Somerst,Single Family,2Story,8,Poured Concrete ,832,Yes,SBrkr,1935,3,2009,New,Partial,263435
+8000,NAmes,Single Family,1Story,6,Cinder Block,972,Yes,SBrkr,972,2,2009,Warranty Deed,Normal,132000
+8000,NAmes,Duplex,1Story,5,Cinder Block,1800,No,SBrkr,1800,6,2007,Warranty Deed,Normal,141000
+8000,Gilbert,Single Family,2Story,6,Poured Concrete ,773,Yes,SBrkr,1658,3,2008,Warranty Deed,Normal,188000
+7990,CollgCr,Single Family,1Story,5,Cinder Block,924,Yes,SBrkr,924,3,2008,Warranty Deed,Normal,110000
+7950,Edwards,Single Family,2Story,6,Cinder Block,690,Yes,SBrkr,1426,3,2009,Warranty Deed,Normal,159500
+7945,NAmes,Single Family,1Story,5,Cinder Block,1150,Yes,FuseA,1150,3,2006,Warranty Deed,Normal,141000
+7943,Sawyer,Single Family,1Story,4,Cinder Block,1029,Yes,SBrkr,1029,3,2007,Warranty Deed,Normal,118500
+7937,Mitchel,Single Family,SFlat,6,Cinder Block,1003,Yes,SBrkr,1003,3,2006,Warranty Deed,Normal,142500
+7931,NAmes,Single Family,1Story,5,Cinder Block,1269,Yes,FuseA,1269,3,2008,Warranty Deed,Normal,155000
+7931,NAmes,Single Family,1Story,5,Cinder Block,1148,Yes,SBrkr,1148,3,2009,Warranty Deed,Normal,132500
+7930,NAmes,Single Family,1Story,6,Cinder Block,1026,Yes,SBrkr,1026,3,2009,Warranty Deed,Normal,156000
+7922,NAmes,Single Family,1Story,5,Cinder Block,1057,Yes,SBrkr,1057,3,2010,Warranty Deed,Force Closure,109000
+7920,IDOTRR,Single Family,1.5Fin,6,Cinder Block,319,Yes,FuseA,1406,3,2008,Warranty Deed,Normal,89500
+7917,Edwards,Single Family,1Story,6,Cinder Block,1143,Yes,SBrkr,1113,3,2007,Warranty Deed,Normal,148000
+7917,Gilbert,Single Family,2Story,6,Poured Concrete ,953,Yes,SBrkr,1647,3,2007,Warranty Deed,Normal,175000
+7910,NAmes,Single Family,SFlat,5,Cinder Block,1075,Yes,SBrkr,1507,4,2008,Warranty Deed,Normal,127000
+7892,SawyerW,Townhouse,1Story,6,Poured Concrete ,1199,Yes,SBrkr,1199,2,2008,Warranty Deed,Normal,153900
+7892,SawyerW,Townhouse,1Story,6,Cinder Block,918,Yes,SBrkr,918,2,2010,Warranty Deed,Normal,99500
+7879,IDOTRR,Single Family,1Story,4,Cinder Block,720,No,FuseA,720,2,2009,Warranty Deed,Force Closure,34900
+7875,Gilbert,Single Family,1Story,7,Poured Concrete ,1237,Yes,SBrkr,1253,3,2007,Warranty Deed,Normal,176000
+7875,NAmes,Single Family,1Story,5,Cinder Block,1144,Yes,SBrkr,1144,3,2008,Warranty Deed,Normal,139950
+7875,Gilbert,Single Family,2Story,7,Poured Concrete ,783,Yes,SBrkr,1509,3,2006,Warranty Deed,Normal,180000
+7862,Somerst,Single Family,1Story,6,Poured Concrete ,1218,Yes,SBrkr,1218,2,2009,New,Partial,208300
+7861,Gilbert,Single Family,2Story,6,Poured Concrete ,783,Yes,SBrkr,1509,3,2006,Warranty Deed,Normal,183200
+7851,Gilbert,Single Family,2Story,6,Poured Concrete ,860,Yes,SBrkr,1960,4,2010,Warranty Deed,Normal,216500
+7844,Sawyer,Single Family,2Story,6,Cinder Block,672,Yes,SBrkr,1400,3,2006,Warranty Deed,Normal,149500
+7838,NAmes,Single Family,SFoyer,5,Cinder Block,864,Yes,SBrkr,900,3,2006,Warranty Deed,Normal,123000
+7837,Gilbert,Single Family,2Story,6,Poured Concrete ,799,Yes,SBrkr,1571,3,2009,Warranty Deed,Normal,178000
+7820,NridgHt,Townhouse,1Story,9,Poured Concrete ,1869,Yes,SBrkr,1869,2,2007,New,Partial,318061
+7819,Edwards,Single Family,SFlat,6,Cinder Block,1029,Yes,SBrkr,1117,3,2010,Warranty Deed,Force Closure,107000
+7804,SWISU,Single Family,1.5Fin,4,Brick and Tile,1122,Yes,SBrkr,1981,4,2009,Warranty Deed,Normal,135000
+7800,OldTown,Two Family,1.5Fin,5,Cinder Block,793,Yes,SBrkr,1118,3,2006,Warranty Deed,Normal,119900
+7800,NAmes,Single Family,1Story,5,Poured Concrete ,1268,Yes,SBrkr,1268,2,2010,Warranty Deed,Normal,132000
+7800,Sawyer,Single Family,1Story,5,Poured Concrete ,864,Yes,SBrkr,899,3,2009,Warranty Deed,Normal,130000
+7800,Edwards,Single Family,2Story,5,Cinder Block,896,Yes,SBrkr,2008,3,2006,Warranty Deed,Normal,225000
+7800,SawyerW,Single Family,1Story,5,Cinder Block,828,Yes,SBrkr,965,3,2006,Warranty Deed,Force Closure,119900
+7800,NAmes,Single Family,1Story,5,Cinder Block,912,Yes,SBrkr,912,2,2006,Warranty Deed,Force Closure,115000
+7795,Gilbert,Single Family,2Story,7,Poured Concrete ,716,Yes,SBrkr,1432,3,2009,Warranty Deed,Normal,188500
+7763,NAmes,Single Family,1Story,5,Cinder Block,931,Yes,SBrkr,1283,3,2008,Warranty Deed,Normal,140000
+7758,IDOTRR,Single Family,1.5Fin,7,Poured Concrete ,1040,Yes,FuseF,1818,4,2007,Warranty Deed,Normal,169500
+7758,Sawyer,Single Family,1Story,5,Cinder Block,999,Yes,SBrkr,999,3,2007,Warranty Deed,Normal,132500
+7750,Gilbert,Single Family,SFlat,7,Poured Concrete ,384,Yes,SBrkr,1430,3,2010,Warranty Deed,Normal,180000
+7750,Gilbert,Single Family,2Story,7,Poured Concrete ,660,Yes,SBrkr,1320,3,2007,Warranty Deed,Normal,162000
+7750,Gilbert,Single Family,SFlat,8,Poured Concrete ,408,Yes,SBrkr,1419,3,2009,Warranty Deed,Normal,184100
+7742,Sawyer,Single Family,1Story,5,Cinder Block,955,Yes,SBrkr,955,3,2007,Warranty Deed,Normal,127000
+7740,OldTown,Single Family,2Story,4,Cinder Block,622,Yes,SBrkr,1363,3,2010,Warranty Deed,Normal,125500
+7728,NAmes,Duplex,SFlat,5,Cinder Block,1106,Yes,SBrkr,1190,3,2006,Warranty Deed,Normal,132500
+7700,NAmes,Single Family,2Story,6,Cinder Block,756,Yes,SBrkr,1839,4,2010,Warranty Deed,Normal,155000
+7700,CollgCr,Single Family,1Story,5,Cinder Block,882,Yes,SBrkr,882,3,2007,Warranty Deed,Normal,112500
+7685,Gilbert,Single Family,2Story,6,Poured Concrete ,697,Yes,SBrkr,1501,3,2006,Warranty Deed,Normal,165600
+7681,Crawfor,Single Family,1.5Fin,5,Brick and Tile,731,Yes,SBrkr,1343,3,2009,Warranty Deed,Normal,154900
+7677,NAmes,Single Family,1Story,5,Cinder Block,773,Yes,SBrkr,773,2,2008,Warranty Deed,Force Closure,110000
+7658,NridgHt,Townhouse,1Story,9,Poured Concrete ,1752,Yes,SBrkr,1752,2,2010,Warranty Deed,Normal,319900
+7642,Crawfor,Single Family,1.5Fin,7,Brick and Tile,912,Yes,SBrkr,1426,3,2007,Warranty Deed,Normal,189950
+7630,OldTown,Two Family,2Story,5,Brick and Tile,360,Yes,SBrkr,1812,4,2010,Warranty Deed,Normal,140000
+7599,Mitchel,Single Family,1Story,4,Cinder Block,845,Yes,SBrkr,845,2,2007,Warranty Deed,Normal,129500
+7596,OldTown,Duplex,2Story,5,Cinder Block,960,Yes,SBrkr,1960,4,2009,Contract,Normal,124500
+7590,NAmes,Single Family,2Story,6,Cinder Block,660,Yes,SBrkr,1348,3,2006,Warranty Deed,Normal,155000
+7590,NAmes,Single Family,2Story,5,Cinder Block,864,Yes,SBrkr,1812,4,2007,Warranty Deed,Normal,169500
+7588,Crawfor,Single Family,2Story,7,Brick and Tile,793,Yes,SBrkr,1802,4,2006,Warranty Deed,Normal,200100
+7585,Edwards,Single Family,1.5Fin,5,Cinder Block,810,Yes,FuseA,1456,4,2006,Warranty Deed,Normal,91500
+7577,NridgHt,Townhouse,1Story,6,Poured Concrete ,1362,Yes,SBrkr,1362,2,2007,Warranty Deed,Normal,194700
+7560,NAmes,Single Family,1Story,5,Cinder Block,1029,Yes,SBrkr,1339,3,2009,Contract,Force Closure,139000
+7560,NAmes,Single Family,1Story,5,Cinder Block,1040,Yes,FuseA,1040,3,2006,Warranty Deed,Normal,133700
+7558,Crawfor,Single Family,1.5Fin,6,Brick and Tile,896,Yes,SBrkr,1913,3,2009,Warranty Deed,Normal,177000
+7540,Mitchel,Single Family,SFoyer,6,Cinder Block,888,Yes,SBrkr,912,2,2007,Warranty Deed,Normal,156000
+7535,NAmes,Single Family,1Story,5,Cinder Block,912,Yes,SBrkr,912,2,2007,Warranty Deed,Normal,120000
+7500,SawyerW,Single Family,1Story,7,Poured Concrete ,1080,Yes,SBrkr,1080,3,2008,Warranty Deed,Normal,141000
+7500,Somerst,Single Family,1Story,7,Poured Concrete ,1257,Yes,SBrkr,1266,3,2006,Warranty Deed,Normal,176000
+7500,Sawyer,Single Family,1Story,5,Cinder Block,1040,Yes,SBrkr,1040,3,2010,Warranty Deed,Normal,133000
+7500,Gilbert,Single Family,2Story,7,Poured Concrete ,994,Yes,SBrkr,1804,3,2010,Warranty Deed,Normal,189000
+7500,IDOTRR,Single Family,1.5Fin,4,Cinder Block,698,Yes,FuseA,1128,2,2010,Contract,Force Closure,68400
+7500,NAmes,Single Family,1Story,5,Cinder Block,1246,Yes,SBrkr,1246,3,2010,Warranty Deed,Normal,154000
+7500,Crawfor,Single Family,2Story,6,Cinder Block,771,Yes,SBrkr,1494,3,2009,Warranty Deed,Normal,177500
+7500,Somerst,Single Family,2Story,7,Poured Concrete ,814,Yes,SBrkr,1674,3,2010,Warranty Deed,Normal,216000
+7500,Somerst,Single Family,1Story,7,Poured Concrete ,1221,Yes,SBrkr,1221,2,2009,Warranty Deed,Normal,185000
+7472,NAmes,Single Family,2Story,7,Cinder Block,725,Yes,SBrkr,1479,4,2007,Warranty Deed,Normal,184000
+7449,IDOTRR,Single Family,1.5Unf,7,Poured Concrete ,637,Yes,FuseF,1108,3,2007,Warranty Deed,Normal,139400
+7446,Brookside,Single Family,1Story,4,Cinder Block,788,Yes,FuseA,788,2,2006,Warranty Deed,Force Closure,100000
+7438,Brookside,Single Family,1.5Fin,5,Poured Concrete ,504,Yes,SBrkr,1252,3,2006,Warranty Deed,Normal,127000
+7420,Brookside,Two Family,1.5Unf,5,Brick and Tile,991,Yes,SBrkr,1077,2,2008,Warranty Deed,Normal,118000
+7420,Sawyer,Single Family,1Story,5,Cinder Block,1057,Yes,SBrkr,1057,3,2007,Warranty Deed,Normal,132000
+7415,Gilbert,Single Family,2Story,6,Poured Concrete ,839,Yes,SBrkr,1593,3,2008,Warranty Deed,Normal,193000
+7407,OldTown,Single Family,1Story,6,Cinder Block,912,Yes,FuseA,1236,2,2010,Warranty Deed,Normal,149700
+7406,CollgCr,Single Family,1Story,7,Poured Concrete ,1199,Yes,SBrkr,1220,2,2006,New,Partial,194000
+7399,Somerst,Single Family,2Story,7,Poured Concrete ,975,Yes,SBrkr,1950,3,2007,Warranty Deed,Normal,239000
+7390,NAmes,Single Family,1Story,5,Cinder Block,1098,Yes,SBrkr,1098,3,2008,Warranty Deed,Normal,135000
+7388,NAmes,Single Family,1Story,5,Cinder Block,1063,Yes,SBrkr,1327,3,2007,Warranty Deed,Normal,150750
+7350,NAmes,Single Family,1Story,5,Cinder Block,952,Yes,SBrkr,952,2,2008,Contract,Force Closure,139000
+7340,NAmes,Single Family,1Story,4,Cinder Block,858,Yes,SBrkr,858,2,2007,Warranty Deed,Normal,110000
+7332,NAmes,Single Family,1Story,6,Cinder Block,864,Yes,SBrkr,864,2,2006,Warranty Deed,Force Closure,120000
+7314,CollgCr,Single Family,1Story,7,Poured Concrete ,1232,Yes,SBrkr,1232,2,2009,Warranty Deed,Normal,194500
+7313,NridgHt,Townhouse,1Story,9,Poured Concrete ,1561,Yes,SBrkr,1561,2,2007,Warranty Deed,Normal,277500
+7301,Edwards,Single Family,SFoyer,7,Slab,0,Yes,SBrkr,1922,4,2009,Contract Low Down,Normal,198500
+7264,Brookside,Single Family,1.5Fin,7,Brick and Tile,952,No,SBrkr,1548,3,2009,Warranty Deed,Normal,205000
+7259,Crawfor,Single Family,2Story,6,Cinder Block,1028,Yes,SBrkr,2320,3,2007,Warranty Deed,Normal,259500
+7252,Sawyer,Single Family,SFoyer,5,Cinder Block,858,Yes,SBrkr,858,2,2009,Warranty Deed,Normal,134900
+7244,Mitchel,Single Family,SFoyer,5,Cinder Block,768,Yes,SBrkr,768,2,2007,Warranty Deed,Normal,129500
+7227,NAmes,Single Family,1.5Unf,6,Cinder Block,832,Yes,SBrkr,832,2,2008,Warranty Deed,Normal,105500
+7226,CollgCr,Single Family,2Story,7,Poured Concrete ,798,Yes,SBrkr,1640,3,2008,Warranty Deed,Normal,183000
+7207,Brookside,Single Family,1Story,5,Cinder Block,858,Yes,SBrkr,858,2,2010,Warranty Deed,Normal,116500
+7200,NAmes,Single Family,1Story,5,Cinder Block,900,Yes,SBrkr,900,3,2010,Warranty Deed,Normal,134800
+7200,CollgCr,Single Family,1Story,5,Cinder Block,780,Yes,SBrkr,780,2,2008,Warranty Deed,Normal,124900
+7200,IDOTRR,Single Family,2.5Unf,5,Brick and Tile,530,No,SBrkr,1111,3,2007,Warranty Deed,Normal,101000
+7200,NAmes,Single Family,1Story,4,Slab,0,Yes,FuseA,1040,2,2006,Warranty Deed,Normal,109900
+7200,OldTown,Two Family,2.5Unf,6,Brick and Tile,1214,No,SBrkr,2291,4,2007,Warranty Deed,Normal,133900
+7200,NAmes,Single Family,1Story,5,Cinder Block,0,Yes,FuseF,1040,2,2006,Warranty Deed,Normal,109500
+7200,Somerst,Single Family,1Story,6,Poured Concrete ,1262,Yes,SBrkr,1262,2,2006,New,Partial,185000
+7200,Somerst,Single Family,1Story,7,Poured Concrete ,1293,Yes,SBrkr,1301,2,2006,New,Partial,187750
+7200,Edwards,Single Family,SFlat,6,Cinder Block,1041,Yes,SBrkr,1125,3,2009,Warranty Deed,Force Closure,125000
+7200,CollgCr,Single Family,1Story,5,Cinder Block,894,Yes,SBrkr,894,2,2009,Warranty Deed,Normal,123000
+7200,SWISU,Single Family,2Story,7,Poured Concrete ,560,Yes,SBrkr,1135,3,2009,Warranty Deed,Normal,155000
+7200,NAmes,Single Family,1Story,5,Slab,0,Yes,SBrkr,827,2,2010,Warranty Deed,Normal,107500
+7200,NAmes,Single Family,1Story,5,Cinder Block,0,Yes,SBrkr,1048,3,2008,Warranty Deed,Normal,98300
+7200,Crawfor,Single Family,2Story,7,Brick and Tile,776,Yes,SBrkr,1502,3,2008,Warranty Deed,Normal,149000
+7200,SWISU,Single Family,1.5Fin,5,Brick and Tile,731,Yes,SBrkr,1768,3,2007,Warranty Deed,Normal,175000
+7200,NAmes,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,864,3,2007,Warranty Deed,Normal,129000
+7200,CollgCr,Single Family,SFoyer,5,Cinder Block,768,Yes,SBrkr,768,2,2009,Warranty Deed,Normal,133900
+7200,OldTown,Single Family,1Story,5,Brick and Tile,1022,No,SBrkr,1022,2,2009,Warranty Deed,Normal,85000
+7200,OldTown,Duplex,SFoyer,5,Cinder Block,936,Yes,SBrkr,936,2,2007,Warranty Deed,Normal,140000
+7200,NAmes,Single Family,1Story,5,Cinder Block,876,Yes,SBrkr,988,3,2007,Warranty Deed,Normal,119000
+7200,IDOTRR,Single Family,1.5Fin,5,Cinder Block,803,Yes,SBrkr,1360,2,2006,Warranty Deed,Normal,125500
+7200,OldTown,Single Family,2Story,7,Brick and Tile,596,Yes,SBrkr,1762,4,2006,Warranty Deed,Normal,157000
+7200,NAmes,Single Family,1.5Fin,5,Cinder Block,1208,Yes,FuseA,1904,3,2009,Warranty Deed,Normal,138000
+7200,NAmes,Duplex,1Story,4,Slab,0,No,FuseF,1040,2,2009,Warranty Deed,Normal,90000
+7200,OldTown,Single Family,1Story,5,Cinder Block,788,Yes,SBrkr,804,2,2010,Warranty Deed,Force Closure,119000
+7180,CollgCr,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,864,3,2008,Warranty Deed,Normal,127000
+7175,SawyerW,Townhouse,1Story,6,Cinder Block,744,Yes,SBrkr,752,2,2010,Warranty Deed,Normal,125000
+7162,Sawyer,Single Family,1Story,5,Poured Concrete ,876,Yes,SBrkr,904,3,2008,Warranty Deed,Force Closure,109900
+7153,SawyerW,Single Family,2Story,6,Poured Concrete ,761,Yes,SBrkr,1603,3,2006,Warranty Deed,Normal,175900
+7153,SawyerW,Single Family,1Story,6,Cinder Block,1278,Yes,SBrkr,1294,3,2008,Warranty Deed,Normal,179200
+7150,NAmes,Single Family,1Story,5,Cinder Block,892,Yes,SBrkr,892,3,2009,Warranty Deed,Normal,100000
+7136,Crawfor,Duplex,2Story,6,Cinder Block,979,No,FuseF,1958,4,2007,Warranty Deed,Normal,145000
+7134,NAmes,Single Family,SFlat,5,Cinder Block,384,Yes,SBrkr,1360,3,2007,Warranty Deed,Normal,130000
+7128,Crawfor,Single Family,2.5Unf,7,Cinder Block,918,Yes,SBrkr,1646,4,2007,Warranty Deed,Normal,164000
+7100,NAmes,Single Family,1Story,5,Cinder Block,816,Yes,FuseA,816,2,2006,Warranty Deed,Normal,129900
+7094,Sawyer,Single Family,1Story,5,Cinder Block,894,Yes,SBrkr,894,3,2007,Warranty Deed,Normal,125000
+7082,SWISU,Two Family,2Story,5,Poured Concrete ,686,Yes,SBrkr,1928,5,2006,Warranty Deed,Normal,160000
+7064,Sawyer,Single Family,1Story,5,Cinder Block,980,Yes,SBrkr,980,3,2009,Warranty Deed,Normal,135000
+7060,Mitchel,Duplex,SFoyer,7,Poured Concrete ,1344,Yes,SBrkr,1344,2,2008,Warranty Deed,Within Family,206300
+7056,NAmes,Single Family,2Story,6,Cinder Block,780,Yes,SBrkr,1796,4,2008,Warranty Deed,Normal,140000
+7052,NridgHt,Townhouse,1Story,7,Poured Concrete ,1364,Yes,SBrkr,1364,2,2006,Warranty Deed,Normal,185850
+7050,Somerst,Single Family,2Story,7,Poured Concrete ,1057,Yes,SBrkr,1929,3,2007,Warranty Deed,Normal,226000
+7032,NAmes,Duplex,SFoyer,5,Cinder Block,943,Yes,SBrkr,943,2,2006,Warranty Deed,Normal,135960
+7024,Edwards,Single Family,1Story,5,Poured Concrete ,1090,Yes,SBrkr,1090,2,2007,Warranty Deed,Normal,157000
+7024,Edwards,Single Family,1Story,4,Poured Concrete ,1132,Yes,SBrkr,1132,2,2008,Warranty Deed,Normal,176000
+7018,SawyerW,Duplex,1Story,5,Slab,0,Yes,SBrkr,1535,4,2009,Warranty Deed,Within Family,118964
+7018,SawyerW,Duplex,SFoyer,5,Cinder Block,1086,Yes,SBrkr,1224,2,2009,Warranty Deed,Within Family,153337
+7018,SawyerW,Duplex,1Story,5,Slab,0,Yes,SBrkr,1535,4,2009,Warranty Deed,Within Family,118858
+7018,SawyerW,Duplex,2Story,5,Slab,0,Yes,SBrkr,2240,6,2009,Warranty Deed,Within Family,142953
+7015,Brookside,Single Family,1.5Fin,5,Cinder Block,709,Yes,SBrkr,1203,3,2009,Warranty Deed,Normal,110000
+7000,OldTown,Single Family,1.5Fin,6,Brick and Tile,617,Yes,SBrkr,1310,2,2006,Contract,Normal,112000
+7000,Edwards,Two Family,2Story,5,Cinder Block,1117,Yes,SBrkr,1347,3,2008,Warranty Deed,Normal,107500
+7000,CollgCr,Single Family,1Story,5,Cinder Block,864,Yes,SBrkr,864,3,2009,Warranty Deed,Normal,136500
+7000,NAmes,Single Family,1Story,5,Cinder Block,1010,Yes,SBrkr,1134,2,2007,Warranty Deed,Within Family,135000
+6993,Sawyer,Single Family,1Story,5,Cinder Block,912,Yes,SBrkr,1236,3,2006,Warranty Deed,Normal,135000
+6979,OldTown,Duplex,SFoyer,6,Cinder Block,1056,Yes,SBrkr,1056,0,2010,Warranty Deed,Normal,144000
+6970,Sawyer,Single Family,1Story,4,Cinder Block,1040,Yes,SBrkr,1120,3,2007,Warranty Deed,Normal,129000
+6960,NAmes,Single Family,1Story,4,Cinder Block,864,Yes,SBrkr,864,3,2009,Warranty Deed,Normal,120500
+6955,NridgHt,Townhouse,1Story,7,Poured Concrete ,1368,Yes,SBrkr,1368,2,2006,New,Partial,202500
+6951,Mitchel,Single Family,1Story,5,Cinder Block,876,Yes,SBrkr,923,3,2008,Warranty Deed,Normal,119500
+6931,Edwards,Single Family,2Story,7,Poured Concrete ,746,Yes,SBrkr,1656,3,2008,Warranty Deed,Normal,165400
+6930,Clear Creek,Single Family,SFlat,5,Cinder Block,1062,Yes,FuseF,1352,3,2006,Warranty Deed,Force Closure,130000
+6911,Brookside,Single Family,1Story,5,Poured Concrete ,1145,Yes,SBrkr,1301,2,2009,Warranty Deed,Normal,100000
+6900,IDOTRR,Single Family,1Story,5,Cinder Block,740,Yes,SBrkr,778,2,2008,Warranty Deed,Normal,120500
+6897,Sawyer,Single Family,1Story,5,Cinder Block,1040,Yes,SBrkr,1040,3,2010,Warranty Deed,Normal,127000
+6882,IDOTRR,Single Family,2Story,6,Poured Concrete ,684,Yes,SBrkr,1355,3,2007,Warranty Deed,Normal,127000
+6858,SWISU,Single Family,2Story,6,Poured Concrete ,806,No,FuseF,1647,4,2010,Warranty Deed,Normal,128000
+6853,Timber,Single Family,1Story,8,Poured Concrete ,1267,Yes,SBrkr,1296,2,2009,Warranty Deed,Normal,220000
+6820,Stony Brook,Townhouse,1Story,8,Poured Concrete ,1488,Yes,SBrkr,1502,1,2010,Warranty Deed,Normal,212000
+6792,NridgHt,Townhouse,1Story,7,Poured Concrete ,1368,Yes,SBrkr,1368,2,2006,New,Partial,202665
+6780,IDOTRR,Two Family,1.5Fin,6,Cinder Block,520,No,SBrkr,754,2,2006,Warranty Deed,Normal,84500
+6768,Sawyer,Single Family,1Story,6,Cinder Block,912,Yes,SBrkr,912,3,2008,Warranty Deed,Normal,142000
+6762,CollgCr,Single Family,1Story,7,Poured Concrete ,1208,Yes,SBrkr,1208,2,2007,New,Partial,195400
+6762,CollgCr,Single Family,1Story,7,Poured Concrete ,1187,Yes,SBrkr,1208,2,2010,Warranty Deed,Normal,206000
+6762,CollgCr,Single Family,1Story,7,Poured Concrete ,1286,Yes,SBrkr,1294,2,2006,New,Partial,193879
+6629,Edwards,Single Family,2Story,6,Brick and Tile,672,No,SBrkr,1369,3,2009,Warranty Deed,Normal,103600
+6627,Brookside,Single Family,1Story,3,Cinder Block,0,No,SBrkr,720,2,2008,Warranty Deed,Normal,72500
+6600,Mitchel,Single Family,1Story,5,Poured Concrete ,816,Yes,SBrkr,816,2,2008,Warranty Deed,Normal,138000
+6600,NAmes,Single Family,1Story,5,Cinder Block,894,No,SBrkr,894,2,2009,Warranty Deed,Normal,109500
+6600,OldTown,Single Family,2Story,5,Stone,994,No,SBrkr,2372,4,2009,Warranty Deed,Normal,107500
+6600,Mitchel,Single Family,1Story,5,Cinder Block,816,Yes,SBrkr,816,3,2008,Warranty Deed,Normal,130500
+6563,Stony Brook,Single Family,1Story,8,Poured Concrete ,1742,Yes,SBrkr,1742,2,2006,Warranty Deed,Normal,275000
+6442,NridgHt,Townhouse,1Story,8,Poured Concrete ,1370,Yes,SBrkr,1370,2,2007,Warranty Deed,Normal,202500
+6435,Brookside,Single Family,1.5Fin,6,Brick and Tile,972,Yes,SBrkr,1577,3,2006,Warranty Deed,Normal,140200
+6420,Edwards,Single Family,1Story,5,Poured Concrete ,980,Yes,FuseA,1148,2,2006,Warranty Deed,Normal,123500
+6402,IDOTRR,Single Family,2Story,5,Poured Concrete ,596,No,SBrkr,1192,3,2009,Warranty Deed,Normal,78000
+6380,Brookside,Single Family,1.5Unf,5,Brick and Tile,993,Yes,FuseA,1048,2,2006,Warranty Deed,Normal,113000
+6371,NridgHt,Townhouse,1Story,7,Poured Concrete ,1358,Yes,SBrkr,1358,2,2010,New,Partial,224000
+6342,Sawyer,Single Family,1.5Fin,5,Cinder Block,780,No,SBrkr,1020,2,2010,Warranty Deed,Normal,94000
+6324,Brookside,Single Family,1Story,4,Brick and Tile,520,No,SBrkr,520,1,2008,Warranty Deed,Normal,68500
+6305,Crawfor,Single Family,1Story,5,Poured Concrete ,920,Yes,SBrkr,954,2,2007,Warranty Deed,Normal,119750
+6300,OldTown,Single Family,2.5Unf,6,Cinder Block,742,Yes,SBrkr,1484,3,2008,Warranty Deed,Normal,128000
+6292,SWISU,Single Family,1.5Fin,7,Brick and Tile,861,Yes,SBrkr,1477,3,2009,Warranty Deed,Normal,145000
+6292,SWISU,Single Family,1Story,6,Brick and Tile,768,No,SBrkr,790,2,2008,Warranty Deed,Normal,91000
+6270,Crawfor,Duplex,2Story,5,Cinder Block,1001,No,FuseA,2002,4,2007,Warranty Deed,Normal,145000
+6240,Brookside,Single Family,1.5Fin,6,Poured Concrete ,816,Yes,SBrkr,1176,3,2006,Warranty Deed,Normal,114500
+6240,Brookside,Single Family,1.5Fin,5,Brick and Tile,896,Yes,FuseA,1344,3,2006,Warranty Deed,Normal,115000
+6240,Brookside,Single Family,1.5Fin,5,Poured Concrete ,1078,Yes,SBrkr,1573,3,2008,Warranty Deed,Normal,162900
+6240,NridgHt,Townhouse,1Story,8,Poured Concrete ,1324,Yes,SBrkr,1324,2,2009,Warranty Deed,Normal,254000
+6240,IDOTRR,Single Family,1.5Fin,4,Cinder Block,780,Yes,FuseA,1208,2,2009,Warranty Deed,Normal,103000
+6240,Brookside,Single Family,1.5Fin,5,Brick and Tile,1042,Yes,SBrkr,1576,3,2006,Warranty Deed,Within Family,149000
+6240,Brookside,Single Family,1.5Fin,4,Slab,0,No,SBrkr,912,2,2006,Warranty Deed,Normal,80500
+6240,Brookside,Single Family,1.5Fin,6,Brick and Tile,884,Yes,FuseA,1367,3,2007,Warranty Deed,Normal,127500
+6204,SWISU,Single Family,2.5Fin,4,Poured Concrete ,795,No,SBrkr,2230,5,2006,Warranty Deed,Normal,118500
+6180,Brookside,Single Family,1Story,6,Brick and Tile,960,No,SBrkr,986,2,2007,Warranty Deed,Normal,102000
+6173,Sawyer,Single Family,1Story,5,Cinder Block,876,Yes,SBrkr,902,3,2007,Warranty Deed,Normal,125500
+6171,SWISU,Single Family,1.5Fin,6,Brick and Tile,976,Yes,SBrkr,1608,3,2009,Warranty Deed,Normal,137450
+6155,Brookside,Single Family,2Story,6,Brick and Tile,611,Yes,SBrkr,1362,3,2008,Warranty Deed,Normal,128000
+6130,Brookside,Single Family,1.5Unf,5,Brick and Tile,784,Yes,SBrkr,784,2,2008,Warranty Deed,Normal,109500
+6120,OldTown,Single Family,1.5Fin,7,Brick and Tile,952,Yes,FuseF,1774,2,2008,Warranty Deed,Force Closure,129900
+6120,Brookside,Single Family,1.5Unf,7,Brick and Tile,832,Yes,FuseA,854,2,2007,Warranty Deed,Normal,132000
+6120,Brookside,Single Family,1Story,5,Brick and Tile,715,Yes,FuseA,875,2,2009,Warranty Deed,Normal,105000
+6120,Brookside,Single Family,1.5Fin,4,Brick and Tile,884,Yes,SBrkr,1573,3,2009,Warranty Deed,Normal,133000
+6120,Brookside,Single Family,1.5Fin,5,Brick and Tile,927,Yes,SBrkr,1539,3,2009,Warranty Deed,Normal,141500
+6120,Brookside,Single Family,1Story,5,Brick and Tile,768,No,SBrkr,1015,3,2006,Warranty Deed,Force Closure,88000
+6120,Brookside,Single Family,2Story,5,Brick and Tile,939,Yes,SBrkr,1513,4,2007,Warranty Deed,Normal,137500
+6060,IDOTRR,Single Family,1.5Fin,4,Poured Concrete ,732,Yes,SBrkr,1123,3,2007,Warranty Deed,Normal,100000
+6040,Edwards,Duplex,1Story,4,Poured Concrete ,0,No,FuseP,1152,2,2008,Warranty Deed,Adjacent Land Purchase,82000
+6000,OldTown,Single Family,1Story,5,Cinder Block,789,Yes,SBrkr,789,2,2008,Warranty Deed,Partial,115000
+6000,Brookside,Duplex,1.5Unf,6,Poured Concrete ,884,Yes,SBrkr,904,2,2009,Warranty Deed,Normal,119000
+6000,OldTown,Duplex,1.5Fin,3,Cinder Block,649,Yes,SBrkr,1183,2,2007,Warranty Deed,Normal,120000
+6000,OldTown,Duplex,1Story,5,Cinder Block,928,Yes,FuseA,928,3,2008,Warranty Deed,Normal,112500
+6000,OldTown,Two Family,1.5Fin,5,Cinder Block,811,Yes,FuseA,1387,3,2009,Warranty Deed,Normal,93000
+6000,Brookside,Duplex,1Story,5,Cinder Block,616,Yes,SBrkr,616,2,2006,Warranty Deed,Normal,89000
+6000,OldTown,Duplex,1Story,4,Cinder Block,901,Yes,SBrkr,901,2,2008,Warranty Deed,Normal,107900
+6000,OldTown,Two Family,1Story,4,Cinder Block,936,No,SBrkr,936,2,2009,Warranty Deed,Normal,93000
+6000,SWISU,Duplex,1.5Fin,5,Brick and Tile,1008,Yes,SBrkr,1522,4,2006,Warranty Deed,Normal,102000
+6000,OldTown,Duplex,1Story,6,Brick and Tile,1103,Yes,SBrkr,1103,2,2006,Warranty Deed,Normal,110500
+6000,Brookside,Duplex,1.5Fin,4,Brick and Tile,672,Yes,SBrkr,1324,3,2009,Warranty Deed,Normal,128000
+6000,Brookside,Duplex,1.5Fin,5,Brick and Tile,884,Yes,SBrkr,1348,3,2009,Warranty Deed,Normal,117000
+6000,Brookside,Duplex,1.5Fin,6,Cinder Block,780,Yes,FuseF,1412,4,2009,Warranty Deed,Normal,132500
+6000,OldTown,Duplex,1Story,4,Poured Concrete ,960,Yes,FuseA,960,2,2007,Warranty Deed,Normal,108500
+6000,Brookside,Duplex,1.5Fin,6,Brick and Tile,698,Yes,SBrkr,1176,2,2009,Warranty Deed,Normal,134900
+6000,Brookside,Duplex,1.5Fin,6,Brick and Tile,735,Yes,SBrkr,1218,3,2007,Warranty Deed,Normal,131000
+6000,Brookside,Duplex,1.5Fin,6,Brick and Tile,862,Yes,SBrkr,1158,3,2008,Warranty Deed,Normal,120000
+5925,OldTown,Duplex,1Story,4,Brick and Tile,907,Yes,SBrkr,1131,2,2007,Warranty Deed,Within Family,89471
+5925,OldTown,Duplex,1.5Fin,3,Brick and Tile,600,No,SBrkr,968,2,2009,Warranty Deed,Force Closure,37900
+5900,Brookside,Duplex,1Story,4,Poured Concrete ,440,Yes,FuseA,869,2,2006,Warranty Deed,Normal,85500
+5890,IDOTRR,Duplex,1Story,6,Brick and Tile,816,Yes,SBrkr,816,2,2008,Warranty Deed,Normal,120500
+5868,NAmes,Duplex,1Story,5,Cinder Block,936,Yes,SBrkr,936,2,2010,Warranty Deed,Normal,129000
+5825,Brookside,Duplex,1Story,4,Poured Concrete ,600,Yes,SBrkr,747,1,2006,Warranty Deed,Normal,79900
+5820,OldTown,Duplex,1Story,3,Cinder Block,1162,Yes,SBrkr,1163,3,2006,Warranty Deed,Normal,126175
+5814,Stony Brook,Townhouse,1Story,8,Cinder Block,1220,Yes,SBrkr,1360,1,2009,Contract,Force Closure,187500
+5790,OldTown,Duplex,2Story,3,Cinder Block,840,No,SBrkr,1605,3,2010,Warranty Deed,Normal,107400
+5784,OldTown,Duplex,1Story,5,Brick and Tile,190,Yes,FuseA,886,2,2009,Warranty Deed,Normal,91300
+5720,OldTown,Duplex,1.5Fin,5,Cinder Block,676,Yes,SBrkr,1131,3,2009,Warranty Deed,Force Closure,66500
+5700,OldTown,Duplex,1.5Fin,7,Poured Concrete ,572,Yes,SBrkr,1111,2,2008,Warranty Deed,Normal,116900
+5687,SWISU,Two Family,2Story,5,Poured Concrete ,780,No,SBrkr,1716,6,2008,Warranty Deed,Normal,135900
+5684,OldTown,Duplex,1Story,6,Brick and Tile,813,Yes,FuseA,813,2,2006,Warranty Deed,Normal,110000
+5664,Stony Brook,Townhouse,1Story,8,Poured Concrete ,1501,Yes,SBrkr,1659,2,2009,Warranty Deed,Normal,278000
+5604,Edwards,Duplex,1Story,5,Cinder Block,864,No,FuseA,864,2,2008,Warranty Deed,Normal,98000
+5600,IDOTRR,Two Family,2Story,4,Slab,0,No,SBrkr,1092,3,2010,Warranty Deed,Normal,55000
+5587,Crawfor,Townhouse,1Story,8,Poured Concrete ,1600,Yes,SBrkr,1652,2,2008,New,Partial,392500
+5586,OldTown,Duplex,1.5Fin,6,Brick and Tile,901,Yes,SBrkr,1198,4,2008,Contract Low Down,Force Closure,79900
+5520,OldTown,Duplex,2.5Fin,6,Cinder Block,755,Yes,SBrkr,2229,5,2009,Warranty Deed,Force Closure,104000
+5500,OldTown,Duplex,1.5Unf,4,Cinder Block,882,Yes,SBrkr,882,1,2007,Warranty Deed,Normal,103200
+5500,OldTown,Duplex,1.5Fin,5,Brick and Tile,926,Yes,SBrkr,1316,3,2010,Warranty Deed,Normal,130000
+5436,IDOTRR,Duplex,1.5Fin,4,Brick and Tile,796,Yes,SBrkr,1154,3,2010,Warranty Deed,Normal,125500
+5400,OldTown,Duplex,1Story,6,Brick and Tile,1149,Yes,FuseA,1616,3,2007,Warranty Deed,Normal,152000
+5400,OldTown,Duplex,1Story,5,Brick and Tile,1073,Yes,SBrkr,1073,2,2006,Warranty Deed,Force Closure,108480
+5400,OldTown,Duplex,1Story,5,Brick and Tile,691,Yes,FuseA,691,2,2007,Warranty Deed,Force Closure,86000
+5400,OldTown,Duplex,1Story,5,Cinder Block,833,Yes,SBrkr,833,2,2006,Warranty Deed,Normal,117000
+5400,OldTown,Duplex,1.5Fin,4,Poured Concrete ,840,Yes,SBrkr,1374,2,2009,Warranty Deed,Normal,105000
+5395,Stony Brook,Townhouse,1Story,8,Poured Concrete ,1337,Yes,SBrkr,1337,2,2008,Warranty Deed,Normal,180000
+5389,Stony Brook,Townhouse,1Story,8,Poured Concrete ,1595,Yes,SBrkr,1616,2,2010,Warranty Deed,Normal,236500
+5381,NridgHt,Apartment,1Story,6,Poured Concrete ,1306,Yes,SBrkr,1306,1,2009,Warranty Deed,Normal,196000
+5362,Crawfor,Duplex,1.5Fin,5,Poured Concrete ,661,Yes,SBrkr,1250,3,2007,Warranty Deed,Normal,139000
+5350,Brookside,Duplex,1Story,3,Cinder Block,728,Yes,SBrkr,1306,3,2010,Warranty Deed,Normal,76500
+5330,Stony Brook,Townhouse,1Story,8,Poured Concrete ,1494,Yes,SBrkr,1652,2,2007,Warranty Deed,Normal,251000
+5330,Brookside,Duplex,1Story,4,Cinder Block,420,Yes,SBrkr,708,2,2009,Warranty Deed,Normal,82500
+5310,OldTown,Duplex,1.5Fin,6,Cinder Block,485,Yes,SBrkr,1635,2,2006,Warranty Deed,Normal,117000
+5306,Stony Brook,Townhouse,2Story,7,Poured Concrete ,1064,Yes,SBrkr,1767,2,2006,Warranty Deed,Normal,239000
+5271,Clear Creek,Duplex,1Story,7,Poured Concrete ,1453,Yes,SBrkr,1453,2,2006,Warranty Deed,Force Closure,190000
+5250,OldTown,Duplex,2Story,8,Brick and Tile,684,No,SBrkr,2358,4,2008,Warranty Deed,Normal,122000
+5232,OldTown,Duplex,1Story,5,Brick and Tile,680,No,FuseP,764,2,2008,Warranty Deed,Normal,73000
+5105,Somerst,Townhouse,2Story,7,Poured Concrete ,551,Yes,SBrkr,1102,2,2007,Warranty Deed,Normal,148800
+5100,OldTown,Duplex,2Story,8,Poured Concrete ,588,Yes,SBrkr,1666,3,2008,Warranty Deed,Normal,161000
+5062,Stony Brook,Townhouse,2Story,7,Cinder Block,1190,Yes,SBrkr,2090,3,2007,Warranty Deed,Normal,207500
+5001,NridgHt,Apartment,1Story,7,Poured Concrete ,1314,Yes,SBrkr,1314,2,2009,Warranty Deed,Normal,230000
+5000,OldTown,Duplex,1.5Fin,5,Brick and Tile,540,No,FuseA,1440,3,2006,Warranty Deed,Normal,79000
+5000,IDOTRR,Duplex,1.5Unf,5,Cinder Block,720,No,FuseF,803,2,2007,Warranty Deed,Normal,87000
+5000,SWISU,Duplex,1.5Fin,5,Brick and Tile,1026,Yes,SBrkr,1691,3,2010,Warranty Deed,Normal,127000
+5000,Brookside,Duplex,1.5Fin,6,Cinder Block,1004,Yes,SBrkr,1664,3,2006,Warranty Deed,Normal,159000
+5000,Brookside,Duplex,1Story,1,Slab,0,No,FuseF,334,1,2007,Warranty Deed,Normal,39300
+4928,NPkVill,Townhouse,1Story,6,Cinder Block,1078,Yes,SBrkr,958,2,2007,Warranty Deed,Normal,128000
+4928,NPkVill,Townhouse,1Story,6,Cinder Block,958,Yes,SBrkr,958,2,2009,Warranty Deed,Normal,143750
+4923,Stony Brook,Townhouse,1Story,8,Poured Concrete ,1593,Yes,SBrkr,1593,0,2008,Warranty Deed,Normal,286000
+4920,Stony Brook,Townhouse,1Story,8,Poured Concrete ,1338,Yes,SBrkr,1338,2,2010,Warranty Deed,Normal,213500
+4800,IDOTRR,Duplex,1Story,4,Cinder Block,1196,Yes,FuseA,1196,2,2007,Warranty Deed,Normal,109900
+4750,Crawfor,Townhouse,1Story,8,Poured Concrete ,1573,Yes,SBrkr,1625,2,2007,Warranty Deed,Within Family,235000
+4712,Brookside,Duplex,1.5Fin,4,Cinder Block,747,Yes,SBrkr,1230,3,2006,Warranty Deed,Force Closure,121600
+4671,Stony Brook,Townhouse,1Story,8,Poured Concrete ,1228,Yes,SBrkr,1228,2,2008,Warranty Deed,Normal,189000
+4608,OldTown,Duplex,1Story,4,Cinder Block,747,Yes,SBrkr,747,2,2010,Warranty Deed,Normal,80000
+4590,NridgHt,Apartment,1Story,8,Poured Concrete ,1554,Yes,SBrkr,1554,2,2007,Warranty Deed,Normal,209500
+4571,OldTown,Duplex,2Story,5,Brick and Tile,624,No,SBrkr,1344,4,2008,Contract,Force Closure,98000
+4500,Mitchel,Townhouse,1Story,6,Poured Concrete ,1237,Yes,SBrkr,1337,2,2006,Warranty Deed,Normal,153500
+4500,Mitchel,Apartment,1Story,6,Poured Concrete ,1216,Yes,SBrkr,1216,2,2006,Warranty Deed,Normal,164000
+4500,SWISU,Duplex,1.5Fin,5,Brick and Tile,793,Yes,SBrkr,1520,3,2009,Warranty Deed,Force Closure,159434
+4500,Mitchel,Townhouse,1Story,6,Poured Concrete ,1204,Yes,SBrkr,1204,2,2009,Warranty Deed,Normal,162000
+4500,Mitchel,Townhouse,1Story,6,Poured Concrete ,1224,Yes,SBrkr,1224,2,2009,Warranty Deed,Normal,165000
+4456,OldTown,Two Family,2Story,4,Brick and Tile,736,Yes,SBrkr,1452,2,2009,New,Partial,113000
+4438,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2008,Warranty Deed,Normal,149000
+4438,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2008,Contract Low Down,Normal,144500
+4435,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2009,Warranty Deed,Normal,140000
+4435,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2007,Warranty Deed,Normal,131500
+4435,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2006,Warranty Deed,Normal,155900
+4435,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2009,Warranty Deed,Normal,144000
+4435,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2008,Warranty Deed,Normal,136500
+4426,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2008,Warranty Deed,Normal,141000
+4426,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2010,Warranty Deed,Normal,143000
+4426,CollgCr,Townhouse,1Story,6,Poured Concrete ,848,Yes,SBrkr,848,1,2008,Warranty Deed,Normal,149300
+4403,Somerst,Duplex,1Story,7,Poured Concrete ,1470,Yes,SBrkr,1478,2,2010,New,Partial,222000
+4400,OldTown,Duplex,1.5Fin,6,Brick and Tile,648,Yes,FuseA,1118,2,2006,Warranty Deed,Normal,116000
+4388,OldTown,Duplex,1.5Unf,5,Brick and Tile,672,Yes,SBrkr,840,3,2007,Warranty Deed,Normal,87000
+4282,Somerst,Townhouse,1Story,7,Poured Concrete ,1391,Yes,SBrkr,1391,2,2008,Warranty Deed,Normal,196000
+4280,Crawfor,Duplex,1Story,5,Poured Concrete ,440,No,SBrkr,694,2,2007,Warranty Deed,Normal,90350
+4274,Somerst,Townhouse,1Story,7,Poured Concrete ,1241,Yes,SBrkr,1241,1,2007,New,Partial,199900
+4270,Edwards,Duplex,1Story,3,Brick and Tile,544,Yes,SBrkr,774,3,2007,Warranty Deed,Normal,79000
+4251,Somerst,Townhouse,2Story,7,Poured Concrete ,625,Yes,SBrkr,1250,2,2007,New,Partial,164700
+4230,Somerst,Townhouse,1Story,7,Poured Concrete ,1352,Yes,SBrkr,1352,2,2007,New,Partial,208900
+4224,Meadow Village,Townhouse,1Story,5,Poured Concrete ,1040,Yes,SBrkr,1060,3,2007,Warranty Deed,Normal,129900
+4224,Meadow Village,Townhouse,1Story,5,Poured Concrete ,1142,Yes,SBrkr,1142,3,2007,Warranty Deed,Normal,134000
+4130,Brookside,Duplex,1Story,3,Cinder Block,270,Yes,SBrkr,729,2,2008,Warranty Deed,Normal,52000
+4118,OldTown,Duplex,1Story,4,Cinder Block,693,No,FuseA,693,2,2006,Warranty Deed,Normal,52500
+4060,Edwards,Duplex,1Story,5,Poured Concrete ,864,Yes,SBrkr,864,2,2009,Warranty Deed,Normal,99900
+4060,NAmes,Townhouse,1Story,6,Poured Concrete ,1405,Yes,SBrkr,1337,2,2008,Contract,Force Closure,181000
+4058,NAmes,Townhouse,SFoyer,7,Poured Concrete ,723,Yes,SBrkr,767,1,2007,Warranty Deed,Normal,133000
+4045,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1356,Yes,SBrkr,1500,2,2006,New,Partial,246578
+4043,NPkVill,Townhouse,1Story,6,Cinder Block,1069,Yes,SBrkr,1069,2,2008,Contract,Force Closure,140000
+4043,NPkVill,Townhouse,1Story,6,Cinder Block,1069,Yes,SBrkr,1069,2,2010,Warranty Deed,Normal,127500
+4017,Somerst,Townhouse,2Story,7,Poured Concrete ,625,Yes,SBrkr,1250,2,2008,Warranty Deed,Normal,171900
+3982,Bloomington Heights,Townhouse,1Story,8,Poured Concrete ,1520,Yes,SBrkr,1567,1,2006,New,Partial,264561
+3964,Meadow Village,Townhouse,2Story,6,Cinder Block,942,Yes,SBrkr,2521,5,2006,Warranty Deed,Normal,151400
+3951,Somerst,Townhouse,2Story,6,Poured Concrete ,612,Yes,SBrkr,1224,2,2009,New,Partial,164500
+3950,OldTown,Duplex,1.5Fin,6,Cinder Block,818,Yes,SBrkr,1224,3,2009,Warranty Deed,Normal,115000
+3922,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1258,Yes,SBrkr,1258,2,2007,New,Partial,172500
+3922,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1258,Yes,SBrkr,1402,2,2007,New,Partial,194201
+3880,OldTown,Duplex,1Story,5,Cinder Block,686,Yes,SBrkr,866,2,2007,Warranty Deed,Normal,110500
+3842,Crawfor,Townhouse,1Story,8,Poured Concrete ,1594,Yes,SBrkr,1646,2,2008,Warranty Deed,Normal,275000
+3735,Somerst,Townhouse,2Story,7,Poured Concrete ,691,Yes,SBrkr,1452,3,2006,Warranty Deed,Normal,183900
+3696,Stony Brook,Townhouse,1Story,8,Cinder Block,1074,Yes,SBrkr,1088,2,2007,Warranty Deed,Normal,170000
+3684,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1373,Yes,SBrkr,1555,2,2009,Warranty Deed,Normal,174000
+3675,Edwards,Townhouse,SFlat,6,Poured Concrete ,547,Yes,SBrkr,1072,2,2008,Warranty Deed,Normal,148000
+3675,Edwards,Townhouse,SFoyer,6,Poured Concrete ,547,Yes,SBrkr,1072,2,2006,New,Partial,140000
+3675,Edwards,Townhouse,SFlat,5,Poured Concrete ,547,Yes,SBrkr,1072,2,2006,Warranty Deed,Normal,145000
+3636,IDOTRR,Duplex,1Story,4,Brick and Tile,796,No,SBrkr,796,2,2008,Warranty Deed,Normal,55000
+3635,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1386,Yes,SBrkr,1569,1,2009,Warranty Deed,Normal,175900
+3604,Somerst,Townhouse,2Story,7,Poured Concrete ,689,Yes,SBrkr,1392,2,2008,Warranty Deed,Force Closure,146000
+3600,OldTown,Duplex,2Story,6,Cinder Block,684,No,FuseA,1368,3,2006,Warranty Deed,Normal,114504
+3500,OldTown,Duplex,1.5Fin,5,Cinder Block,720,Yes,SBrkr,1284,2,2009,Warranty Deed,Normal,110000
+3378,OldTown,Duplex,2Story,7,Cinder Block,651,Yes,SBrkr,1389,3,2009,Warranty Deed,Normal,135000
+3363,Edwards,Townhouse,2Story,7,Poured Concrete ,976,Yes,SBrkr,1708,3,2006,Warranty Deed,Normal,130000
+3316,Somerst,Townhouse,1Story,8,Poured Concrete ,1247,Yes,SBrkr,1247,1,2006,Warranty Deed,Normal,197000
+3230,Somerst,Townhouse,2Story,6,Poured Concrete ,729,Yes,SBrkr,1458,2,2007,Warranty Deed,Normal,176000
+3230,Somerst,Townhouse,2Story,6,Poured Concrete ,729,Yes,SBrkr,1471,3,2009,Warranty Deed,Normal,172500
+3196,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1374,Yes,SBrkr,1557,2,2006,Warranty Deed,Normal,234000
+3196,Bloomington Heights,Townhouse,1Story,8,Poured Concrete ,1273,Yes,SBrkr,1456,2,2006,Warranty Deed,Normal,215000
+3182,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1373,Yes,SBrkr,1555,2,2009,Warranty Deed,Normal,192500
+3182,Bloomington Heights,Townhouse,1Story,8,Poured Concrete ,1256,Yes,SBrkr,1269,2,2010,Warranty Deed,Normal,192000
+3182,Somerst,Townhouse,2Story,7,Poured Concrete ,600,Yes,SBrkr,1200,2,2010,Warranty Deed,Normal,151000
+3182,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1145,Yes,SBrkr,1145,2,2009,Warranty Deed,Normal,160200
+3182,Bloomington Heights,Duplex,1Story,7,Poured Concrete ,1266,Yes,SBrkr,1266,2,2008,Warranty Deed,Normal,159895
+3182,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1346,Yes,SBrkr,1504,1,2009,Warranty Deed,Normal,181000
+3182,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1346,Yes,SBrkr,1504,2,2008,Warranty Deed,Normal,191000
+3180,Somerst,Townhouse,2Story,7,Poured Concrete ,600,Yes,SBrkr,1200,2,2006,Warranty Deed,Normal,151000
+3180,Somerst,Townhouse,2Story,7,Poured Concrete ,600,Yes,SBrkr,1200,2,2006,Warranty Deed,Force Closure,144152
+3136,NridgHt,Townhouse,1Story,7,Poured Concrete ,1405,Yes,SBrkr,1405,2,2006,Warranty Deed,Normal,171750
+3072,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1375,Yes,SBrkr,1414,2,2006,Warranty Deed,Normal,178740
+3013,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1362,Yes,SBrkr,1506,2,2006,Warranty Deed,Normal,213490
+3010,Bloomington Heights,Townhouse,1Story,7,Poured Concrete ,1248,Yes,SBrkr,1248,2,2006,New,Partial,167240
+3000,Somerst,Townhouse,2Story,6,Poured Concrete ,612,Yes,SBrkr,1224,2,2009,New,Partial,173733
+2887,Clear Creek,Duplex,1Story,6,Poured Concrete ,1291,Yes,SBrkr,1291,2,2008,Warranty Deed,Normal,173000
+2665,Meadow Village,Townhouse,2Story,5,Poured Concrete ,264,Yes,SBrkr,1304,3,2008,Warranty Deed,Normal,115000
+2665,Meadow Village,Townhouse,2Story,5,Poured Concrete ,757,Yes,SBrkr,1475,4,2006,Warranty Deed,Normal,127000
+2651,Somerst,Apartment,2Story,7,Poured Concrete ,673,Yes,SBrkr,1382,3,2006,Warranty Deed,Normal,165000
+2645,Somerst,Apartment,2Story,8,Poured Concrete ,970,Yes,SBrkr,1739,3,2009,Warranty Deed,Force Closure,172500
+2645,Somerst,Apartment,2Story,8,Poured Concrete ,776,Yes,SBrkr,1441,2,2007,Warranty Deed,Normal,174000
+2628,NridgHt,Apartment,2Story,7,Poured Concrete ,764,Yes,SBrkr,1626,2,2010,Warranty Deed,Normal,175500
+2592,Meadow Village,Townhouse,2Story,5,Cinder Block,536,Yes,SBrkr,1112,3,2010,Warranty Deed,Normal,85000
+2572,Somerst,Apartment,2Story,7,Poured Concrete ,696,Yes,SBrkr,1416,3,2010,Warranty Deed,Normal,155000
+2544,Somerst,Apartment,2Story,7,Poured Concrete ,600,Yes,SBrkr,1223,2,2006,Warranty Deed,Normal,147400
+2522,Edwards,Apartment,2Story,6,Poured Concrete ,970,Yes,SBrkr,1709,3,2006,Warranty Deed,Normal,130000
+2522,Edwards,Apartment,2Story,7,Poured Concrete ,970,Yes,SBrkr,1709,3,2006,Warranty Deed,Normal,130000
+2522,Edwards,Apartment,2Story,7,Poured Concrete ,970,Yes,SBrkr,1709,3,2006,Warranty Deed,Normal,137500
+2500,OldTown,Duplex,2Story,7,Poured Concrete ,910,Yes,SBrkr,1826,4,2009,Warranty Deed,Normal,155000
+2448,NridgHt,Apartment,2Story,7,Poured Concrete ,764,Yes,SBrkr,1626,2,2008,Warranty Deed,Normal,154000
+2368,Briardale,Townhouse,2Story,5,Cinder Block,765,Yes,SBrkr,1365,3,2009,Warranty Deed,Normal,125000
+2308,NPkVill,Townhouse,2Story,6,Cinder Block,855,Yes,SBrkr,1322,3,2009,Warranty Deed,Normal,147000
+2308,NPkVill,Townhouse,2Story,6,Cinder Block,804,Yes,SBrkr,1548,3,2007,Warranty Deed,Normal,155000
+2289,NPkVill,Apartment,2Story,6,Cinder Block,855,Yes,SBrkr,1441,3,2009,Warranty Deed,Normal,148500
+2280,NPkVill,Apartment,2Story,6,Cinder Block,855,Yes,SBrkr,1456,3,2009,Warranty Deed,Normal,148500
+2280,Somerst,Apartment,2Story,7,Poured Concrete ,744,Yes,SBrkr,1501,3,2008,Warranty Deed,Normal,179400
+2280,NPkVill,Apartment,2Story,6,Cinder Block,855,Yes,SBrkr,1456,3,2010,Warranty Deed,Normal,146000
+2268,NridgHt,Apartment,2Story,7,Poured Concrete ,764,Yes,SBrkr,1626,2,2009,Warranty Deed,Normal,173000
+2217,Meadow Village,Townhouse,2Story,4,Cinder Block,546,Yes,SBrkr,1092,3,2009,Warranty Deed,Normal,88000
+2160,Somerst,Apartment,2Story,7,Poured Concrete ,600,Yes,SBrkr,1252,2,2008,Warranty Deed,Normal,160000
+2117,Somerst,Apartment,2Story,6,Poured Concrete ,756,Yes,SBrkr,1525,3,2007,Warranty Deed,Normal,177000
+2117,Somerst,Townhouse,2Story,6,Poured Concrete ,756,Yes,SBrkr,1512,2,2007,Warranty Deed,Normal,168500
+2117,Somerst,Apartment,2Story,6,Poured Concrete ,756,Yes,SBrkr,1573,3,2010,Warranty Deed,Normal,177500
+2016,Briardale,Townhouse,2Story,5,Cinder Block,630,Yes,SBrkr,1302,3,2007,Warranty Deed,Normal,106000
+2001,Meadow Village,Apartment,2Story,4,Cinder Block,546,Yes,SBrkr,1092,3,2007,Warranty Deed,Normal,75000
+1974,Meadow Village,Townhouse,2Story,4,Cinder Block,546,Yes,SBrkr,1092,3,2010,Warranty Deed,Normal,83500
+1953,Briardale,Apartment,2Story,6,Cinder Block,483,Yes,SBrkr,987,2,2006,Warranty Deed,Normal,83000
+1950,Bluestem,Apartment,2Story,6,Cinder Block,716,Yes,SBrkr,1556,3,2008,Contract,Normal,151000
+1936,Meadow Village,Apartment,SFoyer,4,Cinder Block,630,Yes,SBrkr,630,1,2007,Warranty Deed,Normal,84500
+1920,Briardale,Townhouse,2Story,5,Cinder Block,765,Yes,SBrkr,1365,2,2007,Warranty Deed,Normal,122500
+1890,Meadow Village,Apartment,SFoyer,4,Cinder Block,630,Yes,SBrkr,630,1,2008,Warranty Deed,Normal,81000
+1890,Briardale,Apartment,2Story,6,Cinder Block,672,Yes,SBrkr,1218,3,2007,Warranty Deed,Normal,113000
+1869,Briardale,Apartment,2Story,6,Cinder Block,483,Yes,SBrkr,987,2,2008,Warranty Deed,Normal,106000
+1680,Briardale,Apartment,2Story,5,Cinder Block,630,Yes,SBrkr,1302,3,2009,Contract,Force Closure,112000
+1680,Briardale,Apartment,2Story,6,Cinder Block,483,Yes,SBrkr,987,2,2006,Warranty Deed,Normal,94500
+1680,Briardale,Townhouse,2Story,6,Cinder Block,483,Yes,SBrkr,987,2,2008,Warranty Deed,Normal,89500
+1680,Briardale,Apartment,2Story,6,Cinder Block,483,Yes,SBrkr,987,2,2009,Warranty Deed,Normal,118000
+1680,Briardale,Apartment,2Story,6,Cinder Block,483,Yes,SBrkr,987,2,2008,Contract,Force Closure,85400
+1680,Briardale,Apartment,2Story,6,Cinder Block,525,Yes,SBrkr,1092,3,2010,Warranty Deed,Within Family,88000
+1680,Briardale,Apartment,2Story,6,Cinder Block,483,Yes,SBrkr,987,2,2008,Warranty Deed,Normal,100000
+1680,Briardale,Apartment,2Story,6,Cinder Block,672,Yes,SBrkr,1218,3,2006,Warranty Deed,Normal,118000
+1680,Briardale,Apartment,2Story,6,Cinder Block,672,Yes,SBrkr,1218,3,2006,Warranty Deed,Force Closure,91500
+1680,Briardale,Apartment,2Story,5,Cinder Block,630,Yes,SBrkr,1302,3,2009,Warranty Deed,Normal,119500
+1596,Meadow Village,Apartment,SFlat,4,Cinder Block,462,Yes,SBrkr,988,2,2009,Warranty Deed,Normal,91000
+1533,Meadow Village,Apartment,2Story,4,Cinder Block,546,Yes,SBrkr,1344,3,2009,Warranty Deed,Normal,97000
+1533,Meadow Village,Apartment,SFoyer,5,Cinder Block,630,Yes,SBrkr,630,1,2006,Warranty Deed,Force Closure,92000
+1526,Meadow Village,Apartment,SFoyer,4,Cinder Block,630,Yes,SBrkr,630,1,2009,Warranty Deed,Normal,86000
+1491,Meadow Village,Townhouse,SFoyer,4,Cinder Block,630,Yes,SBrkr,630,1,2010,Warranty Deed,Normal,75500
+1477,Meadow Village,Townhouse,SFoyer,4,Cinder Block,630,Yes,SBrkr,630,1,2009,Warranty Deed,Normal,80000
+1300,Bluestem,Townhouse,2Story,6,Cinder Block,561,Yes,SBrkr,1229,2,2009,Warranty Deed,Normal,124000

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title> Property Data </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="d3.min.js" charset="utf-8"></script>
+	<script src="index.js"></script>
+	<script src="barchart.js"></script>
+	<script src="histogram.js"></script>
+	<script src="changeBinNumber.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+	<link rel="stylesheet" href="styles.css">
+</head> 
+<body>
+	<div id="heading">
+		<div class="rect"><h1 style="padding-left: 250px">Property data in Ames, Iowa (2006-2010)</h1></div>
+	   </div>
+	   <img src="House.png" width="250px" height="230px" align="right">
+	   
+	
+	<div class="dropdown">
+		<button class="dropbtn">Scree Plot</button>
+		<div class="dropdown-content">
+		<a href="#" id="BldgType" class="active" onclick="fnBldgType()">Building Type</a>
+		<a href="#" id="LotArea" onclick="fnLotArea()">LotArea</a>
+		<a href="#" id="Neighborhood" onclick="fnNeighborhood()">Neighborhood</a>
+		<a href="#" id="HouseStyle" onclick="fnHouseStyle()">House Style</a>
+		<a href="#" id="OverallQual" onclick="fnOverallQual()">Overall Quality</a>
+		<a href="#" id="Foundation" onclick="fnFoundation()">Foundation</a>
+		<a href="#" id="TotalBsmtSF" onclick="fnTotalBsmtSF()">Basement Area</a>
+		<a href="#" id="CentralAir" onclick="fnCentralAir()">Central air conditioning</a>
+		<a href="#" id="Electrical" onclick="fnElectrical()">Electrical system</a>
+		<a href="#" id="GrLivArea" onclick="fnGrLivArea()">Ground Living Area</a>
+		<a href="#" id="BedroomAbvGr" onclick="fnBedroomAbvGr()">Number of Bedrooms</a>
+		<a href="#" id="YrSold" onclick="fnYrSold()">Sale Year</a>
+		<a href="#" id="SaleType" onclick="fnSaleType()">Sale Type</a>
+		<a href="#" id="SaleCondition" onclick="fnSaleCondition()">Sale Condition</a>
+		<a href="#" id="SalePrice" onclick="fnSalePrice()">Sale Price</a>
+		</div>
+	  </div>
+	
+	<div class="slidecontainer" id = "binWidthUpdate" style="visibility:hidden">	
+			<p>Drag left or right to reduce or increase binCounts</p>
+			<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+	</div>
+
+	<div class="container">
+			<svg id ="chart" class = "container" >
+				<rect></rect>
+			</svg>
+	</div>
+	
+</body> 
+</html>
+

@@ -1,0 +1,99 @@
+
+        html, body {
+            height: 100%;
+            margin: 0px;
+        }
+        .container {
+            height: 83%;
+			width: 100%;
+		}
+		.dropbtn {
+			background-color: black;
+			color: white;
+			padding: 16px;dropdown-content
+			font-size: 16px;
+			border: none;
+			cursor: pointer;
+			width: 250px;
+}
+
+.heading{
+  float:left;
+}
+.rect{
+  float:left;
+  height: 90px; /* or whatever you want */
+  position:relative;
+  width: 86%; /* or whatever you want */
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 250px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: darkgray}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .btn {
+  background-color: darkblue;
+}
+
+.slidecontainer {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 700px;
+  height: 25px;
+  background: black;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: aquamarine;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: aquamarine;
+  cursor: pointer;
+}
