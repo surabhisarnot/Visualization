@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSE 564 Lab 2</title>
+    <script src="../static/screeplot.js"></script>
+    <script src="../static/scatterplot.js"></script>
+    <script src="../static/matrix.js"></script>
+    <script src="../static/menu.js"></script>
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet.css">
+
+    <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+<div id="heading">
+	<div class="rect"><center><h1>CSE 564 - Visualization Miniproject 2<br>FIFA Players Dataset</h1></center></div>
+</div>
+
+<div class="dropdown">
+			<button class="dropbtn">Original data</button>
+		<div class="dropdown-content">
+		<a href="#" onclick="get_scree_plot_data('/scree_plot_original')">PCA Scree Plot</a>
+		<a href="#" onclick="get_top_2_pca_data('/top_2_pca_o')">Top 2 PCA Vectors - Scatter Plot</a>
+		<a href="#" onclick="get_mds_euclidean_data('/mds_euclidean_o')">MDS(Euclidean distance) - Scatter Plot</a>
+		<a href="#" onclick="get_mds_correlation_data('/mds_correlation_o')">MDS(Correlation distance) - Scatter Plot</a>
+		<a href="#" onclick="get_top_3_pca_attr_data('/top_3_pca_attr_o')">Top 3 PCA loaded attributes - Scatter Matrix</a>
+		</div>
+	  </div>
+<div class="dropdown">
+		<button class="dropbtn">Random Sampling</button>
+		<div class="dropdown-content">
+		<a href="#" onclick="get_scree_plot_data('/scree_plot_random')">PCA Scree Plot</a>
+		<a href="#" onclick="get_top_2_pca_data('/top_2_pca_r')">Top 2 PCA Vectors - Scatter Plot</a>
+		<a href="#" onclick="get_mds_euclidean_data('/mds_euclidean_r')">MDS(Euclidean distance) - Scatter Plot</a>
+		<a href="#" onclick="get_mds_correlation_data('/mds_correlation_r')">MDS(Correlation distance) - Scatter Plot</a>
+		<a href="#" onclick="get_top_3_pca_attr_data('/top_3_pca_attr_r')">Top 3 PCA loaded attributes - Scatter Matrix</a>
+		</div>
+	  </div>
+<div class="dropdown">
+		<button class="dropbtn">Adaptive Sampling</button>
+		<div class="dropdown-content">
+		<a href="#" onclick="get_scree_plot_data('/scree_plot_stratified')">PCA Scree Plot</a>
+		<a href="#" onclick="get_top_2_pca_data('/top_2_pca_s')">Top 2 PCA Vectors - Scatter Plot</a>
+		<a href="#" onclick="get_mds_euclidean_data('/mds_euclidean_s')">MDS(Euclidean distance) - Scatter Plot</a>
+		<a href="#" onclick="get_mds_correlation_data('/mds_correlation_s')">MDS(Correlation distance) - Scatter Plot</a>
+		<a href="#" onclick="get_top_3_pca_attr_data('/top_3_pca_attr_s')">Top 3 PCA loaded attributes - Scatter Matrix</a>
+		</div>
+	  </div>
+
+</body>
+</html>

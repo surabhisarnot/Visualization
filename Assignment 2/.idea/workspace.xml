@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8459af08-eb69-48e9-86fd-335a3e410245" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YzEox9lbqS099S0kAiZApYQKFR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Surabhi\Stony Brook\CSE 564 Visualization\Assignments\A2\Project\static" />
+      <recent name="D:\Surabhi\Stony Brook\CSE 564 Visualization\Assignments\A2\Project" />
+      <recent name="D:\Surabhi\Stony Brook\CSE 564 Visualization\Assignments\A2\Project\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="A2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Surabhi\Stony Brook\CSE 564 Visualization\Assignments\A2\Project\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.A2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8459af08-eb69-48e9-86fd-335a3e410245" name="Default Changelist" comment="" />
+      <created>1583937200812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583937200812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="161" key="#app" timestamp="1585523842187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="161" key="#app/0.0.1920.1040@0.0.1920.1040" timestamp="1585523842187" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1587911242231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587911242231" />
+    <state width="1899" height="42" key="GridCell.Tab.0.bottom" timestamp="1586314129307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="42" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586314129307" />
+    <state width="1899" height="42" key="GridCell.Tab.0.center" timestamp="1586314129307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="42" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586314129307" />
+    <state width="1899" height="42" key="GridCell.Tab.0.left" timestamp="1586314129307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="42" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586314129307" />
+    <state width="1899" height="42" key="GridCell.Tab.0.right" timestamp="1586314129307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="42" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586314129307" />
+    <state x="426" y="63" key="SettingsEditor" timestamp="1585523854716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="426" y="63" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585523854716" />
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586302559371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586302559371" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1587911228137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587911228137" />
+    <state x="667" y="281" width="586" height="478" key="find.popup" timestamp="1586301046746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="281" width="586" height="478" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586301046746" />
+    <state x="1103" y="225" width="670" height="676" key="search.everywhere.popup" timestamp="1586301050915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="225" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586301050915" />
+  </component>
+</project>
