@@ -1,0 +1,23 @@
+.svgLeft1{
+    position: absolute;
+    top: 100px;
+}
+.svgLeft2{
+    position: absolute;
+    top: 530px;
+}
+.svgRight1{
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
+.svgRight2{
+    position: absolute;
+    top: 530px;
+    left: 700px;
+}
+.svgRight3{
+    position: absolute;
+    top: 270px;
+    left: 1200px;
+}

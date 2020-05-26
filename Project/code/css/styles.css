@@ -1,0 +1,92 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+
+.container {
+    height: 83%;
+    width: 100%;
+}
+
+/*s Class he for header*/
+.he {
+    padding: 5px;
+    text-align: center;
+    background-color: #9ecae1;
+}
+
+.rect {
+    float: left;
+    height: 90px;
+    position: relative;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+path {
+    stroke-width: 2;
+}
+.linetime {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2px;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+svg {
+    font: 10px sans-serif;
+}
+div.tooltip {
+    color: #222;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px 0px #a6a6a6;
+    padding: .2em;
+    text-shadow: #f5f5f5 0 1px 0;
+    opacity: 0.9;
+    position: absolute;
+}
+.hidden {
+    display: none;
+}
+.background path {
+    fill: none;
+    stroke: #ddd;
+    shape-rendering: crispEdges;
+}
+
+.foreground path {
+    fill: none;
+    stroke: steelblue;
+}
+
+.brush .extent {
+    fill-opacity: .3;
+    stroke: #fff;
+    shape-rendering: crispEdges;
+}
+
+.axis line,
+.axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+    cursor: move;
+}
+
+/* selected brushing dimension */
+g.dimension.selected .axis path.domain {
+    stroke: red;
+    stroke-width: 2px;
+}
